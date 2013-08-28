@@ -1,0 +1,101 @@
+CODE,LB_DEPARTEMENTS,TYPE_DELIBS_ACCESSIBLES_WEB
+1,Ain,100,00%
+2,Aisne,100,00%
+3,Allier,100,00%
+4,Alpes Haute Provence,66,67%
+5,Hautes Alpes ,100,00%
+6,Alpes Maritimes,100,00%
+7,Ardèches,100,00%
+8,Ardennes ,100,00%
+9,Ariège,0,00%
+10,Aube,0,00%
+11,Aude ,0,00%
+12,Aveyron ,100,00%
+13,Bouches du Rhône,33,33%
+14,Calvados,0,00%
+15,Cantal,0,00%
+16,Charente,66,67%
+17,Charente Maritime ,0,00%
+18,Cher,100,00%
+19,Corrèze,100,00%
+2A,Corse du Sud,0,00%
+2B,Haute Corse,0,00%
+21,Côtes d'Armor,66,67%
+22,Côtes d'or,33,33%
+23,Creuse,66,67%
+24,Dordogne,66,67%
+25,Doubs,100,00%
+26,Drôme,66,67%
+27,Eure,0,00%
+28,Eure-et-Loire,66,67%
+29,Finistère,66,67%
+30,Gard,100,00%
+31,Haute Garonne,0,00%
+32,Gers,0,00%
+33,Gironde,0,00%
+34,Hérault,66,67%
+35,Ille et Vilaine,100,00%
+36,Indre ,100,00%
+37,Indre et Loire,100,00%
+38,Isère,33,33%
+39,Jura,100,00%
+40,Landes,100,00%
+41,Loir et Cher,66,67%
+42,Loire,66,67%
+43,Haute Loire,0,00%
+44,Loire Atlantique,100,00%
+45,Loiret,100,00%
+46,Lot,66,67%
+47,Lot et Garonne,100,00%
+48,Lozère,100,00%
+49,Maine et Loire,100,00%
+50,Manche,100,00%
+51,Marne,100,00%
+52,Haute Marne,66,67%
+53,Mayenne,100,00%
+54,Meurthe et Moselle,100,00%
+55,Meuse,0,00%
+56,Morbihan,66,67%
+57,Moselle,0,00%
+58,Nièvre,66,67%
+59,Nord,100,00%
+60,Oise,66,67%
+61,Orne,66,67%
+62,Pas de Calais,100,00%
+63,Puy de Dôme,66,67%
+64,Pyrénées Atlantiques,100,00%
+65,Hautes Pyrénées,100,00%
+66,Pyrénées Orientales,66,67%
+67,Bas Rhin,66,67%
+68,Haut Rhin,100,00%
+69,Rhône,100,00%
+70,Haute Saone,66,67%
+71,Saone et Loire,100,00%
+72,Sarthe,66,67%
+73,Savoie,0,00%
+74,Haute Savoie,66,67%
+75,Paris,100,00%
+76,Seine Maritime,66,67%
+77,Seine et Marne,100,00%
+78,Yvelines,100,00%
+79,Deux Sèvres,66,67%
+80,Somme,0,00%
+81,Tarn,100,00%
+82,Tarn et Garonne,100,00%
+83,Var,0,00%
+84,Vaucluse,0,00%
+85,Vendée,0,00%
+86,Vienne,66,67%
+87,Haute Vienne,0,00%
+88,Vosges,100,00%
+89,Yonne,0,00%
+90,Territoire de Belfort,33,33%
+91,Essonne,100,00%
+92,Hauts de Seine,66,67%
+93,Seine St Denis,100,00%
+94,Val de Marne,100,00%
+95,Val d'Oise,66,67%
+F,Moyenne Dép France Métro,64,58%
+,,
+min,valeur min,0,00%
+max,valeur max,100,00%

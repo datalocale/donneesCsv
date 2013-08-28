@@ -1,0 +1,37 @@
+INDIC,DESCRIPTION,ANNEE,VALEUR,PROJECTION_2011,PROJECTION_2016,VALEUR_REFERENCE
+RES-DDM,Tonnage total résiduel DDM,2006,1115.313,1506,1673,
+RES-DDM,Tonnage total résiduel DDM,2007,1320.936,1506,1673,
+RES-DV,Tonnage total résiduel déchets verts,2006,7559.362,0,0,
+RES-DV,Tonnage total résiduel déchets verts,2007,1916.95,0,0,
+RES-ENC,Tonnage total résiduel encombrants,2006,110221.453,69592,51898,
+RES-ENC,Tonnage total résiduel encombrants,2007,112886.627,69592,51898,
+RES-INERT(3),Tonnage total résiduel inertes (Classe 3),2006,15201.23,17404,7214,
+RES-INERT(3),Tonnage total résiduel inertes (Classe 3),2007,18513.03,17404,7214,
+V-CS-1,Tonnage total valorisé des emballages hors verre (Acier/Alu-EMR/ELA-plastiques),2006,15700.297,28094,30996,
+V-CS-1,Tonnage total valorisé des emballages hors verre (Acier/Alu-EMR/ELA-plastiques),2007,18178.634,28094,30996,
+V-CS-2,Tonnage total valorisé Journaux-revues-magazines,2006,36814.902,37342,41155,
+V-CS-2,Tonnage total valorisé Journaux-revues-magazines,2007,40900.726,37342,41155,
+V-CS-3,Tonnage total valorisé Verre,2006,36158.87,45157,55477,
+V-CS-3,Tonnage total valorisé Verre,2007,37337.09,45157,55477,
+V-CS-4-B,Tonnage total valorisé EMR/ELA,2006,9299.86,14913,16988,24198
+V-CS-4-B,Tonnage total valorisé EMR/ELA,2007,11058.814,14913,16988,24198
+V-CS-4-C,Tonnage total valorisé Plastiques,2006,4348.399,6051,6795,25936
+V-CS-4-C,Tonnage total valorisé Plastiques,2007,4739.828,6051,6795,25936
+V-CS-4-D,Tonnage total valorisé Acier/alu,2006,1856.148,7130,7212,9759
+V-CS-4-D,Tonnage total valorisé Acier/alu,2007,2138.812,7130,7212,9759
+V-CS-OBJ2,Tonnage total valorisé Biodéchets,2006,3016.8,7901,11925,
+V-CS-OBJ2,Tonnage total valorisé Biodéchets,2007,4289.2,7901,11925,
+V-ENC-1,Tonnage total des D3E,2006,610.361,7505,8725,
+V-ENC-1,Tonnage total des D3E,2007,1129.533,7505,8725,
+V-ENC-3,Tonnage total des ferrailles-déchèteries,2006,12709.223,16180,17324,
+V-ENC-3,Tonnage total des ferrailles-déchèteries,2007,10904.604,16180,17324,
+V-ENC-4,Tonnage total des bois-déchèteries,2006,19781.347,22102,23762,
+V-ENC-4,Tonnage total des bois-déchèteries,2007,25042.97,22102,23762,
+V-ENC-5,Tonnage total des cartons-déchèteries,2006,5977.23,6071,6509,
+V-ENC-5,Tonnage total des cartons-déchèteries,2007,6106.293,6071,6509,
+V-ENC-6,Tonnage total des autres recyclables,2006,109,0,0,
+V-ENC-6,Tonnage total des autres recyclables,2007,716.47,0,0,
+VAL-DV,Tonnage total valorisé des déchets verts,2006,120189.016,123393,125160,
+VAL-DV,Tonnage total valorisé des déchets verts,2007,141760.647,123393,125160,
+VAL-INERT,Tonnage total valorisé des inertes,2006,54315.497,43466,53138,
+VAL-INERT,Tonnage total valorisé des inertes,2007,52435.438,43466,53138,

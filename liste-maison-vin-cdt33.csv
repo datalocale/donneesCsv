@@ -1,0 +1,26 @@
+TYPES_DE_PRODUITS,RAISON_SOCIALE,ADRESSE,ADRESSE_SUITE,CODE_POSTAL,COMMUNE,TELEPHONE,SITE_WEB,MARQUES_ET_LABELS,TOURISME_ET_HANDICAP,LONGITUDE,LATITUDE
+Vins,Maison des Vins du Haut-Benauge,Château Les Tuileries,Lieu dit Gouas,33760,ARBIS,+33 5 56 23 61 70,www.bordeaux-haut-benauge.com,,,-0.241887,44.683388
+Vins,Maison du Vin de Barsac,place de l'Eglise,,33720,BARSAC,+33 5 56 27 15 44,www.maisondebarsac.fr,,,-0.3140223,44.609367
+Vins,Planète Bordeaux,1 route de Pasquina,RN 89 - Sortie n°5,33750,BEYCHAC-ET-CAILLAU,+33 5 57 97 19 20;+33 5 56 97 19 38,www.planete-bordeaux.fr,Vignobles et Chais en Bordelais,Handicap mental;Handicap moteur,-0.3998637,44.87473
+Vins,Maison du Vin de Blaye,12 cours Vauban,,33390,BLAYE,+33 5 57 42 91 19,www.vin-blaye.com,Vignobles et Chais en Bordelais,,-0.663386,45.12678
+Vins,Maison du Vin de Bordeaux,3 cours du XXX Juillet,,33000,BORDEAUX,+33 5 56 00 22 88,www.bordeaux.com,,,-0.5745935,44.843243
+Vins,Maison du Vin des Côtes de Bourg,1 place de l'Eperon,,33710,BOURG,+33 5 57 94 80 20;+33 5 57 68 22 28,www.cotes-de-bourg.com,Vignobles et Chais en Bordelais,,-0.5557,45.040703
+Vins,Maison des vins de Cadillac - La Closière,104-106 rue Cazeaux-Cazalet,,33410,CADILLAC,+33 5 57 98 19 20,www.cadillaccotesdebordeaux.com ,Vignobles et Chais en Bordelais,,-0.318445,44.63532
+Vins,Maison du Vin des Côtes de Castillon,6 allées de la République,,33350,CASTILLON-LA-BATAILLE,+33 5 57 40 00 88,www.cotes-de-castillon.com,,,-0.0425505,44.853085
+Vins,Maison des Vins de Fronsac,rue du Tertre,,33126,FRONSAC,+33 5 57 51 80 51,www.vins-fronsac.com,Vignobles et Chais en Bordelais,,-0.2705812,44.923405
+Vins,Maison des Vins de l'Entre-deux-Mers,16, rue de l'Abbaye,,33670,LA SAUVE,+33 5 57 34 32 12,www.vins-entre-deux-mers.com,Vignobles et Chais en Bordelais,,-0.312766,44.7676
+Vins,Syndicat Viticole de Lalande de Pomerol,2, rue du 8 mai 1945,,33500,LALANDE-DE-POMEROL,+33 5 57 25 21 60,www.lalande-pomerol.com,,,-0.236433,44.952396
+Vins,Maison du Vin de Margaux,place de la Trémoille,,33460,MARGAUX,+33 5 57 88 70 82,www.maisonduvindemargaux.com,,,-0.678266,45.044125
+Vins,Maison du Vin de Montagne Saint-Emilion,place de l'Eglise,,33570,MONTAGNE,+33 5 57 74 60 13,www.montagnesaintemilion.com,,,-0.1284027,44.929565
+Vins,Maison du Vin de Moulis,place de Grand Poujeaux,423 avenue de la Gironde,33480,MOULIS-EN-MEDOC,+33 5 56 58 32 74,www.moulis.com,,,-0.74366,45.077286
+Vins,Maison du Tourisme et du Vin de Pauillac,La Verrerie,,33250,PAUILLAC,+33 5 56 59 03 08 ,www.pauillac-medoc.com  ,,,-0.7577133,45.208046
+Vins,Maison des Vins de Graves,61 cours du Maréchal Foch,,33720,PODENSAC,+33 5 56 27 09 25,www.vins-graves.com,Vignobles et Chais en Bordelais,,-0.361513,44.654007
+Vins,Maison des Vins de Pomerol,8 rue de Trochau,,33500,POMEROL,+33 5 57 25 06 88,www.vins-pomerol.fr,,,-0.199961,44.931015
+Vins,Maison du Fleuve et des Vins,6, rue Notre-Dame,,33220,PORT-SAINTE-FOY,+33 5 53 58 37 34,www.saintefoy-bordeaux.com,,,0.2096,44.842896
+Vins,Maison des vins de Sainte-Croix-du-Mont,Le Bourg,,33410,SAINTE-CROIX-DU-MONT,+33 5 56 62 01 54,www.sainte-croix-du-mont.com ,,,-0.2828657,44.593533
+Vins,Maison du Vin de Saint-Emilion,place Pierre Meyrat,,33330,SAINT-EMILION,+33 5 57 55 50 55,www.vins-saint-emilion.com,,,-0.157059,44.893913
+Vins,Maison du Vin de Saint-Estèphe,place de l'Eglise,,33180,SAINT-ESTEPHE,+33 5 56 59 30 59,www.vins-saint-estephe.com,,,-0.78779,45.28538
+Vins,Maison du Tourisme et du Vin,Espace Paul Daumains,,33180,SAINT-SEURIN-DE-CADOURNE,+33 5 56 59 84 14,www.saint-seurin-de-cadourne.fr,,,-0.788684,45.30252
+Vins,Maison du Sauternes,14 place de la Mairie,,33210,SAUTERNES,+33 5 56 76 69 83,www.maisondusauternes.com,,,-0.3417778,44.531696
+Vins,Maison des Vins du Sauveterrois,Office de Tourisme,2, rue Saint Romain,33540,SAUVETERRE-DE-GUYENNE,+33 5 56 71 53 45,www.entredeuxmers.com ,,,-0.085669,44.692757
+Vins,Maison des Vins des Graves de Vayres,place du Général de Gaulle,,33870,VAYRES,+33 5 57 74 86 42,www.gravesdevayres.fr,Vignobles et Chais en Bordelais,,-0.314213,44.89756

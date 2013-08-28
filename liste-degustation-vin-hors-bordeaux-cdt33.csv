@@ -1,0 +1,100 @@
+TYPES_DE_PRODUITS,STATUT,RAISON_SOCIALE,ADRESSE,ADRESSE_SUITE,ADRESSE_SUITE_2,CODE_POSTAL,COMMUNE,TELEPHONE,SITE_WEB,MARQUES_ET_LABELS,LONGITUDE,LATITUDE
+Confiserie / chocolat,Producteur,Mademoiselle de Margaux,1 route de l'Ile Vincent,,,33460,MARGAUX,+33 5 57 88 39 90;+33 5 57 88 55 22,www.mademoiselledemargaux.com,,-0.678266,45.044125
+Bières,Brasseur,Brasserie artisanale de l'Entre-deux-Bières,Les Blanchets-Nanot,,,33540,MAURIAC,+33 5 56 71 17 57,www.entre-deux-bieres.com,,-0.0174285,44.74428
+Confiserie / chocolat;Pâtisserie,Producteur,Chocolaterie des Lys,1 place Darniche,,,33580,MONSEGUR,+33 5 56 61 43 24,,,0.080653,44.650795
+Spiritueux,Producteur,Maison Lillet,8 cours du Maréchal Foch,,,33720,PODENSAC,+33 5 56 27 41 41,www.lillet.com,,-0.3611326,44.654243
+Produit apicole,Producteur,Terre de Miel,Lieu dit Pied Plat,,,33490,SAINT-GERMAIN-DE-GRAVE,+33 5 56 76 77 50,,,-0.2186402,44.620724
+Produit apicole,Producteur,Monsieur Yannick SULPICE,260 Dariet,,,33650,SAINT-MORILLON,+33 5 56 92 37 24,,,-0.50279,44.636036
+Fruits de mer,Producteur,Ferme aquacole Eau-Médoc,Port de Saint-Vivien,,,33590,SAINT-VIVIEN-DE-MEDOC,+33 5 56 09 58 32,http://eau-medoc.typepad.com/ ,Bienvenue à la Ferme,-1.063227,45.442036
+Fruits de mer,Producteur,Ferme aquacole La Petite Canau,Port de Saint-Vivien,,,33590,SAINT-VIVIEN-DE-MEDOC,+33 5 56 09 49 66,www.bienvenue-a-la-ferme.com/gironde/ferme-ferme-aquacole-la-petite-canau-63114/contact_plan_acces ,Bienvenue à la Ferme,-1.063227,45.442036
+Produit apicole,Producteur,Savimiel,,,,33124,SAVIGNAC,+33 5 56 65 46 16,,,-0.108048,44.49174
+Fruits / légumes;Huile,Producteur,Moulin de Virac,Le Bourg,,,33580,TAILLECAVAT,+33 5 56 61 62 66,,,0.15140533,44.645206
+Fromage,Producteur,SCEA Bois majou,,,,33124,AILLAS,+33 5 56 61 19 33,,,-0.05506,44.50646
+Fruits de mer;Huître,Producteur,L'Atelier SCEA,37 bis avenue du Cdt David Allègre,,,33510,ANDERNOS-LES-BAINS,+33 6 63 33 43 83;+33 6 63 33 61 47,,,-1.1084175,44.74381
+Fruits de mer;Huître,Producteur,Monsieur Bernard LAHAYE "Chez Huguette",1 avenue du Cdt David Allègre,,,33510,ANDERNOS-LES-BAINS,+33 5 56 82 11 07,,,-1.111679,44.743076
+Fruits de mer;Huître,Producteur,Monsieur Bernard ROSSIGNOL,72 quai Lucasson,Cabane n°72,,33510,ANDERNOS-LES-BAINS,+33 5 56 03 42 81,,,-1.1108207,44.74332
+Fruits de mer;Huître,Producteur,Monsieur Joël LAHAYE "La Station des Gus",20 quai Lahillon,Cabane n°20,,33510,ANDERNOS-LES-BAINS,+33 5 57 70 29 12,,,-1.1092758,44.74271
+Fruits de mer;Huître,Producteur,Monsieur Patrick LAHAYE,Quai du Lucasson,Cabane n°77,,33510,ANDERNOS-LES-BAINS,+33 5 56 03 19 26,,,-1.1082458,44.74381
+Fruits de mer;Huître,Producteur,Monsieur Stéphane BOUCHER,48 quai Lahillon,Cabane n°48,,33510,ANDERNOS-LES-BAINS,+33 6 99 02 64 10,,,-1.1092758,44.743076
+Volailles,Producteur,Ferme de Vertessec,25 route de Bordeaux,,,33480,AVENSAN,+33 5 56 58 15 53,www.fermedevertessec.com ,Bienvenue à la Ferme,-0.768078,45.00444
+Fruits / légumes;Viandes,Producteur,Ferme de Pingaillon - Gaec Doux,Pingaillon,,,33430,BAZAS,+33 5 56 25 00 61,www.bienvenue-a-la-ferme.com/gironde/ferme-ferme-de-pingaillon-150736/contact_plan_acces ,Bienvenue à la Ferme,-0.192174,44.437164
+Piment,Producteur,Safran de Garonne,La Safranière du Cabanon,Chemin Profond,,33410,BEGUEY,+33 5 56 62 16 64,,,-0.3222585,44.649166
+Fruits / légumes;Confitures,Producteur,Ferme Lagardère,1 Barère,,,33210,BIEUJAC,+33 5 56 62 85 66,www.bienvenue-a-la-ferme.com/gironde/ferme-la-ferme-lagardere-298269/contact_plan_acces ,Bienvenue à la Ferme,-0.164744,44.53485
+Confitures,Récoltant éleveur,Miellerie de Vigneau,18 chemin de Jouglas,,,33380,BIGANOS,+33 5 57 70 67 56,www.tourisme-coeurdubassin.com,,-0.9997688,44.664566
+Huître,Producteur,Le Jardin des Senteurs,71 chemin des Sardies,,,33380,BIGANOS,+33 6 86 61 01 81,www.lejardindessenteurs.com,,-0.976619,44.642113
+Confiserie / chocolat,Producteur,Les Noisettines du Médoc,1 La Landette,,,33340,BLAIGNAN,+33 5 56 09 03 09,www.noisettines.fr,,-0.873928,45.3256
+Confiserie / chocolat,Producteur,La Figue du Roy,Pâtisserie Blanleil,Rue du 4 Septembre,,33710,BOURG,+33 5 57 68 45 78;+33 5 57 68 31 76,,,-0.558689,45.039654
+Escargots;Fruits / légumes;Confitures,Producteur,Ferme de la Noune,1 rue Noune,,,33480,BRACH,+33 5 56 58 21 94,www.bienvenue-a-la-ferme.com/en/gironde/ferme-ferme-de-la-noune-152635/contact_plan_acces ,Bienvenue à la Ferme,-0.92247,45.044537
+Viandes,Producteur,Les Sonnailles de la Lande,2 La Lande de Laborde,,,33650,CABANAC-ET-VILLAGRAINS,+33 6 16 70 07 56,,,-0.5061435,44.61051
+Volailles,Producteur,Elevage des Barthes,48 route de Créon,,,33750,CAMARSAC,+33 5 56 30 17 75,www.bienvenue-a-la-ferme.com/gironde/ferme-elevage-des-barthes-54145/contact_plan_acces ,Bienvenue à la Ferme,-0.361129,44.822277
+Fromage,Producteur,Ferme Manieu Noël,1 Manieu Noël,,,33760,COURPIAC,+33 5 56 23 62 41,www.bienvenue-a-la-ferme.com/en/gironde/ferme-ferme-manieu-noel-71690,Bienvenue à la Ferme,-0.182088,44.755104
+Bières,Brasseur,La Brasserie Saint Léon,48 boulevard de Verdun,,,33670,CREON,+33 6 09 79 60 32,www.brasseriesaintleon.com,,-0.346992,44.77306
+Fromage,Producteur,Bergerie de Daignac,,,,33420,DAIGNAC,+33 6 81 45 88 66,www.bienvenue-a-la-ferme.com/gironde/ferme-bergerie-de-daignac-176418,Bienvenue à la Ferme,-0.249268,44.798996
+Fromage,Producteur,Madame Louise ATHERET,Coussillon,,,33760,FRONTENAC,+33 6 62 74 16 98,,,-0.14724,44.734886
+Fruits / légumes,Producteur,Ferme Saint-Henri,Maison Saint-Henri,B.P. 22,,33470,GUJAN-MESTRAS,+33 5 56 66 94 01,www.fermesainthenri.fr ,Bienvenue à la Ferme,-1.0719911,44.63664
+Fruits de mer;Huître,Producteur,Cabane 118,118 Port de la Barbotière,Digue Est,,33470,GUJAN-MESTRAS,+33 6 84 98 06 84,,,-1.056688,44.64338
+Fruits de mer;Huître,Producteur,Cap Noroît,14 port de Larros,,,33470,GUJAN-MESTRAS,+33 5 56 66 04 15,,,-1.0718321,44.641163
+Fruits de mer;Huître,Producteur,Chai Jérémie,Port de Larros,Cabane N°245,Jetée du Christ,33470,GUJAN-MESTRAS,+33 6 50 31 37 60;+33 6 73 00 47 30,,,-1.0738277,44.644047
+Fruits de mer;Huître,Producteur,Chez Marie,45 port de La Hume,,,33470,GUJAN-MESTRAS,+33 5 56 66 18 12,,,-1.1165994,44.6416
+Fruits de mer;Huître,Producteur,Delsart "La Passerelle",71 port de Gujan,10 rue du Général Chanzy,,33470,GUJAN-MESTRAS,+33 6 84 55 13 81,,,-1.0772609,44.64101
+Fruits de mer;Huître,Producteur,Javernaud et fils,54 Port de la Barbotière Ouest,,,33470,GUJAN-MESTRAS,+33 5 56 66 02 74,http://huitres.javernaud.free.fr/visite.php,,-1.0717731,44.63593
+Fruits de mer;Huître,Producteur,La Cabane 301,Port de Larros,Digue centrale,,33470,GUJAN-MESTRAS,+33 5 56 66 78 72,http://lacabane301.com,,-1.0724651,44.643238
+Fruits de mer;Huître,Producteur,Le Routioutiou,Port de Larros,,,33470,GUJAN-MESTRAS,+33 6 43 34 75 72,,,-1.0735595,44.642742
+Fruits de mer;Huître,Producteur,Les Océanes,Port de Meyran Ouest -cidex 4,Allée des Prés Salés,,33470,GUJAN-MESTRAS,+33 5 56 66 23 04,www.huitres-lesoceanes.com,,-1.1019587,44.64272
+Fruits de mer;Huître,Producteur,Monsieur Fabrice DUSSAN,109 port de Gujan,,,33470,GUJAN-MESTRAS,+33 5 57 73 01 65,,,-1.0772609,44.641056
+Huître,Producteur,Les Richesses d'Arguin,Port de La Hume 12 - 15,,,33470,GUJAN-MESTRAS,+33 6 14 38 93 26,,,-1.1161896,44.64264
+Huître,Producteur,Monsieur Bernard DELIS,81 port de Larros,,,33470,GUJAN-MESTRAS,+33 6 14 60 54 93;+33 6 25 01 68 13,www.etablissement-b-delis.com,,-1.0736453,44.643078
+Confitures,Producteur,Confitures solaires Ogizo,6 rue du Vieux Moulin,,,33990,HOURTIN,+33 6 07 35 11 90,www.ogizo.fr,,-1.0613704,45.186913
+Escargots,Producteur,L'Escargot Lilais,48 route de Boutric,,,33640,ISLE-SAINT-GEORGES,+33 5 56 72 63 38,www.lescargotlilais.com,,-0.461937,44.724308
+Confitures,Producteur,Madame Catherine BERNHARD,Chemin Feyteau,,,33650,LA BREDE,+33 6 32 65 14 03,http://miam.miam.confitures.free.fr,,-0.518968,44.691967
+Foie gras,Producteur,Moulin de la Molle,64 avenue du Château,,,33650,LA BREDE,+33 5 56 20 20 79,www.moulin-de-la-molle.fr,,-0.5448337,44.673958
+Confiserie / chocolat,Producteur,Chocolaterie Confiserie Brossard,9 rue Gambetta,,,33190,LA REOLE,+33 5 56 61 39 39,,,-0.03666,44.58243
+Confiserie / chocolat,Producteur,Les Gourmandises d'Aliénor,251 avenue du Parc des Expositions,,,33260,LA TESTE-DE-BUCH,+33 5 56 54 10 83,www.alienorchocolat.com,,-1.116904,44.615883
+Fruits de mer;Huître,Producteur,Cabane 166 - Madame Angélika HERMANN,Avenue Ovide Rousset - Digue Ouest,,,33260,LA TESTE-DE-BUCH,+33 5 57 52 63 60,,,-1.1464834,44.641636
+Fruits de mer;Huître,Producteur,Cabane 167 - Ets Frédérique LABAT DUBERN,Avenue des Pêcheurs,Digue centrale,,33260,LA TESTE-DE-BUCH,+33 5 56 54 63 66,,,-1.1455178,44.64095
+Fruits de mer;Huître,Producteur,Cabane à Pitoux n°151 - Ets Rémi PEETERS,Avenue Ovide Rousset - Digue Ouest,,,33260,LA TESTE-DE-BUCH,+33 6 66 77 87 21;+33 6 18 50 77 87,,,-1.1466336,44.642292
+Fruits de mer;Huître,Producteur,Cabane du Paliquey n°6/7,Avenue Ovide Rousset - Digue Ouest,,,33260,LA TESTE-DE-BUCH,+33 5 56 66 73 91,,,-1.1454749,44.64098
+Fruits de mer;Huître,Producteur,Ets GARRIGUE Gérard et fils,75 avenue des Pêcheurs,Digue centrale,,33260,LA TESTE-DE-BUCH,+33 5 56 66 94 11,,,-1.1454945,44.64141
+Fruits de mer;Huître,Producteur,Kabane 171 - Monsieur Pierrick FRIBOURG,Avenue des Pêcheurs,Digue centrale,,33260,LA TESTE-DE-BUCH,+33 5 57 52 81 50,,,-1.1454945,44.64141
+Fruits de mer;Huître,Producteur,La Cabane à Gilou n°157 - Monsieur Gilles ROLLAND,Avenue Ovide Rousset - Digue Ouest,,,33260,LA TESTE-DE-BUCH,+33 6 16 73 65 41,,,-1.1464405,44.64266
+Fruits de mer;Huître,Producteur,La Cabane de l'Aiguillon n°54 - Madame Stéphanie DELARUE,Impasse Ostréa Edulis,Port de l'Aiguillon,,33260,LA TESTE-DE-BUCH,+33 5 56 54 88 20,www.lacabanedelaiguillon.com,,-1.1425444,44.652374
+Fruits de mer;Huître,Producteur,La Cabane de Laurinette n°15 - Madame Laure BOJON,Avenue des Pêcheurs,Digue centrale,,33260,LA TESTE-DE-BUCH,+33 5 57 73 62 88,http://lacabanedelaurinette.free.fr,,-1.1455821,44.641422
+Fruits de mer;Huître,Producteur,La cabane du Plageot n°18 - Monsieur Eric LATAPPY,Avenue des Pêcheurs,Digue centrale,,33260,LA TESTE-DE-BUCH,+33 6 87 20 27 45,,,-1.1454856,44.64091
+Huître,Producteur,Etablissements Sylvain JOUBERT,Avenue Ovide Rousset - Digue Ouest,,,33260,LA TESTE-DE-BUCH,+33 6 50 84 99 51,,,-1.146655,44.64287
+Caviar;Fruits de mer;Huître,Producteur,Balades Gourmandes,Office de Tourisme,Place Pierre Dubernet,,33470,LE TEICH,+33 5 56 22 80 46,www.leteich-tourisme.com,,-1.0214528,44.634533
+Fruits de mer;Huître,Producteur,Monsieur Nicolas COURBIN "La Baraque à Huîtres",38 ter rue des Plaines,,,33470,LE TEICH,+33 5 57 15 12 07,,,-1.0728406,44.642094
+Fruits de mer;Huître,Producteur,Cabane 171,Le Canon,,,33950,LEGE-CAP FERRET,+33 5 57 70 15 92,,,-1.229825,44.700935
+Fruits de mer;Huître,Producteur,Cabane 57,40 rue du Littoral,Piraillan,,33950,LEGE-CAP FERRET,+33 5 56 60 54 76,,,-1.2215423,44.708073
+Fruits de mer;Huître,Producteur,Cabane du Sémaphore,94 avenue de la Conche,Cap Ferret,,33970,LEGE-CAP FERRET,+33 9 81 96 61 67,,,-1.246283,44.637047
+Fruits de mer;Huître,Producteur,Chez Auguste,30 rue Berthelot,Village ostréicole de Petit Piquey,,33950,LEGE-CAP FERRET,+33 5 56 60 52 12,,,-1.2030029,44.72242
+Fruits de mer;Huître,Producteur,Chez Bertrand,60 quartier des Pêcheurs,Village ostréicole du Cap Ferret,,33970,LEGE-CAP FERRET,+33 6 63 91 84 88,,,-1.246431,44.641228
+Fruits de mer;Huître,Producteur,Chez Boulan,Place de la Douane,Village ostréicole du Cap Ferret,,33970,LEGE-CAP FERRET,+33 5 56 60 77 32,www.huitresboulan.fr,,-1.2459826,44.64307
+Fruits de mer;Huître,Producteur,Chez Degrave,8 quartier des Pêcheurs,Cap Ferret,,33970,LEGE-CAP FERRET,+33 6 60 95 47 10,www.huitres-degrave.com,,-1.2466049,44.644413
+Fruits de mer;Huître,Producteur,Chez Yannick,11 bis rue Sainte Catherine,Village ostréicole du Canon,,33950,LEGE-CAP FERRET,+33 5 56 60 92 67,,,-1.229271,44.699856
+Fruits de mer;Huître,Producteur,Dégustation de la Conche,Impasse de la Conche,Les Jacquets,,33950,LEGE-CAP FERRET,+33 5 57 76 30 63,,,-1.1957287,44.727406
+Fruits de mer;Huître,Producteur,Ets Larrarté,7 rue Sainte Catherine - Chai N°93,Village ostréicole du Canon,,33950,LEGE-CAP FERRET,+33 5 56 60 97 61,,,-1.2289452,44.698875
+Fruits de mer;Huître,Producteur,Ets Reveleau,190 route du Cap Ferret,Village ostréicole du Canon,,33950,LEGE-CAP FERRET,+33 5 56 60 53 99,,,-1.2295889,44.700523
+Fruits de mer;Huître,Producteur,Frédéric Séverin,Impasse du Grand Coin,Petit Piquey,,33950,LEGE-CAP FERRET,+33 6 03 16 75 93,,,-1.20477,44.721226
+Fruits de mer;Huître,Producteur,La Bonne Franquette,Cabane 8,Port ostréicole de Claouey,,33950,LEGE-CAP FERRET,+33 5 56 60 72 06,,,-1.1741209,44.746063
+Fruits de mer;Huître,Producteur,La Cabane d'Edouard,Cabane 1,Port ostréicole de Claouey,,33950,LEGE-CAP FERRET,+33 5 57 70 30 44,www.lacabanededouard.com,,-1.1740994,44.74559
+Fruits de mer;Huître,Producteur,La Cabane du Mimbeau,28 avenue de la Conche,Village ostréicole du Cap Ferret,,33970,LEGE-CAP FERRET,+33 5 56 60 61 67,www.bassindarcachon.com/pro/capostrea/,,-1.2461972,44.637802
+Fruits de mer;Huître,Producteur,Le Monte à Bord - Compagnie de l'Huître,104 avenue de L'Herbe,Village ostréicole de L'Herbe,,33950,LEGE-CAP FERRET,+33 5 56 03 64 60,,,-1.2324857,44.692516
+Fruits de mer;Huître,Producteur,Le Vivier du Jacquet,Impasse des Réservoirs,Village ostréicole des Jacquets,,33950,LEGE-CAP FERRET,+33 5 56 03 66 54,www.huitre33.com,,-1.195494,44.727695
+Fruits de mer;Huître,Producteur,Les Parcs du Noroît,30 allée du Grand Piquey,Village ostréicole de Grand Piquey,,33950,LEGE-CAP FERRET,+33 5 56 60 59 24,,,-1.210767,44.71572
+Fruits de mer;Huître,Producteur,Les Pieds dans l'Eau,Cabane 13,Le Four,,33950,LEGE-CAP FERRET,+33 5 56 60 76 59,www.lespieds-dansleau.com,Bienvenue à la Ferme,-1.1904716,44.732468
+Fruits de mer;Huître,Producteur,L'R de l'Aigle,Cabane 52,Village ostréicole de Piraillan,,33950,LEGE-CAP FERRET,+33 5 56 60 85 54,,,-1.2232375,44.707493
+Fruits de mer;Huître,Producteur,Madame Catherine ROUX,6 Escourre de la Douane,Village ostréicole du Cap Ferret,,33970,LEGE-CAP FERRET,+33 5 56 60 67 97,www.huitres-roux.com,,-1.2460899,44.64188
+Fruits de mer;Huître,Producteur,Monsieur Christophe MALEYRAN,32 impasse du Grand Coin,Village ostréicole de Petit Piquey,,33950,LEGE-CAP FERRET,+33 5 56 60 53 07,,,-1.20477,44.72123
+Fruits de mer;Huître,Producteur,Monsieur Grégory BOUCHER,Escourre de la Douane,Village ostréicole du Cap Ferret,21 avenue de l'Océan,33970,LEGE-CAP FERRET,+33 5 57 70 30 57,,,-1.2461328,44.641483
+Fruits de mer;Huître,Producteur,Monsieur Guillaume FOURNIER LAROQUE,83 avenue de L'Herbe,Village ostréicole de L'Herbe,,33950,LEGE-CAP FERRET,+33 6 17 08 11 20,,,-1.2325716,44.692104
+Fruits de mer;Huître,Producteur,Monsieur Jean-Louis NORA,Rue de la Conche - Chai N° 92,Village ostréicole du Cap Ferret,,33970,LEGE-CAP FERRET,+33 6 79 67 98 77,,,-1.2466049,44.64124
+Fruits de mer;Huître,Producteur,Monsieur Pascal TECHOUEYRES,20 avenue du Littoral,Village ostréicole de Piraillan,,33950,LEGE-CAP FERRET,+33 5 56 60 80 85,,,-1.221435,44.7076
+Fruits de mer;Huître,Producteur,Monsieur Pierre SAUBESTY,49 avenue de L'Herbe - Chai 119,Village ostréicole de L'Herbe,,33950,LEGE-CAP FERRET,+33 5 56 60 55 17,,,-1.2325716,44.691936
+Fruits de mer;Huître,Producteur,Monsieur Serge CASTAING,4 avenue de L'Herbe,Village ostréicole de L'Herbe,,33950,LEGE-CAP FERRET,+33 5 56 60 52 26,www.huitrecastaing.com,,-1.2325716,44.69148
+Fruits de mer;Huître,Producteur,Monsieur Sylvain FREDEFON,Cabane 4,Port ostréicole de Claouey,,33950,LEGE-CAP FERRET,+33 5 57 70 39 78,,,-1.1742925,44.746124
+Fruits de mer;Huître,Producteur,Monsieur Thierry PASCAUD,38 rue Sainte-Catherine,Le Canon,,33950,LEGE-CAP FERRET,+33 6 07 09 51 58,,,-1.2293042,44.699295
+Huître,Producteur,Ets Cruchon et Fille,Port de Claouey,Dernière cabane côté plage,Claouey,33950,LEGE-CAP FERRET,+33 6 99 34 06 89,,,-1.1736488,44.746307
+Huître,Producteur,Sandrine et Eric THUMEREL,40B rue Sainte-Catherine,Le Canon,,33950,LEGE-CAP FERRET,+33 5 56 60 15 22,,,-1.2293042,44.699295
+Confiserie / chocolat;Glaces;Pâtisserie,Producteur,La Marquisette,6 rue Jean-Jacques Rousseau,,,33340,LESPARRE-MEDOC,+33 5 56 41 00 49,www.lamarquisette33.fr,,-0.9403086,45.307007
+Foie gras;Conserverie,Producteur,Ferme du Moulinat,Le Roquet,,,33190,LOUBENS,+33 5 56 71 30 84,www.lafermedumoulinat.com,Bienvenue à la Ferme,-0.029519,44.630856
+Foie gras;Conserverie,Producteur,La Ferme Auberge de Biorne,,,,24130,LUNAS,+33 5 53 57 67 26,www.ferme-biorne.com,,0.4030075,44.91762

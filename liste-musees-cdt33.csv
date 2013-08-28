@@ -1,0 +1,80 @@
+TYPE,THEMES,RAISON_SOCIALE,ADRESSE,ADRESSE_SUITE,CODE_POSTAL,COMMUNE,TELEPHONE,SITE_WEB,LABELS,TOURISME_ET_HANDICAP,LONGITUDE,LATITUDE
+Centre d'interprétation ,Viticole,Planète Bordeaux,R.N. 89 - sortie n°5,1 route de Pasquina,33750,BEYCHAC-ET-CAILLAU,+33 5 57 97 19 20;+33 5 56 97 19 38,www.planete-bordeaux.fr,,Handicap mental;Handicap moteur,-0.3773975,44.87564
+Centre d'interprétation ,Environnement et nature,Centre d'interprétation de l'Estuaire de la Gironde,La Manutention,rue du 144ème RI,33390,BLAYE,+33 5 57 42 80 96,www.estuairegironde.net,,,-0.6657028,45.12847
+Centre d'interprétation ,Environnement et nature,Maison écocitoyenne de Bordeaux,Quai Richelieu,,33000,BORDEAUX,+33 5 24 57 65 20,maisoneco.blog.bordeaux.fr,,Handicap auditif;Handicap mental;Handicap moteur;Handicap visuel,-0.567257,44.83849
+Centre d'interprétation ,Ecomusée;Métier;Environnement et nature,Ecomusée du maraîchage,Château Lescombes,198 avenue du Taillan,33320,EYSINES,+33 5 56 28 46 62;+33 5 56 16 18 10,www.ville-eysines.fr,,,-0.653283,44.88143
+Centre d'interprétation ,Métier;Environnement et nature,La cabane du maraîcher,rue du Prado,,33320,EYSINES,+33 5 56 28 46 62;+33 5 56 16 18 10,www.ville-eysines.fr,,,-0.6609801,44.89309
+Centre d'interprétation ,Ecomusée;Viticole,Ecomusée de la Vigne et du Vin,238 cours du Général de Gaulle,,33170,GRADIGNAN,+33 5 56 89 00 79,www.ville-gradignan.fr,,,-0.615517,44.77099
+Centre d'interprétation ,Métier;Environnement et nature,Sur les traces du gemmeur,route de Biscarrosse,parking Plage de la Salie Nord,33115,PYLA-SUR-MER,+33 5 56 54 02 22;+33 5 56 54 63 14,www.tourisme-latestedebuch.fr,,,-1.2363052,44.527107
+Centre d'interprétation ,Environnement et nature,Terre & Ocean - Maison du patrimoine naturel du Créonnais,23 route de Créon,La Gare,33670,SADIRAC,+33 5 56 30 64 32,www.nature-creonnais.fr,,,-0.385361,44.78154
+Centre d'interprétation ,Environnement et nature,Jardin de la Lamproie,Lavagnac Nord,,33350,SAINTE-TERRE,+33 5 57 47 14 34,www.jardindelalamproie.fr,,,-0.1347541,44.819687
+Centre d'interprétation ,Ecomusée;Métier,Ecomusée du centre Médoc - Le Garde-Mémoire,4, place Saint-Pierre,,33180,VERTHEUIL,+33 5 56 41 97 23,www.ecomusee-vertheuil.fr,,,-0.834644,45.250465
+Musée,Histoire,Maison Louis David,avenue Pasteur,,33510,ANDERNOS-LES-BAINS,+33 5 56 82 02 95,www.andernoslesbains.fr,,,-1.0988506,44.74103
+Musée,Maritime,Le Petit Musée de l'Huître,,,33510,ANDERNOS-LES-BAINS,+33 5 56 82 02 95,www.andernoslesbains.fr,,,-1.1084175,44.743443
+Musée,Maritime;Sciences naturelles,Musée Aquarium d'Arcachon,2 rue Professeur Jolyet,,33120,ARCACHON,+33 5 56 54 89 28,www.arcachon.com ,,,-1.1638049,44.662704
+Musée,Art moderne / contemporain,Château d'Arsac,1 allée du Comte,,33460,ARSAC,+33 5 56 58 83 90,www.chateau-arsac.com,,,-0.708284,44.97906
+Musée,Archéologie;Histoire,Musée municipal de Bazas,2 place de la Cathédrale,,33430,BAZAS,+33 5 56 25 25 84,www.ville-bazas.fr,,,-0.211257,44.431293
+Musée,Arts décoratifs;Métiers,Apothicairerie de Bazas,Hôpital Saint-Antoine,,33430,BAZAS,+33 5 56 25 25 84,www.tourisme-bazadais.com,,,-0.2090835,44.435863
+Musée,Art moderne / contemporain,Musée de la Création Franche,58 avenue du Maréchal de Tassigny,,33130,BEGLES,+33 5 56 85 81 73;+33 5 56 49 34 72,www.musee-creationfranche.com,,,-0.542808,44.806065
+Musée,Art moderne / contemporain,La Forêt d'Art Contemporain,,,33380,BIGANOS,+33 6 78 11 23 31,www.laforetdartcontemporain.com,,,-0.976619,44.642113
+Musée,Histoire,Maison du Patrimoine,allées de Carpinet,,33290,BLANQUEFORT,+33 5 56 57 19 42,www.gahble.org,,,-0.631485,44.909664
+Musée,Archéologie;Histoire,Musée d'histoire de la citadelle de Blaye,La Manutention,Rue du 144ème RI,33390,BLAYE,+33 6 82 34 72 66,www.tourisme-blaye.com ,,,-0.6656169,45.128773
+Musée,Art moderne / contemporain,Base sous-marine,boulevard Alfred Daney,,33000,BORDEAUX,+33 5 56 11 11 50,www.bordeaux.fr ,,,-0.564274,44.870823
+Musée,Art moderne / contemporain,Institut culturel Bernard Magrez,16 rue de Tivoli,,33000,BORDEAUX,+33 5 56 44 49 24,www.institut-bernard-magrez.com,,,-0.5887918,44.85386
+Musée,Art moderne / contemporain,CAPC Musée d'Art Contemporain,7 rue Ferrère,,33000,BORDEAUX,+33 5 56 00 81 50,www.capc-bordeaux.fr,Famille Plus;Musée de France,,-0.574081,44.847946
+Musée,Artisanat,Musée des Compagnons du Tour de France,112 rue Malbec,,33000,BORDEAUX,+33 5 56 92 05 17,www.compagnons.org,,,-0.564921,44.82413
+Musée,Arts décoratifs,Musée des Arts Décoratifs,39 rue Bouffard,,33000,BORDEAUX,+33 5 56 10 14 00,www.bordeaux.fr,Famille Plus;Musée de France,,-0.579657,44.839024
+Musée,Beaux-Arts,FRAC - Collection Aquitaine,hangar G2,quai Armand Lalande,33000,BORDEAUX,+33 5 56 24 71 36,www.frac-aquitaine.net,,,-0.5542437,44.862297
+Musée,Beaux-Arts,Galerie des Beaux-Arts,place du Colonel Raynal,,33000,BORDEAUX,+33 5 56 96 51 60,www.bordeaux.fr,,,-0.582129,44.838634
+Musée,Beaux-Arts,Musée des Beaux Arts,20 cours d'Albret,,33000,BORDEAUX,+33 5 56 10 20 56,www.bordeaux.fr,,Handicap auditif;Handicap mental;Handicap moteur,-0.5815521,44.838387
+Musée,Histoire,Bordeaux Monumental,28 rue des Argentiers,,33000,BORDEAUX,+33 5 56 48 04 24,www.bordeaux-tourisme.com,Famille Plus,Handicap mental;Handicap moteur;Handicap visuel,-0.569638,44.83878
+Musée,Histoire,Musée National des Douanes,1 place de la Bourse,,33000,BORDEAUX,+33 5 56 48 82 82;+33 5 56 48 82 85,www.musee-douanes.fr,Famille Plus,,-0.569942,44.840996
+Musée,Histoire;Archéologie,Musée d'Aquitaine,20 cours Pasteur,,33000,BORDEAUX,+33 5 56 01 51 00,www.bordeaux.fr,Famille Plus;Musée de France,,-0.574456,44.833775
+Musée,Sciences et techniques,Arc en rêve, centre d'architecture,7 rue Ferrère,,33000,BORDEAUX,+33 5 56 52 78 36,www.arcenreve.com,,,-0.573092,44.848232
+Musée,Sciences et techniques,Cap Sciences,Hangar 20,quai de Bacalan,33300,BORDEAUX,+33 5 56 01 07 07,www.cap-sciences.net,Famille Plus,,-0.555001,44.85975
+Musée,Souvenirs de guerre,Centre National Jean Moulin,48 rue Vital Carles,entrée par place Jean Moulin,33000,BORDEAUX,+33 5 56 10 19 90,www.bordeaux.fr,Famille Plus;Musée de France,,-0.577901,44.838623
+Musée,Viticole,Musée du Vin et du Négoce,41 rue Borie,,33000,BORDEAUX,+33 5 56 90 19 13,www.mvnb.fr,,,-0.5695002,44.85454
+Musée,Ecomusée;Histoire,Ecomusée du Bourgeais,rue des Religieuses,,33710,BOURG,+33 5 57 68 31 76,www.bourg-en-gironde.fr,,,-0.5588006,45.040627
+Musée,Transports;Souvenirs de guerre;Histoire;Musée pour enfants,Musée hippomobile "Au Temps des Calèches",Château de la Citadelle,,33710,BOURG,+33 5 57 68 23 57;+33 5 57 68 31 76,www.bourg-en-gironde.fr,Musée de France,,-0.561676,45.039627
+Musée,Arts et traditions populaires,Maison des Arts et Traditions Populaires,rue du Musée,Maubuisson,33121,CARCANS,+33 5 56 03 41 96,http://musee.matp.carcans.free.fr ,,,-1.1432057,45.07094
+Musée,Militaire,Musée du Souvenir,Maison du Combattant,2 rue des Tilleuls,33121,CARCANS,+33 5 56 03 30 96,www.carcans.fr,,,-1.051402,45.077545
+Musée,Viticole,Musexpo,,,33920,CIVRAC-DE-BLAYE,+33 5 57 68 60 07,www.cdc-saintsavin.fr,,,-0.4444742,45.112118
+Musée,Transports;Histoire,Musée du Cheval,Château Lanessan,,33460,CUSSAC-FORT-MEDOC,+33 5 56 58 94 80,www.lanessan.com,,Handicap auditif;Handicap mental;Handicap visuel,-0.730296,45.112183
+Musée,Agriculture / monde rural,Chai aux vieux outils agricoles et ménagers,,,33220,EYNESSE,+33 5 57 40 36 35,www.tourisme-dordogne-paysfoyen.com,,,0.154051,44.824905
+Musée,Arts et traditions populaires,Musée de la Burette à huile,,,33220,EYNESSE,+33 5 57 40 36 35,www.tourisme-dordogne-paysfoyen.com ,,,0.15449523,44.825592
+Musée,Artisanat;Sciences naturelles,Musée d'artisanat et monuments en allumettes,2 Couture,,33190,FONTET,+33 5 56 71 21 17,www.museeallumettes.com,,Handicap mental,-0.020545,44.56336
+Musée,Métiers,La maison du Boulanger d¿Autrefois,1 place de l'Hôtel de Ville,,33890,GENSAC,+33 5 57 47 46 67,www.tourisme-castillonpujols.fr,,,0.071769,44.806328
+Musée,Métiers,Musée des pompiers du monde,place de la Gare,,33190,GIRONDE-SUR-DROPT,+33 6 50 71 95 03,www.fdng.e-monsite.com,,,-0.091735,44.583122
+Musée,Viticole;Agriculture / monde rural,Moulin-Musée du Haut Benauge,,,33540,GORNAC,+33 5 56 61 96 15,www.gornac.fr,,,-0.1841068,44.669384
+Musée,Beaux-Arts,Musée Georges de Sonneville,3 rue de Chartrèze,,33170,GRADIGNAN,+33 5 56 75 34 28,www.ville-gradignan.fr,,,-0.628179,44.760986
+Musée,Transports,Train Touristique à vapeur & Musée ferroviaire,Gare de Guîtres,,33230,GUITRES,+33 5 57 69 11 48;+33 5 57 69 10 69,www.trainguitres.fr,,,-0.1973247,45.037716
+Musée,Gastronomie;Métiers,Maison de l'Huître,Musée de l'Ostréiculture,port de Larros,33470,GUJAN-MESTRAS,+33 5 56 66 23 71,www.gujanmestras.com,,,-1.0723632,44.641426
+Musée,Histoire;Métiers,Musée "Regards sur le Passé",2 rue de la Gare,,33990,HOURTIN,+33 5 56 09 14 47,www.medococean.com ,,,-1.0643649,45.186134
+Musée,Maritime;Métiers,Phare de Richard et Musée Ostréicole de l'Estuaire,Passe de Richard,route Départementale 2,33590,JAU-DIGNAC-ET-LOIRAC,+33 5 56 09 52 39,www.phare-richard.com,,,-0.942165,45.431904
+Musée,Histoire,Musée de la Mémoire Canaulaise,77 avenue de la Libération,,33680,LACANAU VILLE,+33 5 56 03 53 73;+33 5 56 03 53 39,www.medococean.com ,,,-1.0729694,44.977135
+Musée,Maritime,Musée du Phare de Cordouan & des Phares et Balises,2, allée du Sémaphore,Pointe de Grave,33123,LE VERDON-SUR-MER,+33 5 56 09 00 25,www.asso-cordouan.fr,,,-1.064967,45.550423
+Musée,Agriculture / monde rural,Musée agricole à la Ferme de Deloges,1 Deloges,,33190,LES ESSEINTES,+33 5 56 71 44 59,www.entredeuxmers.com,,,-0.073861,44.607616
+Musée,Beaux-Arts,Chapelle du Carmel,45 allées Robert Boulin,,33500,LIBOURNE,+33 5 57 51 91 05;+33 5 57 55 33 44,www.ville-libourne.fr,,,-0.240969,44.91733
+Musée,Beaux-Arts,Musée des Beaux-Arts,Hôtel de Ville,,33500,LIBOURNE,+33 5 57 55 33 44,www.ville-libourne.fr,Musée de France,,-0.2435874,44.9151
+Musée,Archéologie;Agriculture / monde rural,Musée archéologique de Lignan-de-Bordeaux,le bourg,,33360,LIGNAN-DE-BORDEAUX,+33 5 57 24 11 68,www.sahcc33.net,,,-0.464918,44.846313
+Musée,Santé;Histoire,Musée national de l'Assurance Maladie,10 route de Carbon-Blanc,,33310,LORMONT,+33 5 56 11 55 17;+33 5 56 11 55 18,www.musee-assurance-maladie.fr,,,-0.521819,44.881706
+Musée,Agriculture / monde rural,Musée de la Bazadaise,Château Roquetaillade,,33210,MAZERES,+33 5 56 76 14 16,www.roquetaillade.eu,,,-0.268065,44.49498
+Musée,Ecomusée;Viticole,Ecomusée du Libournais,45, le Bourg,,33570,MONTAGNE,+33 5 57 74 56 89,http://ecomusee.jimdo.com,,,-0.128403,44.932846
+Musée,Viticole;Métiers,Musée des Arts & Métiers de la Vigne et du Vin,Château Maucaillou,,33480,MOULIS-EN-MEDOC,+33 5 56 58 01 23,www.maucaillou.com,,,-0.744788,45.085705
+Musée,Art moderne / contemporain;Arts décoratifs,Château Pichon Longueville Comtesse de Lalande,,,33250,PAUILLAC,+33 5 56 59 19 40,www.pichon-lalande.com,,,-0.7495808,45.17662
+Musée,Automates;Musée pour enfants,Le Petit Musée d'Automates,3 rue Aristide Briand,,33250,PAUILLAC,+33 5 56 59 02 45,http://museeautomatespauillac.jimdo.com,,,-0.7464104,45.1989
+Musée,Viticole,Musée du vin dans l'art du château Mouton Rothschild,,,33250,PAUILLAC,+33 5 56 73 21 29,www.bpdr.com,,,-0.7685708,45.211704
+Musée,Métiers;Viticole,Moulin des Grandes-Vignes,Domaine de la Chataignière,1 Les Grandes Terres,33240,PERISSAC,+33 5 57 84 32 62,www.domaine-chataigniere.fr,,,-0.322195,45.019753
+Musée,Métiers;Viticole,Musée du Vin et de la Vigne,Château Lagueloup,,33640,PORTETS,+33 5 56 67 13 90,www.chateaulagueloup.com,,,-0.422628,44.697624
+Musée,Préhistoire;Agriculture / monde rural;Archéologie;Arts décoratifs,Maison de la Poterie,place Fouragnan,,33670,SADIRAC,+33 5 56 30 60 03;+33 5 56 30 01 61,www.ceramic-agap.com,,,-0.411571,44.781258
+Musée,Viticole;Ecomusée,Musée du Clos de Grange Vieille,3 rue de l'Eglise,,33340,SAINT-CHRISTOLY-MEDOC,+33 5 56 41 38 26,,,,-0.825747,45.356655
+Musée,Archéologie;Agriculture / monde rural,Musées du canton de Saint-Ciers-sur-Gironde,avenue André Lafon,,33820,SAINT-CIERS-SUR-GIRONDE,+33 5 57 32 98 29;+33 5 57 64 79 67,http://caethdestc.pagesperso-orange.fr/,,,-0.609164,45.29086
+Musée,Histoire,Exposition de la Bastide - Musée du Pays Foyen,Office de Tourisme,102, rue de la République,33220,SAINTE-FOY-LA-GRANDE,+33 5 57 46 03 00,www.museedupaysfoyen.com,,,0.218169,44.842148
+Musée,Préhistoire;Histoire,Musée Charles Nardin,Office de Tourisme du Pays Foyen,102 rue de la République,33220,SAINTE-FOY-LA-GRANDE,+33 5 57 46 03 00,www.tourisme-dordogne-paysfoyen.com,,,0.2178812,44.842224
+Musée,Arts décoratifs,Musée souterrain de la poterie,Hospices de la Madeleine,21 rue André Loiseau,33330,SAINT-EMILION,+33 5 57 24 60 93,www.saint-emilion-museepoterie.fr,,,-0.156024,44.8915
+Musée,Archéologie;Histoire,Maison du patrimoine,,,33340,SAINT-GERMAIN-D'ESTEUIL,+33 5 56 41 03 42;+33 5 56 09 02 07,www.saintgermaindesteuil.com,,,-0.917215,45.32814
+Musée,Histoire;Viticole;Agriculture / monde rural,Château Verdus - Musée exposition,chemin de Bardis,,33180,SAINT-SEURIN-DE-CADOURNE,+33 5 56 73 17 31,www.chateau-verdus.com,,,-0.787594,45.28292
+Musée,Viticole,Musée de la tonnellerie,Château Les Tuileries,6 rue de Lamena,33340,SAINT-YZANS-DE-MEDOC,+33 5 56 09 05 31,www.chateaulestuileries.com,,,-0.820705,45.32213
+Musée,Art moderne / contemporain;Archéologie,Musée d'Art Contemporain et d'Archéologie,1 avenue El Burgo de Osma,,33780,SOULAC-SUR-MER,+33 5 56 09 83 99 ,www.mairie-soulac.fr,,,-1.1298751,45.512917
+Musée,Archéologie;Histoire,La Grange du Patrimoine,Espace Jacques Sirougnet,,33930,VENDAYS-MONTALIVET,+33 5 56 73 32 02,www.ot-vendays-montalivet.fr,,,-1.1398315,45.384045
+Musée,Art sacré,Musée d'art sacré,3 les Allées,,33490,VERDELAIS,+33 5 56 62 02 04;+33 5 56 76 70 45,www.verdelais.com,,,-0.199711,44.60295

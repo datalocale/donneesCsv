@@ -1,0 +1,190 @@
+ANNEE,CANTON,NB_PRESTATION_STOCK,NB_PRESTATION_FLUX
+2010,Canton Castelnau du Médoc,37,38
+2010,Canton Villenave d'Ornon,46,51
+2010,Canton Pujols,13,13
+2010,Canton Grignols,NC,NC
+2010,Canton Monségur,32,38
+2010,Canton Libourne,103,109
+2010,Canton Carbon Blanc,50,54
+2010,Canton Langon,25,26
+2010,Canton Branne,26,26
+2010,Canton Villandraut,11,11
+2010,Canton Cenon,66,69
+2010,Canton St Laurent du Médoc,15,15
+2010,Canton Blaye,36,39
+2010,Canton Coutras,44,47
+2010,Canton La Réole,29,29
+2010,Canton Captieux,10,10
+2010,Canton Bordeaux 6,49,51
+2010,Canton Bordeaux 7,26,26
+2010,Canton Bordeaux 8,55,56
+2010,Canton Castillon la Bataille,26,26
+2010,Canton Audenge,64,72
+2010,Canton Pellegrue,NC,NC
+2010,Canton Bordeaux 1,44,51
+2010,Canton Bordeaux 2,34,37
+2010,Canton Bordeaux 3,106,111
+2010,Canton Bordeaux 4,51,57
+2010,Canton Bordeaux 5,44,50
+2010,Canton Bazas,13,15
+2010,Canton Floirac,29,32
+2010,Canton St Savin,50,50
+2010,Canton Talence,44,47
+2010,Canton La Teste de Buch,62,67
+2010,Canton St Médard en Jalles,45,52
+2010,Canton Cadillac,40,42
+2010,Canton Guîtres,27,28
+2010,Canton Mérignac 2,36,43
+2010,Canton Le Bouscat,39,45
+2010,Canton Mérignac 1,41,46
+2010,Canton Gradignan,63,67
+2010,Canton St Vivien du Médoc,11,12
+2010,Canton Bourg sur Gironde,32,34
+2010,Canton Bègles,27,29
+2010,Canton St Ciers sur Gironde,26,29
+2010,Canton La Brède,44,49
+2010,Canton Pauillac,45,49
+2010,Canton Blanquefort,64,68
+2010,Canton Créon,53,61
+2010,Canton Targon,11,11
+2010,Canton Lesparre Médoc,25,26
+2010,Canton Pessac 2,48,52
+2010,Canton Pessac 1,39,40
+2010,Canton St Macaire,22,22
+2010,Canton Arcachon,13,14
+2010,Canton Auros,NC,NC
+2010,Canton Lussac,17,17
+2010,Canton St Symphorien,8,8
+2010,Canton Belin-Beliet,18,21
+2010,Canton St André de Cubzac,27,29
+2010,Canton Fronsac,31,33
+2010,Canton Ste Foy la Grande,27,27
+2010,Canton Podensac,26,26
+2010,Canton Sauveterre de Guyenne,22,23
+2010,Canton Lormont,52,52
+2011,Canton Monségur,28,31
+2011,Canton Ste Foy la Grande,27,29
+2011,Canton Libourne,101,106
+2011,Canton Carbon Blanc,53,56
+2011,Canton St Symphorien,9,9
+2011,Canton Pessac 2,51,55
+2011,Canton Pessac 1,42,49
+2011,Canton La Réole,23,30
+2011,Canton Arcachon,14,14
+2011,Canton Auros,NC,NC
+2011,Canton Lussac,16,16
+2011,Canton Bègles,30,32
+2011,Canton St Vivien du Médoc,12,13
+2011,Canton Castillon la Bataille,26,28
+2011,Canton Pellegrue,NC,NC
+2011,Canton Audenge,71,78
+2011,Canton Gradignan,73,82
+2011,Canton Langon,27,27
+2011,Canton Bazas,15,15
+2011,Canton La Teste de Buch,72,78
+2011,Canton Villandraut,12,12
+2011,Canton Guîtres,35,36
+2011,Canton Villenave d'Ornon,44,52
+2011,Canton Talence,47,50
+2011,Canton Branne,27,27
+2011,Canton Coutras,49,49
+2011,Canton St Laurent du Médoc,17,17
+2011,Canton Captieux,9,9
+2011,Canton Le Bouscat,40,43
+2011,Canton Bordeaux 6,51,55
+2011,Canton Bordeaux 5,44,47
+2011,Canton Belin-Beliet,20,23
+2011,Canton Bordeaux 4,49,53
+2011,Canton Bordeaux 3,113,115
+2011,Canton Bordeaux 2,41,43
+2011,Canton Bordeaux 1,47,48
+2011,Canton Bordeaux 8,51,61
+2011,Canton St André de Cubzac,26,28
+2011,Canton Bordeaux 7,28,29
+2011,Canton Pauillac,46,49
+2011,Canton Floirac,33,34
+2011,Canton Créon,52,57
+2011,Canton Lesparre Médoc,27,29
+2011,Canton St Savin,49,52
+2011,Canton Cenon,73,80
+2011,Canton Blaye,41,43
+2011,Canton St Macaire,25,26
+2011,Canton St Médard en Jalles,45,51
+2011,Canton Mérignac 1,47,54
+2011,Canton Mérignac 2,37,41
+2011,Canton Fronsac,32,33
+2011,Canton St Ciers sur Gironde,25,27
+2011,Canton Podensac,27,29
+2011,Canton Bourg sur Gironde,32,32
+2011,Canton La Brède,45,49
+2011,Canton Lormont,52,56
+2011,Canton Sauveterre de Guyenne,25,26
+2011,Canton Targon,11,11
+2011,Canton Blanquefort,64,72
+2011,Canton Pujols,12,13
+2011,Canton Castelnau du Médoc,42,45
+2011,Canton Grignols,NC,NC
+2011,Canton Cadillac,37,38
+2012,Canton Villandraut,11,12
+2012,Canton Pessac 1,44,48
+2012,Canton Pessac 2,56,58
+2012,Canton St Laurent du Médoc,16,17
+2012,Canton La Réole,23,26
+2012,Canton Arcachon,15,15
+2012,Canton Lussac,14,16
+2012,Canton Auros,6,6
+2012,Canton Ste Foy la Grande,32,34
+2012,Canton St Symphorien,7,9
+2012,Canton Guîtres,33,35
+2012,Canton Talence,48,53
+2012,Canton Sauveterre de Guyenne,27,28
+2012,Canton Villenave d'Ornon,46,49
+2012,Canton Audenge,69,80
+2012,Canton Fronsac,32,32
+2012,Canton Le Bouscat,36,43
+2012,Canton Gradignan,66,78
+2012,Canton Bègles,30,32
+2012,Canton St Vivien du Médoc,13,13
+2012,Canton Langon,25,29
+2012,Canton La Teste de Buch,75,78
+2012,Canton Branne,23,25
+2012,Canton Cenon,76,81
+2012,Canton Blaye,40,42
+2012,Canton Bazas,16,17
+2012,Canton St Macaire,23,25
+2012,Canton Bordeaux 5,43,48
+2012,Canton Pellegrue,6,6
+2012,Canton Belin-Beliet,23,24
+2012,Canton Bordeaux 4,59,64
+2012,Canton Bordeaux 7,29,31
+2012,Canton Bordeaux 6,51,54
+2012,Canton Bordeaux 1,51,57
+2012,Canton Bordeaux 3,113,118
+2012,Canton Bordeaux 2,40,45
+2012,Canton Podensac,25,28
+2012,Canton Captieux,10,11
+2012,Canton Castillon la Bataille,27,31
+2012,Canton St André de Cubzac,29,30
+2012,Canton Bordeaux 8,50,58
+2012,Canton Floirac,35,38
+2012,Canton Lesparre Médoc,27,32
+2012,Canton Pujols,13,13
+2012,Canton Mérignac 1,48,53
+2012,Canton Lormont,48,54
+2012,Canton St Savin,45,48
+2012,Canton Grignols,6,6
+2012,Canton Castelnau du Médoc,44,48
+2012,Canton Cadillac,35,39
+2012,Canton Mérignac 2,36,43
+2012,Canton St Médard en Jalles,44,48
+2012,Canton Libourne,101,106
+2012,Canton Coutras,50,53
+2012,Canton St Ciers sur Gironde,27,29
+2012,Canton Monségur,25,26
+2012,Canton Bourg sur Gironde,32,33
+2012,Canton La Brède,44,49
+2012,Canton Pauillac,49,54
+2012,Canton Targon,9,10
+2012,Canton Carbon Blanc,50,60
+2012,Canton Créon,53,55
+2012,Canton Blanquefort,60,67

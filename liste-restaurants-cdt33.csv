@@ -1,0 +1,811 @@
+TYPE,CATEGORIE,SPECIALITES_CULINAIRES,RAISON_SOCIALE,ADRESSE_1,ADRESSE_SUITE,CODE_POSTAL,COMMUNE,TELEPHONE,SITE_WEB,CHAINES,CLASSEMENT_LOGIS,MARQUES_ET_LABELS,TOURISME_ET_HANDICAP,LONGITUDE,LATITUDE
+Restaurant,Cuisine traditionnelle,Poisson / fruits de mer;Cuisine traditionnelle,Le Cap,1, avenue Notre Dame des Passes,,33120,ARCACHON,+33 5 56 54 53 93,,,,,,-1.2031785,44.641613
+Restaurant,Cuisine traditionnelle,Poisson / fruits de mer;Cuisine traditionnelle,Le Chipiron,11, rue de la Pêcherie,,33120,ARCACHON,+33 5 57 52 06 33,www.lechipiron.com,,,,,-1.147182,44.656445
+Restaurant,Cuisine traditionnelle,Poisson / fruits de mer;Cuisine traditionnelle,Le Grand Bleu,30, boulevard de la Plage,,33120,ARCACHON,+33 5 56 54 92 92,http://restaurant-le-grand-bleu.com,,,,,-1.1495486,44.65762
+Restaurant,Cuisine traditionnelle,Poisson / fruits de mer;Cuisine traditionnelle;Viandes,Le Thiers,9, boulevard Veyrier Montagnères,,33120,ARCACHON,+33 5 56 83 33 17,www.lethiers.com,,,,,-1.166554,44.66328
+Restaurant,Cuisine traditionnelle,Poisson / fruits de mer;Régionale française,Le Cabestan,6 bis, avenue du Général de Gaulle,,33120,ARCACHON,+33 5 56 83 18 62,www.everyoneweb.com/restaurantlecabestan,,,,,-1.1644613,44.662136
+Restaurant,Cuisine traditionnelle,Viandes,La Table du Boucher,16, rue du Mal de Lattre de Tassigny,,33120,ARCACHON,+33 5 56 54 06 28,,,,,,-1.1723828,44.662052
+Restaurant,Cuisine traditionnelle;Brasserie,Cuisine traditionnelle,Le Petit Louvre Café,14 place Lucien de Gracia,,33120,ARCACHON,+33 5 57 15 73 59,,,,,,-1.1709651,44.661083
+Restaurant,Cuisine traditionnelle;Brasserie,Poisson / fruits de mer;Cuisine traditionnelle;Glaces;Tapas;Régionale française,Le Victoria,26, boulevard Veyrier Montagnères,,33120,ARCACHON,+33 5 56 83 07 75,,,,,,-1.1682272,44.663227
+Restaurant,Cuisine traditionnelle;Brasserie,Poisson / fruits de mer;Glaces,Café de la Plage-Restaurant Chez Pierre,1, boulevard Veyrier Montagnères,,33120,ARCACHON,+33 5 56 22 52 94,www.cafedelaplage.com,,,,,-1.166062,44.66343
+Restaurant,Cuisine traditionnelle;Brasserie;Crêperie;Grill;Restauration rapide,Régionale française;Viandes;Poisson / fruits de mer;Glaces,Bar-restaurant du Soleil,Avenue des Goëlands,plage Péreire,33120,ARCACHON,+33 5 56 83 90 74,,,,,,-1.194849,44.652702
+Restaurant,Cuisine traditionnelle;Brasserie;Pizzeria,Cuisine traditionnelle;Cuisine européenne;Nouvelle cuisine française,Le Floréal,49, boulevard du Général Leclerc,,33120,ARCACHON,+33 5 56 83 48 44,,,,,,-1.1665611,44.65988
+Restaurant,Cuisine traditionnelle;Pizzeria,Cuisine traditionnelle;Poisson / fruits de mer;Régionale française;Poisson / fruits de mer;Viandes,Le Royal Moulleau,2, rue du Débarcadère,,33120,ARCACHON,+33 5 56 54 57 45,www.le-royal-moulleau.com,,,,,-1.2018309,44.641
+Restaurant,Pizzeria,Cuisine méditerranéenne,La Cantina,55 boulevard de la Plage,,33120,ARCACHON,+33 5 56 66 59 33,www.lacantinaarcachon.fr,,,,,-1.1532485,44.660027
+Restaurant,Pizzeria,Cuisine méditerranéenne,La Pizzéria,19 rue Jehenne,,33120,ARCACHON,+33 5 56 83 20 46,,,,,,-1.1712405,44.66189
+Restaurant,Pizzeria,Cuisine méditerranéenne,Le Bassano,18 boulevard de la Plage,,33120,ARCACHON,+33 5 56 54 89 52,,,,,,-1.1486734,44.657246
+Restaurant,Pizzeria,Cuisine méditerranéenne,L'Italien,288, boulevard de la Côte d'Argent,,33120,ARCACHON,+33 5 56 54 01 14,,,,,,-1.190619,44.648357
+Restaurant,Pizzeria,Cuisine méditerranéenne,Pizzéria Cap Péreire,1, avenue du Parc Pereire,,33120,ARCACHON,+33 5 56 83 24 01,www.restaurantcappereire.com,,,,,-1.1933358,44.65832
+Restaurant,Pizzeria,Cuisine méditerranéenne;Viandes;Sandwichs,Stekam,13 Rue du Maréchal de Lattre de Tassigny,,33120,ARCACHON,+33 5 56 83 24 24,,,,,,-1.1724746,44.661797
+Restaurant,Pizzeria;Brasserie,Cuisine traditionnelle,Le Pirate,12 boulevard Marcel Gounouilhou,,33120,ARCACHON,+33 5 56 83 08 58,www.lepiratearcachon.com,,,,,-1.1697993,44.663116
+Restaurant,Restauration à thème,Cuisine asiatique,ARCCA,39, rue Maréchal de Lattre de Tassigny,,33120,ARCACHON,+33 5 57 52 00 42,,,,,,-1.172571,44.66038
+Restaurant,Restauration à thème,Cuisine asiatique,Palais d'Asie,43 bis, rue Mal de Lattre de Tassigny,,33120,ARCACHON,+33 5 56 83 84 79,,,,,,-1.172626,44.66006
+Restaurant,Restauration à thème,Cuisine asiatique,Phénix d'Or,30, avenue Lamartine,,33120,ARCACHON,+33 5 57 52 25 49,,,,,,-1.1675295,44.66134
+Restaurant,Restauration à thème,Cuisine méditerranéenne,Al Mounia,43, cours Hericart de Thury,,33120,ARCACHON,+33 5 56 83 76 03,www.almounia-arcachon.com,,,,,-1.1654523,44.660698
+Restaurant,Restauration à thème,Cuisine traditionnelle,Le Jardin,23 rue Notre Dame des Passes,Le Moulleau,33120,ARCACHON,+33 6 82 44 14 55,www.restaurantlejardin.com,,,,,-1.20037,44.64134
+Restaurant,Restauration à thème,Cuisine traditionnelle;Cuisine méditerranéenne,L'Aurès,5, rue du port,,33120,ARCACHON,+33 5 56 83 97 16,http://arcachon.lamaisondutouriste.com/restaurant-aures/index.html,,,,,-1.1478593,44.657017
+Restaurant,Restauration à thème,Cuisine traditionnelle;Régionale française;Poisson / fruits de mer;Viandes;Cuisine gastronomique,L'Atlantide,52 boulevard Mestrézat,,33120,ARCACHON,+33 5 56 83 03 36,,,,,,-1.1472498,44.656277
+Restaurant,Restauration à thème,Poisson / fruits de mer;Viandes;Cuisine traditionnelle,Au pique assiette,84 bis boulevard de la Plage,,33120,ARCACHON,+33 5 56 83 78 33,www.aupiqueassiette.com,,,,,-1.1542583,44.660213
+Restaurant,Restauration à thème;Cuisine traditionnelle,Nouvelle cuisine française;Cuisine asiatique;Cuisine diététique;Cuisine végétarienne,Le Beacher Restaurant,1, avenue du Parc Péreire,,33120,ARCACHON,+33 5 56 83 24 01,www.restaurantcappereire.com,,,,,-1.1933358,44.65832
+Restaurant,Restauration rapide,Cuisine traditionnelle,Les Tropiques,12, boulevard Marcel Gounouilhou,,33120,ARCACHON,+33 5 56 83 20 83,,,,,,-1.1697993,44.663116
+Restaurant,Restauration rapide,Cuisine traditionnelle,Sandwichs et Companini,8, boulevard Marcel Gounouilhou,,33120,ARCACHON,+33 5 56 83 34 25,,,,,,-1.1697993,44.663116
+Restaurant,Restauration rapide,Cuisine traditionnelle,Tutti Frutti,230, boulevard de la Plage,,33120,ARCACHON,+33 5 56 83 50 38,,,,,,-1.1671766,44.66254
+Restaurant,Restauration rapide,Glaces;Viandes;Sandwichs,Brasserie La Marina,24, boulevard Veyrier Montagnères,,33120,ARCACHON,+33 5 56 83 26 54,,,,,,-1.1683194,44.663223
+Restaurant,Restauration rapide,Sandwichs,El Bocadillo,161, boulevard de la plage,,33120,ARCACHON,+33 5 56 83 66 34,,,,,,-1.1638831,44.662758
+Restaurant,Restauration rapide,Sandwichs,El Bocadillo,19 avenue du Maréchal de Lattre de Tassi,,33120,ARCACHON,+33 5 40 70 27 07,,,,,,-1.1725291,44.661446
+Restaurant,Restauration rapide,Sandwichs,La Petite Fraise,163, boulevard de la plage,,33120,ARCACHON,+33 5 56 83 23 38,,,,,,-1.1645753,44.66266
+Restaurant,Restauration rapide,Sandwichs,Le Papajo,253, boulevard de la Côte d'Argent,,33120,ARCACHON,+33 5 56 66 41 95,,,,,,-1.201973,44.64127
+Restaurant,Restauration rapide,Sandwichs;Glaces,Chez Charlot,212, boulevard de la plage,,33120,ARCACHON,+33 5 56 54 85 55,,,,,,-1.1658277,44.662548
+Restaurant,Restauration rapide,Tartes,Majlis,211, boulevard de la Plage,,33120,ARCACHON,+33 5 56 54 51 64,,,,,,-1.1710131,44.662613
+Hôtel restaurant,Cuisine traditionnelle,Cuisine gastronomique;Cuisine traditionnelle,Le Saint Eloi,11 boulevard de l'Aérium,,33740,ARES,+33 5 56 60 20 46;+33 5 56 60 10 37,www.le-saint-eloi.com/,,,,,-1.1332011,44.758133
+Restaurant,Brasserie;Restauration à thème,Cuisine indienne;Cuisine asiatique;Cuisine européenne,Tanya¿s Tearooms,3 rue Paul Wallerstein,,33740,ARES,+33 5 56 03 25 21,http://tanyas.fr/,,,,,-1.139574,44.766273
+Restaurant,Crêperie,Régionale française,Sucré-salé,20 place de l'Eglise,,33740,ARES,+33 5 56 60 23 97,,,,,,-1.1394801,44.767662
+Restaurant,Cuisine traditionnelle,Cuisine gastronomique;Cuisine traditionnelle,Le Pitey,79 avenue de la Libération,,33740,ARES,+33 5 56 82 16 80,www.lepitey.com/,,,,,-1.1254549,44.760326
+Restaurant,Cuisine traditionnelle,Cuisine méditerranéenne,L'Olivier,30 rue du 14 Juillet,,33740,ARES,+33 5 56 60 00 97,www.bassindarcachon.com/pro/olivier/,,,Famille Plus,,-1.1385065,44.76138
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle,Chez Alcide,1 rue du Commandant Herminier,,33740,ARES,+33 5 56 60 15 09,,,,,,-1.1416581,44.761356
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle,Duo Gourmand,27 boulevard de la Plage,,33740,ARES,+33 5 57 17 23 91,,,,,,-1.1412692,44.764698
+Restaurant,Cuisine traditionnelle,Poisson / fruits de mer,Chez Pépé,Port Ostréicole,Cabane 38,33740,ARES,+33 5 57 70 95 68,,,,,,-1.1500561,44.765923
+Restaurant,Cuisine traditionnelle,Poisson / fruits de mer,Le Piballey,port ostreicole d'Arès,Cabane 32-33,33740,ARES,+33 5 57 70 08 46,,,,,,-1.1499595,44.765903
+Restaurant,Cuisine traditionnelle;Grill;Pizzeria,Cuisine traditionnelle,L'Incontournable,4 rue des Tourterelles,,33740,ARES,+33 5 56 60 27 09,,,,Maître Restaurateur,,-1.1289551,44.761765
+Restaurant,Cuisine traditionnelle;Pizzeria,Cuisine traditionnelle,L'Agora,1 avenue de la Plage,,33740,ARES,+33 5 56 60 02 07,,,,,,-1.1404135,44.767094
+Restaurant,Cuisine traditionnelle;Pizzeria,Cuisine traditionnelle,Le San Marco,26 avenue de la Libération,,33740,ARES,+33 5 56 60 05 63,,,,Famille Plus,,-1.1365056,44.765064
+Restaurant,Cuisine traditionnelle;Restauration à thème,Cuisine traditionnelle,Lou Tchapeou,Zone d'activités,,33740,ARES,+33 5 57 70 80 02,,,,,,-1.11979,44.777023
+Restaurant,Pizzeria,Cuisine méditerranéenne,Astropizza,12, place de l'Eglise,,33740,ARES,+33 5 56 26 80 97,www.astropizza.net,,,,,-1.1393594,44.767517
+Restaurant,Restauration à thème,Cuisine asiatique,Le Dragon Phenix,8 rue du 14 Juillet,,33740,ARES,+33 5 56 60 38 02,,,,,,-1.1410224,44.763813
+Restaurant,Restauration à thème,Cuisine asiatique,Sushi Bay,47 bis, avenue de la Libération,,33740,ARES,+33 5 56 82 98 56,www.sushibay.fr,,,,,-1.1323763,44.762814
+Restaurant,Restauration à thème,Cuisine sud-américaine,Arenal,65 bis rue du Général de Gaulle,,33740,ARES,+33 5 56 82 90 80,,,,,,-1.1420277,44.776306
+Restaurant,Restauration à thème,Régionale française,Le Makila,53 rue du Général de Gaulle,,33740,ARES,+33 5 56 60 73 30,,,,Famille Plus,,-1.1413657,44.77294
+Restaurant,Restauration rapide,Sandwichs,Mc Donald's,lieu-dit La Montagne,,33740,ARES,+33 5 57 17 00 10,,,,,,-1.1128163,44.77117
+Restaurant,Restauration rapide,Tapas,Les Terrasses de la Plage,10 avenue de la Plage,,33740,ARES,+33 6 73 60 82 58,www.bar-glacier-tapas-33.fr/,,,,,-1.1417198,44.76322
+Restaurant,Bistrot / bar à vin;Brasserie,Cuisine traditionnelle;Régionale française,Le Wy,La Winery,rond-point des Vendangeurs,33460,ARSAC,+33 5 56 59 04 91,www.winery.fr,,,,,-0.7444524,44.98397
+Hôtel restaurant,Cuisine traditionnelle,Cuisine traditionnelle,Karousel,Le Port du Noyer,,33500,ARVEYRES,+33 5 57 51 41 41,www.kyriad-libourne-saint-emilion.fr,,,Qualité Tourisme,,-0.284611,44.884567
+Restaurant,Brasserie,Cuisine traditionnelle,La Gravette,Le port,,33980,AUDENGE,+33 5 57 17 55 49,,,,,,-1.022458,44.677685
+Restaurant,Brasserie,Cuisine traditionnelle,Les Allées,15 allées Ernest de Boissière,,33980,AUDENGE,+33 5 57 70 13 73,,,,,,-1.0144758,44.682537
+Restaurant,Cuisine traditionnelle,Poisson / fruits de mer;Cuisine traditionnelle,Chez Geneviève - Restaurant du Port,62, port d'Audenge,,33980,AUDENGE,+33 5 56 26 81 05,,,,,,-1.0216641,44.67783
+Restaurant,Pizzeria,Cuisine méditerranéenne,La Pizza Royale,2 bis, rue de Bordeaux,,33980,AUDENGE,+33 5 56 26 96 43,,,,,,-1.0115182,44.68205
+Restaurant,Pizzeria,Cuisine méditerranéenne,Tomy's pizza,14, allée de Boissière,,33980,AUDENGE,+33 6 78 36 42 13,,,,,,-1.015923,44.68396
+Restaurant,Restauration à thème,Cuisine méditerranéenne,Al Fantasia,Zone d'Activités Artisanale Nouvelle,11 rue Hapchot,33980,AUDENGE,+33 5 57 17 31 40,,,,,,-0.984435,44.694588
+Restaurant,Cuisine traditionnelle,Cuisine gastronomique;Régionale française,L'Absolu,2, rue Partarrieu,,33124,AUROS,+33 5 56 65 29 23,www.restaurant-absolu.com,,,Maître Restaurateur,,-0.142909,44.49367
+Restaurant,Cuisine traditionnelle,Régionale française;Cuisine traditionnelle,Le Baron Gourmand,2 route de Montesquieu,,33750,BARON,+33 5 57 24 26 40,www.barongourmand.com,,,,Handicap auditif;Handicap mental,-0.310707,44.821056
+Hôtel restaurant,Cuisine traditionnelle,Régionale française,Domaine de Fompeyre,route de Mont de Marsan,,33430,BAZAS,+33 5 56 25 98 00,www.cerise-hotels-resorts.com,,,,,-0.215435,44.417965
+Restaurant,Brasserie;Cuisine traditionnelle,Cuisine traditionnelle,Le Bistrot Saint Jean,42, place de la Cathédrale,,33430,BAZAS,+33 5 56 25 18 53,,,,,,-0.2120125,44.431503
+Restaurant,Crêperie,Cuisine traditionnelle,Café d'Oc Créperie,13, rue Bragous,,33430,BAZAS,+33 5 56 25 96 08,www.cafedoc.com,,,,,-0.2110362,44.43204
+Restaurant,Crêperie;Restauration rapide,Régionale française,Crêperie La Jolie Farandole,21 rue Fondespan,,33430,BAZAS,+33 5 56 65 17 84,,,,,,-0.2124953,44.431473
+Restaurant,Cuisine traditionnelle,Cuisine gastronomique;Régionale française,Les Remparts,49, place de la Cathédrale,,33430,BAZAS,+33 5 56 25 95 24,www.restaurant-les-remparts.com,,,,,-0.2117228,44.431206
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle;Viandes,L'Indigo,25 rue Fondespan,,33430,BAZAS,+33 5 56 25 25 52,,,,,,-0.2130854,44.43151
+Restaurant,Restauration rapide,Cuisine européenne,Noosa Café,31 place de la Cathédrale,,33430,BAZAS,+33 5 56 25 45 78,,,,,,-0.2115914,44.431812
+Hôtel restaurant,Cuisine traditionnelle,Cuisine traditionnelle,La Passerelle,14, rue de la Passerelle,,33640,BEAUTIRAN,+33 5 57 54 84 13,,,,,,-0.4537721,44.700916
+Hôtel restaurant,Cuisine traditionnelle,Cuisine gastronomique;Régionale française,Château de la Tour,2, avenue de la Libération,,33410,BEGUEY,+33 5 56 76 92 00,www.hotel-restaurant-chateaudelatour.com,,,,,-0.3221547,44.638805
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle,La Paillote,4 Loumède,,33390,BERSON,+33 6 15 27 94 44,,,,,,-0.5916738,45.118206
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle,Restaurant du Golf de Teynac,Domaine de Teynac,,33750,BEYCHAC-ET-CAILLAU,+33 5 56 21 76 01,www.golf-teynac.com,,,,,-0.365605,44.858913
+Hôtel restaurant,Brasserie,Cuisine traditionnelle,Le Terminus,8, rue de la Gare,,33380,BIGANOS,+33 5 56 82 11 36,,,,,,-0.9668962,44.6374
+Hôtel restaurant,Cuisine traditionnelle,Cuisine traditionnelle,Hôtel-restaurant de France,99, avenue de la Libération,,33380,BIGANOS,+33 5 56 82 61 08,,,,,,-0.9786361,44.64416
+Restaurant,Brasserie,Sandwichs,Fournil Brasserie Biganos,Parc commercial Portes du Delta,,33380,BIGANOS,+33 5 56 60 70 70,,,,,,-0.959115,44.63382
+Restaurant,Brasserie,Sandwichs;Cuisine traditionnelle,Au Croissant Doré,24 rue Gutenberg,Centre commercial Auchan,33380,BIGANOS,+33 5 56 26 74 63,www.aucroissantdorebiganos.e-monsite.com,,,,,-0.9541015,44.64002
+Restaurant,Cafétéria,Cuisine traditionnelle,Flunch,Centre commercial Auchan,71, rue des Fonderies,33380,BIGANOS,+33 5 56 26 29 98,www.flunch.fr,,,,,-0.976619,44.642113
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle;Glaces;Viandes,L'Essentiel,49, avenue de la Côte d'Argent,,33380,BIGANOS,+33 5 56 82 62 81,,,,,,-0.9738564,44.63565
+Restaurant,Cuisine traditionnelle,Régionale française,Ch'ti Boïen,rue des Fonderies,,33380,BIGANOS,+33 5 57 70 63 96,,,,,,-0.962076,44.637356
+Restaurant,Cuisine traditionnelle,Régionale française,L'Auberge de Biganos,18, route des Lacs,,33380,BIGANOS,+33 5 56 82 78 79,,,,,,-0.9671831,44.6371
+Restaurant,Cuisine traditionnelle,Régionale française,Le Millésime,30, avenue de la Côte d'Argent,,33380,BIGANOS,+33 5 56 82 94 84,,,,,,-0.9773647,44.633514
+Restaurant,Pizzeria,Cuisine méditerranéenne,La Pizza Catalane,allée Maurice Lafon,,33380,BIGANOS,+33 5 56 26 36 59,,,,,,-0.976619,44.642113
+Restaurant,Pizzeria,Cuisine méditerranéenne,Le Syracuse,1, rue de la Gare,,33380,BIGANOS,+33 5 57 70 63 84,,,,,,-0.9673099,44.637325
+Restaurant,Pizzeria,Cuisine méditerranéenne,Pizz Bar,2 avenue de la Libération,,33380,BIGANOS,+33 5 57 70 10 70,,,,,,-0.9683456,44.637882
+Restaurant,Pizzeria,Cuisine méditerranéenne,Pizza Boïenne,4, avenue des Boïens,,33380,BIGANOS,+33 5 56 26 79 04,,,,,,-0.9789839,44.63878
+Restaurant,Restauration à thème,Cuisine asiatique,Asie gourmande,rue Fonderies,,33380,BIGANOS,+33 5 57 70 99 41,,,,,,-0.9600806,44.634186
+Restaurant,Restauration à thème,Régionale française,La pause de Marie,53 avenue des Boïens,,33380,BIGANOS,+33 5 56 82 93 40,,,,,,-0.9792423,44.63362
+Restaurant,Restauration rapide,Sandwichs,Au ke'boïens,44 ter avenue de la Libération,,33380,BIGANOS,+33 5 57 17 67 03,,,,,,-0.9734579,44.6405
+Restaurant,Restauration rapide,Sandwichs,Au P'tit en k,4, avenue de la Libération,,33380,BIGANOS,+33 7 86 51 79 38,,,,,,-0.9684506,44.637978
+Restaurant,Restauration rapide,Sandwichs,Chaud & Froid,5, rue du Port,,33380,BIGANOS,+33 6 82 76 58 88,,,,,,-0.9837711,44.645267
+Restaurant,Restauration rapide,Sandwichs,Mc Donald's,3, rue Gustave Eiffel,,33380,BIGANOS,+33 5 57 17 09 08,www.mcdonalds.fr,,,,,-0.9555371,44.63699
+Hôtel restaurant,Cuisine traditionnelle;Bistrot / bar à vin,Régionale française;Cuisine gastronomique,L'Hostellerie des Criquets,130, avenue du 11 novembre,,33290,BLANQUEFORT,+33 5 56 35 09 24,www.lescriquets.com,,,,,-0.6269004,44.915577
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle,A la belle époque,1, place de la République,,33540,BLASIMON,+33 5 56 61 44 02,,,,,,-0.0752689,44.749516
+Hôtel restaurant,Cuisine traditionnelle,Cuisine traditionnelle;Régionale française,Auberge du Porche,5, rue Ernest Régnier,,33390,BLAYE,+33 5 57 42 22 69,www.auberge-du-porche.com,,,Tables et Auberges de France;Maître Restaurateur,,-0.662527,45.12328
+Hôtel restaurant,Cuisine traditionnelle,Régionale française;Cuisine traditionnelle,La Citadelle,place d'Armes,,33390,BLAYE,+33 5 57 42 17 10,www.hotellacitadelle.com,Logis,3 cheminées;3 cocottes,,,-0.662941,45.126842
+Restaurant,Crêperie,Régionale française,Le Bastion,Citadelle de Vauban,,33390,BLAYE,+33 5 57 42 14 50,www.lebastion.fr,,,,,-0.6654667,45.12818
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle,L'Avant Scène,place d'armes,La citadelle,33390,BLAYE,+33 5 57 42 17 10,www.hotellacitadelle.com,,,,,-0.6667947,45.128063
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle;Nouvelle cuisine française,Le Gavroche,14 rue neuve,,33390,BLAYE,+33 5 57 58 21 03,,,,,,-0.6629861,45.125824
+Restaurant,Cuisine traditionnelle,Poisson / fruits de mer,Le Petit Port,3, cours du Port,,33390,BLAYE,+33 5 57 42 12 52,,,,,,-0.6638574,45.12623
+Restaurant,Cuisine traditionnelle,Régionale française;Cuisine traditionnelle,Le Prémayac,25, rue Prémayac,,33390,BLAYE,+33 5 57 42 19 57,www.restaurant-lepremayac.com,,,,,-0.6638252,45.125237
+Restaurant,Cuisine traditionnelle;Bistrot / bar à vin;Brasserie,Cuisine traditionnelle,Le P'tit Canon,place d'Armes,Citadelle de Vauban,33390,BLAYE,+33 9 51 19 11 85,,,,,,-0.6668186,45.127895
+Restaurant,Pizzeria,Cuisine méditerranéenne,Pizzeria Trattoria Gennaro,111 rue de l'Hôpital,,33390,BLAYE,+33 5 57 42 11 90,,,,,,-0.6543302,45.13843
+Restaurant,Pizzeria,Cuisine traditionnelle,La Casa,10, rue Neuve,,33390,BLAYE,+33 5 57 42 81 39,,,,,,-0.6631708,45.125835
+Restaurant,Restauration à thème,Cuisine asiatique,Dragon Bleu,49 rue Saint-Romain,,33390,BLAYE,+33 5 57 32 74 80,,,,,,-0.6610679,45.130104
+Restaurant,Restauration rapide,Sandwichs;Glaces,Le Ki-Lo-Ré-Di,10 avenue du 144e RI,La citadelle,33390,BLAYE,+33 6 86 88 40 79,,,,,,-0.6657671,45.128304
+Hôtel restaurant,Brasserie;Cuisine traditionnelle,Cuisine traditionnelle;Régionale française,Chais Saint Louis,Hôtel Mercure Château Chartrons,81, cours Saint Louis,33000,BORDEAUX,+33 5 56 43 15 00,www.hotel-chateau-chartrons-bordeaux.fr/fr/restaurant_bar.html,,,,,-0.5695132,44.858856
+Hôtel restaurant,Brasserie;Cuisine traditionnelle,Cuisine traditionnelle;Régionale française,Les Quat' Saisons,24, rue Edmond Besse,,33000,BORDEAUX,+33 5 56 50 71 63,www.restaurant-lesquatsaisons.fr,,,,,-0.5453571,44.886944
+Hôtel restaurant,Cuisine traditionnelle,Cuisine gastronomique;Poisson / fruits de mer,Le Pressoir d'Argent,Grand Hotel de Bordeaux & Spa,2-5, place de la Comédie,33000,BORDEAUX,+33 5 57 30 43 04,www.pressoir-argent.com,,,,Handicap auditif;Handicap mental;Handicap moteur;Handicap visuel,-0.5746039,44.842487
+Hôtel restaurant,Cuisine traditionnelle,Cuisine traditionnelle;Cuisine gastronomique;Régionale française,La Table de Burdigala,Hôtel le Burdigala,115, rue Georges Bonnac,33000,BORDEAUX,+33 5 56 90 16 16,www.burdigala.com,,,Maître Restaurateur,,-0.5868545,44.839676
+Hôtel restaurant,Cuisine traditionnelle,Cuisine traditionnelle;Régionale française,Hepburn Restaurant,Hôtel Mercure Bordeaux Gare,28-30 rue de Tauzia,33000,BORDEAUX,+33 5 56 92 21 21,www.mercure.com,,,,,-0.5593796,44.829727
+Hôtel restaurant,Cuisine traditionnelle,Cuisine traditionnelle;Régionale française,L'Aquitania,Hôtel Pullman Bordeaux Aquitania,1, avenue Jean-Gabriel Domergue,33000,BORDEAUX,+33 5 56 69 65 11,www.pullmanhotels.com,,,,,-0.5673628,44.88897
+Hôtel restaurant,Cuisine traditionnelle,Cuisine traditionnelle;Régionale française,Le Bar de l'Echanson,Hôtel Mercure Bordeaux-Lac,rue du Grand Barail,33000,BORDEAUX,+33 5 56 43 36 72,www.mercure.com,,,,,-0.5644598,44.889763
+Hôtel restaurant,Cuisine traditionnelle,Cuisine traditionnelle;Régionale française,Le Gallopin,Hôtel All Seasons Bordeaux Mériadeck,avenue du Général de Larminat,33000,BORDEAUX,+33 5 56 24 01 39,,,,,,-0.5935479,44.833393
+Hôtel restaurant,Cuisine traditionnelle,Cuisine traditionnelle;Régionale française,Le Novotel Café Bordeaux Lac,avenue Jean-Gabriel Domergue,,33300,BORDEAUX,+33 5 56 43 65 00,www.novotel.com,,,,,-0.5670891,44.88923
+Hôtel restaurant,Cuisine traditionnelle,Cuisine traditionnelle;Régionale française,Le Novotel Café Mériadeck,Novotel Bordeaux Centre,45 cours du Marechal Juin,33000,BORDEAUX,+33 5 56 51 46 46,www.novotel.com,,,,,-0.5673628,44.88897
+Hôtel restaurant,Cuisine traditionnelle,Cuisine traditionnelle;Régionale française,Olicia,Hôtel Alton,107, rue de la Pelouse de Douet,33000,BORDEAUX,+33 5 56 99 55 55,www.hotel-alton.com,,,,,-0.6073336,44.82989
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle,Bateau d'Emile,Route Nationale 89,Penot,33230,ABZAC,+33 5 57 69 62 67,www.lebateaudemile.fr,,,,,-0.095812,45.014435
+Restaurant,Cuisine traditionnelle;Pizzeria,Cuisine traditionnelle,Le Ti Pont,31, Aillas Le Grand,,33124,AILLAS,+33 5 56 65 30 25,,,,,,-0.02142,44.470238
+Restaurant,Cuisine traditionnelle;Restauration à thème,Cuisine gastronomique;Triperies,L'Espace Tillac,29, rue de la Mouline,Z.A. de la Mouline,33440,AMBARES-ET-LAGRAVE,+33 5 56 06 47 71,www.restaurant-espace-tillac.com,,,,,-0.4903658,44.92714
+Hôtel restaurant,Cuisine traditionnelle,Cuisine traditionnelle;Poisson / fruits de mer,L'Etoile,13, place de l'Etoile,,33510,ANDERNOS-LES-BAINS,+33 5 56 82 00 29,,,,,,-1.0819162,44.73022
+Hôtel restaurant,Cuisine traditionnelle,Cuisine traditionnelle;Régionale française;Poisson / fruits de mer,Auberge Le Chêne,54, boulevard de la République,,33510,ANDERNOS-LES-BAINS,+33 5 56 82 05 10,,,,,,-1.0838526,44.73457
+Restaurant,Bistrot / bar à vin;Brasserie;Cuisine traditionnelle,Cuisine traditionnelle;Régionale française;Tapas,Le Café de la Plage,9, avenue du Général de Gaulle,,33510,ANDERNOS-LES-BAINS,+33 5 56 26 89 97,cafeplageandernos.fr,,,,,-1.1006927,44.739418
+Restaurant,Brasserie;Cuisine traditionnelle,Cuisine traditionnelle;Régionale française,Le Florentin,16, avenue Pasteur,,33510,ANDERNOS-LES-BAINS,+33 5 56 82 55 63,,,,,,-1.0985326,44.74125
+Restaurant,Brasserie;Cuisine traditionnelle;Grill;Pizzeria,Cuisine traditionnelle;Régionale française;Cuisine européenne,Les Temps Modernes,2, rue Panhard et Levassor,CAASI,33510,ANDERNOS-LES-BAINS,+33 5 57 17 42 68,www.lestempsmodernes-restaurant.fr,,,,,-1.0703086,44.760998
+Restaurant,Brasserie;Pizzeria;Cuisine traditionnelle;Grill,Cuisine traditionnelle,L'Airial,15 avenue du Général de Gaulle,,33510,ANDERNOS-LES-BAINS,+33 5 56 26 00 16,,,,,,-1.0998914,44.74088
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle,La Petite Table,15 boulevard de la Plage,,33510,ANDERNOS-LES-BAINS,+33 5 56 82 46 88,www.lapetitetable.fr,,,,,-1.106517,44.74421
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle;Poisson / fruits de mer;Régionale française,A la P'tite Assiette,Résidence du Vieux Marché,21, rue Pasteur,33510,ANDERNOS-LES-BAINS,+33 5 56 82 59 90,www.laptiteassiette-andernos.com,,,,,-1.101036,44.74015
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle;Poisson / fruits de mer;Régionale française,Les Tamaris,2 place Louis David,,33510,ANDERNOS-LES-BAINS,+33 5 56 26 74 77,www.restaurant-tamaris.com,,,Maître Restaurateur,,-1.100744,44.740013
+Restaurant,Cuisine traditionnelle,Poisson / fruits de mer,Chez Dubarry,Promenade de la piscine,,33510,ANDERNOS-LES-BAINS,+33 5 56 82 32 24,,,,,,-1.0915946,44.732224
+Restaurant,Cuisine traditionnelle,Poisson / fruits de mer,Chez Eliette,Port Ostréicole,19, avenue du Commandant Allègre,33510,ANDERNOS-LES-BAINS,+33 5 56 82 16 77,www.chez-eliette.com,,,Maître Restaurateur,,-1.1101341,44.743443
+Restaurant,Cuisine traditionnelle,Poisson / fruits de mer,La Parqueuse,13, avenue du Commandant David Allègre,Port Ostréicole,33510,ANDERNOS-LES-BAINS,+33 5 56 82 08 27,,,,,,-1.1104774,44.744354
+Restaurant,Cuisine traditionnelle,Poisson / fruits de mer;Cuisine traditionnelle;Tapas,L'Esquirey,port ostréicole,9, avenue du Commandant Allègre,33510,ANDERNOS-LES-BAINS,+33 5 56 82 22 15,,,,,,-1.1108207,44.743443
+Restaurant,Cuisine traditionnelle,Régionale française;Poisson / fruits de mer,Mon Désir,7 place de l'Etoile,,33510,ANDERNOS-LES-BAINS,+33 5 57 17 42 99,,,,,,-1.0823595,44.73038
+Restaurant,Cuisine traditionnelle;Brasserie,Poisson / fruits de mer;Cuisine traditionnelle;Cuisine bio;Régionale française,La Caouenne,place Louis David,,33510,ANDERNOS-LES-BAINS,+33 5 56 26 04 92,,,,,,-1.1007828,44.74015
+Restaurant,Cuisine traditionnelle;Restauration à thème,Cuisine traditionnelle;Régionale française;Poisson / fruits de mer,Le Cribus,288, boulevard de la République,,33510,ANDERNOS-LES-BAINS,+33 5 56 82 04 23,www.restaurant-le-cribus.com,,,,,-1.1048769,44.746918
+Restaurant,Cuisine traditionnelle;Restauration rapide;Brasserie,Cuisine traditionnelle;Poisson / fruits de mer;Régionale française,O plaisirs !,Casino Le Miami,route de Bordeaux,33510,ANDERNOS-LES-BAINS,+33 5 56 82 00 65,www.casinoandernos.com,,,,,-1.0648155,44.764347
+Restaurant,Pizzeria;Cuisine traditionnelle,Cuisine traditionnelle,Pizza 45,45, avenue du Général de Gaulle,,33510,ANDERNOS-LES-BAINS,+33 5 56 82 17 49,www.pizzeria45.com,,,,,-1.0991477,44.741367
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle,Chez Marie Paule,3 route du Petit Guilhem,,33390,ANGLADE,+33 5 57 64 41 84,,,,,,-0.636968,45.211834
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle,Le Passage,route des Marais,1 lieu-dit Romefort,33390,ANGLADE,+33 5 57 68 28 77,,,,,,-0.6542015,45.22286
+Hôtel restaurant,Bistrot / bar à vin;Brasserie,Cuisine traditionnelle;Viandes;Poisson / fruits de mer,Ville d'Hiver,20, avenue Victor Hugo,,33120,ARCACHON,+33 5 56 66 10 36,www.hotelvilledhiver.com,,,,,-1.1658036,44.65678
+Hôtel restaurant,Cuisine traditionnelle,Cuisine européenne;Poisson / fruits de mer,Côté d'Arguin,9, avenue du Parc,,33120,ARCACHON,+33 5 57 72 06 72,,,,,,-1.191269,44.65099
+Hôtel restaurant,Cuisine traditionnelle,Cuisine traditionnelle,Le Bordeaux,39 boulevard du Général Leclerc,,33120,ARCACHON,+33 5 56 83 80 30,,,,,,-1.1656459,44.6597
+Hôtel restaurant,Cuisine traditionnelle,Régionale française,L'Ostrei,22 avenue de la République,,33120,ARCACHON,+33 5 56 54 05 32,www.ostrei.fr,,,,,-1.1540094,44.657925
+Restaurant,Bistrot / bar à vin,Cuisine bio,Art Mot Nid 100 Thès,3 place Fleming,Ville d'Hiver,33120,ARCACHON,+33 5 57 52 27 43,,,,,,-1.1761593,44.656155
+Restaurant,Bistrot / bar à vin,Cuisine traditionnelle,Le Café de la Gare,35 boulevard du Général Leclerc,,33120,ARCACHON,+33 5 56 83 53 95,,,,,,-1.164695,44.659508
+Restaurant,Bistrot / bar à vin,Cuisine traditionnelle,Le Chiquito,124 boulevard de la Plage,,33120,ARCACHON,+33 5 56 83 16 29,,,,,,-1.1568969,44.66147
+Restaurant,Bistrot / bar à vin,Cuisine traditionnelle,Le French Coffee Shop,232 boulevard de la Plage,,33120,ARCACHON,+33 5 56 83 73 30,www.frenchcoffeeshop.com,,,,,-1.1673498,44.66248
+Restaurant,Bistrot / bar à vin,Fromagerie;Tapas;Sandwichs,Le Piment Noir,12, bis rue Mal de Lattre de Tassigny,,33120,ARCACHON,+33 5 56 83 41 66,www.lepimentnoir.com,,,,,-1.174314,44.6615
+Restaurant,Bistrot / bar à vin,Tapas,Le Troquet,173 boulevard de la Plage,,33120,ARCACHON,+33 5 56 22 51 35,,,,,,-1.1669615,44.662586
+Restaurant,Bistrot / bar à vin;Brasserie;Pizzeria,Cuisine traditionnelle;Régionale française,Le Bistrot du Boulevard,230, boulevard de la Plage,,33120,ARCACHON,+33 5 56 83 45 67,,,,,,-1.1671766,44.66254
+Restaurant,Brasserie,Cuisine traditionnelle,Brasserie Le Commerce,9, avenue Gambetta,,33120,ARCACHON,+33 5 56 83 05 17,,,,,,-1.1686074,44.66194
+Restaurant,Brasserie,Cuisine traditionnelle,Brasserie Le Mauresque,35 avenue de Lattre de Tassigny,,33120,ARCACHON,+33 5 56 83 39 09,,,,,,-1.17267,44.660526
+Restaurant,Brasserie,Cuisine traditionnelle,Le Corossol,105 boulevard de la Côte d'Argent,,33120,ARCACHON,+33 5 56 66 76 93,,,,,,-1.1865109,44.65193
+Restaurant,Brasserie,Cuisine traditionnelle,Le Repetto,2, avenue Gambetta,,33120,ARCACHON,+33 5 56 83 31 45,,,,,,-1.1685619,44.66247
+Restaurant,Brasserie,Cuisine traditionnelle,L'Ilot,8, avenue Gambetta,,33120,ARCACHON,+33 5 56 83 48 89,,,,,,-1.1684207,44.662
+Restaurant,Brasserie,Cuisine traditionnelle,Zen It Beach,plage Pereire,,33120,ARCACHON,+33 6 25 32 06 59,,,,,,-1.1915016,44.65974
+Restaurant,Brasserie,Glaces;Sandwichs,L'Estival,place de l'Aiguillon,,33120,ARCACHON,+33 5 56 83 15 18,,,,,,-1.1471665,44.656437
+Restaurant,Brasserie,Poisson / fruits de mer;Cuisine traditionnelle;Nouvelle cuisine française;Régionale française;Viandes,Brasserie Cap Péreire,1, avenue du Parc Pereire,,33120,ARCACHON,+33 5 56 83 24 01,www.restaurantcappereire.com,,,,,-1.1936101,44.65768
+Restaurant,Brasserie,Régionale française,Bacchus du Moulleau,4, avenue Notre Dame des Passes,,33120,ARCACHON,+33 5 56 54 50 35,,,,,,-1.2017511,44.641483
+Restaurant,Brasserie;Bistrot / bar à vin,Cuisine traditionnelle,Le Café de la Plage,1 boulevard Veyrier Montagnères,,33120,ARCACHON,+33 5 56 22 52 94,www.cafedelaplage.com,,,,,-1.166554,44.66328
+Restaurant,Brasserie;Bistrot / bar à vin;Cafétéria;Cuisine traditionnelle,Cuisine traditionnelle;Régionale française;Viandes;Tartes;Glaces;Poisson / fruits de mer,Brasserie les Marquises,rue Roger Expert,Place Nouvelle 1,33120,ARCACHON,+33 5 56 83 80 06,,,,,,-1.1699903,44.661716
+Restaurant,Brasserie;Crêperie;Cafétéria;Cuisine traditionnelle,Cuisine traditionnelle,La Paillotte,12 boulevard Marcel Gounouilhou,,33120,ARCACHON,+33 5 56 22 88 76,,,,,,-1.1697993,44.663116
+Restaurant,Brasserie;Cuisine traditionnelle,Cuisine traditionnelle;Glaces,Le Square Café,7, rue de Lattre de Tassigny,,33120,ARCACHON,+33 5 56 83 19 25,,,,,,-1.1724748,44.661945
+Restaurant,Brasserie;Cuisine traditionnelle,Cuisine traditionnelle;Viandes;Poisson / fruits de mer,Alice Mediastore Arcachon,Place Nouvelle,Ville d'été,33120,ARCACHON,+33 5 57 72 04 25,www.alicemediastore.fr,,,,,-1.1699903,44.661716
+Restaurant,Brasserie;Cuisine traditionnelle;Pizzeria,Cuisine européenne;Viandes;Tapas;Glaces,Au Bureau,25, avenue Gambetta,,33120,ARCACHON,+33 5 56 83 22 21,www.au-bureau.fr,,,,,-1.1685654,44.66086
+Restaurant,Brasserie;Pizzeria,Cuisine traditionnelle;Cuisine méditerranéenne,La Napolitaine,28, rue du Mal de Lattre de Tassigny,,33120,ARCACHON,+33 5 57 52 20 50,,,,,,-1.172463,44.66102
+Restaurant,Crêperie,Cuisine traditionnelle,La Cabane o Crêpes,4 boulevard de la Plage,,33120,ARCACHON,+33 5 57 52 04 43,,,,,,-1.1479796,44.656857
+Restaurant,Crêperie,Régionale française,Crêperie Bretonne La Minotière,28 rue Maréchal de Lattre de Tassigny,,33120,ARCACHON,+33 5 57 52 20 50,,,,,,-1.172572,44.661003
+Restaurant,Crêperie,Régionale française,Crêperie d'Arcachon,211, boulevard de la Plage,,33120,ARCACHON,+33 5 56 83 72 12,,,,,,-1.1711957,44.66252
+Restaurant,Crêperie,Régionale française,La Crêperie du Moulleau,3, avenue Notre Dame des Passes,,33120,ARCACHON,+33 5 57 52 23 88,,,,,,-1.2027021,44.641575
+Restaurant,Crêperie,Régionale française,La Saison 2,21 rue du Mal de Lattre de Tassigny,,33120,ARCACHON,+33 5 56 83 24 05,,,,,,-1.172399,44.661396
+Restaurant,Crêperie,Tartes,Le Salon,26 avenue Gambetta,,33120,ARCACHON,+33 5 57 52 34 85,,,,,,-1.1682927,44.660755
+Restaurant,Cuisine traditionnelle,Cuisine gastronomique,Aux Mille Saveurs,25, boulevard du Général Leclerc,,33120,ARCACHON,+33 5 56 83 40 28,www.auxmillesaveurs.fr,Confrérie de la chaîne des rôtisseurs,,Tables et Auberges de France,,-1.16362,44.658962
+Restaurant,Cuisine traditionnelle,Cuisine méditerranéenne,Vilaroma,17, rue du Professeur Jolyet,,33120,ARCACHON,+33 5 56 83 54 54,,,,,,-1.1637658,44.663643
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle,La Caravelle,Casino d'Arcachon,163, boulevard de la Plage,33120,ARCACHON,+33 5 56 83 41 44,www.casino-bassindarcachon.com,,,,,-1.1639844,44.66271
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle,Le Grill,3 place Franklin Roosevelt,,33120,ARCACHON,+33 5 56 83 01 20,,,,,,-1.170215,44.661385
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle,Le Pet du Diable,6, boulevard Mestrezat,,33120,ARCACHON,+33 5 57 52 08 59,,,,,,-1.1474496,44.652115
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle,Le Pote Agé,348, boulevard de la Plage,,33120,ARCACHON,+33 5 56 83 64 62,,,,,,-1.1745385,44.662567
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle,Les Tamaris,20, Boulevard Gounouilhou,Front de mer,33120,ARCACHON,+33 6 28 42 61 46,tamarisarcachon.blogspot.com,,,,,-1.1705735,44.663197
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle,L'Hacienda Café,86, boulevard de la Plage,,33120,ARCACHON,+33 5 56 83 58 97,www.bassin-restaurant.com,,,,,-1.1544714,44.660313
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle,Restaurant du Golf 19,35 boulevard d'Arcachon,,33120,ARCACHON,+33 5 57 52 68 00,www.restaurantdugolf19.fr,,,,,-1.1711647,44.636604
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle;Poisson / fruits de mer,La Cabane du Tchanquet,8, rue du Professeur Jolyet,,33120,ARCACHON,+33 5 56 83 97 70,,,,,,-1.1638173,44.66271
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle;Poisson / fruits de mer,Le Nioulargue Café,20, boulevard Veyrier Montagnères,,33120,ARCACHON,+33 5 56 83 49 43,www.nioulargue-cafe.fr,,,,,-1.167061,44.66324
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle;Poisson / fruits de mer,Le Santa Maria,quai Goslar,Centre Nautique Pierre Mallet,33120,ARCACHON,+33 5 56 83 11 05,,,,,,-1.1449704,44.66044
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle;Régionale française,Côté Courts,7 avenue du Parc,Tennis Club d'Arcachon,33120,ARCACHON,+33 5 56 15 38 78,,,,,,-1.1887764,44.65136
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle;Régionale française,La Calypso,84, boulevard de la Plage,,33120,ARCACHON,+33 5 56 83 65 08,www.restaurant-la-calypso.com,,,,,-1.154003,44.660236
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle;Régionale française,Le Bikini,18 allée des Arbousiers,,33120,ARCACHON,+33 5 56 83 91 36,,,,,,-1.1992679,44.64531
+Restaurant,Cuisine traditionnelle,Poisson / fruits de mer,Cap'tain Aldo,22, boulevard Veyrier Montagnères,,33120,ARCACHON,+33 5 56 83 78 81,www.captainaldo.com,,,,,-1.167414,44.663277
+Restaurant,Cuisine traditionnelle,Poisson / fruits de mer,Chez Yvette,59, boulevard du Général Leclerc,,33120,ARCACHON,+33 5 56 83 05 11;+33 5 56 83 77 27,,,,,,-1.1677091,44.660187
+Restaurant,Cuisine traditionnelle,Poisson / fruits de mer,La Loubine,80, boulevard de la Plage,,33120,ARCACHON,+33 5 56 83 12 15,www.laloubine-arcachon.com,,,,,-1.1539606,44.660072
+Restaurant,Cuisine traditionnelle,Poisson / fruits de mer,Le Noroît,88, boulevard de la Plage,,33120,ARCACHON,+33 5 56 83 82 41,,,,,,-1.1546474,44.660393
+Restaurant,Cuisine traditionnelle,Poisson / fruits de mer,Le Pavillon d'Arguin,63, boulevard du Général Leclerc,,33120,ARCACHON,+33 5 56 83 46 96,www.lepavillondarguin.com,,,,,-1.1678565,44.66029
+Restaurant,Cuisine traditionnelle,Poisson / fruits de mer,L'Ecailler Chez Diego,2, boulevard Veyrier Montagnères,,33120,ARCACHON,+33 5 56 83 84 46,www.diegoplage.com,,,,,-1.1638841,44.663692
+Restaurant,Cuisine traditionnelle,Poisson / fruits de mer,L'Espadon,29, rue de Lattre de Tassigny,,33120,ARCACHON,+33 5 56 83 08 44,,,,,,-1.1726001,44.660885
+Restaurant,Cuisine traditionnelle,Poisson / fruits de mer;Cuisine traditionnelle,La Bouée,30, boulevard Mestrezat,,33120,ARCACHON,+33 5 56 54 89 29,,,,,,-1.146474,44.65466
+Restaurant,Crêperie,Régionale française,Au Blé Noir,261 rue Pierre Brossolette,,33230,COUTRAS,+33 5 57 69 65 13,,,,,,-0.1304266,45.040035
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle,La Fourchette d'Elise,62, rue Gambetta,,33230,COUTRAS,+33 5 57 49 32 45,,,,,,-0.1294582,45.043568
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle,La Table du buffet,place du 8 mai 1945,,33230,COUTRAS,+33 5 57 40 71 15,,,,,,-0.0715409,45.016983
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle,Le Relais de l'Isle,29, Troquereau,,33230,COUTRAS,+33 5 57 69 68 46,,,,,,-0.055334,45.02645
+Restaurant,Cuisine traditionnelle;Brasserie,Cuisine traditionnelle,Le Bistrot du marché,5, rue des Bouquets,,33230,COUTRAS,+33 5 57 69 41 39,,,,,,-0.1218367,45.049553
+Hôtel restaurant,Cuisine traditionnelle,Régionale française;Cuisine gastronomique,Restaurant du Château Camiac,route de la Forêt,RD 121,33670,CREON,+33 5 56 23 20 85,www.chateaucamiac.com,,,,,-0.385087,44.794807
+Restaurant,Brasserie;Cuisine traditionnelle,Cuisine traditionnelle,Brasserie Pub Saint Léon,48 boulevard de Verdun,,33670,CREON,+33 6 09 79 60 32,www.brasseriesaintleon.com,,,,,-0.3475953,44.772686
+Restaurant,Brasserie;Cuisine traditionnelle,Cuisine traditionnelle,Le Chaudron,38, rue Amaury de Craon,,33670,CREON,+33 5 56 06 73 55,,,,,,-0.3472976,44.7738
+Restaurant,Brasserie;Cuisine traditionnelle,Régionale française;Cuisine traditionnelle,L'Entre Deux,route de La Sauve,rond point de l'Entre-deux-Mers,33670,CREON,+33 5 56 23 38 30,,,,,,-0.3361558,44.771812
+Restaurant,Brasserie;Cuisine traditionnelle;Pizzeria,Cuisine traditionnelle,Le Cosy,19 bis avenue de l'Entre-deux-Mers,,33670,CREON,+33 5 56 52 24 47,,,,,,-0.3430565,44.77219
+Restaurant,Crêperie,Régionale française,Crêperie Suc' Sel,36, place de la Prévôté,,33670,CREON,+33 5 56 23 22 81,www.suc-sel.com,,,,,-0.347745,44.77488
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle,Mano & Co,28 rue Jean Baspeyras,,33670,CREON,+33 9 54 18 63 57,,,,,,-0.3473299,44.77518
+Restaurant,Cuisine traditionnelle;Bistrot / bar à vin,Cuisine traditionnelle;Cuisine gastronomique;Régionale française,La Table,22, place de la Prévôté,,33670,CREON,+33 5 56 42 98 40,,,,,,-0.348092,44.774914
+Ferme auberge,Cuisine traditionnelle,Cuisine traditionnelle;Régionale française,Aux Repas Fermiers Houn Barrade,,,33430,CUDOS,+33 5 56 25 44 55,www.bienvenue-a-la-ferme.com/gironde/ferme-aux-repas-fermiers-houn-barrade-63748/contact_plan_acces,,,Bienvenue à la Ferme,,-0.203976,44.408295
+Restaurant,Brasserie;Cuisine traditionnelle,Cuisine traditionnelle,L'S-caudais,3 Bourg Ouest,,33840,ESCAUDES,+33 5 56 25 22 34,www.restaurant-escaudes.fr,,,,,-0.2018308,44.310368
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle,Restaurant de la gare d'Espiet,Sérigeau,,33420,ESPIET,+33 5 57 24 12 48,,,,,,-0.2677752,44.78703
+Hôtel restaurant,Cuisine traditionnelle,Cuisine traditionnelle,Hôtel de l'Estuaire,61, rue Principale,,33820,ETAULIERS,+33 5 57 64 70 36,,,,,,-0.5711174,45.233437
+Hôtel restaurant,Cuisine traditionnelle,Régionale française;Cuisine traditionnelle,Les Platanes,4, route de Saint-Savin,,33820,ETAULIERS,+33 5 57 64 70 42,www.logis-gironde.fr/detail_gite.php?gite=HOTAQU03301V3EXE ,Logis,2 cheminées;2 cocottes,,,-0.5724911,45.222176
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle,Le New Booster - Chez Bill et Véro,Le Pontet Sud Est,RD 137,33390,EYRANS,+33 5 57 64 55 80,,,,,,-0.6023597,45.187904
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle,Cercle de l'Union,2, Route du Stade,,33210,FARGUES,+33 5 56 76 28 94,,,,,,-0.2980199,44.53712
+Restaurant,Brasserie,Cuisine traditionnelle,Le Jep's,53 avenue de l'Entre-deux-Mers,,33370,FARGUES-SAINT-HILAIRE,+33 5 56 21 21 24,http://jeps-restaurant.com,,,,,-0.4469819,44.824238
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle,La Casa Italienne,68 avenue de l'Entre-deux-Mers,,33360,FARGUES-SAINT-HILAIRE,+33 5 56 78 49 01,www.casaitalienne.com,,,,,-0.4454981,44.823742
+Restaurant,Bistrot / bar à vin;Cuisine traditionnelle;Brasserie,Cuisine traditionnelle;Régionale française,Cèpe & Sarment,le Bourg,,33350,FLAUJAGUES,+33 5 57 40 29 94,,,,,,0.0157539,44.806053
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle;Régionale française,La Ferme de Serres,1, Serres,,33430,GAJAC,+33 5 56 25 19 32,http://lafermedeserres.blogspot.com,,,Assiette de Pays,,-0.1188164,44.439945
+Restaurant,Cuisine traditionnelle,Régionale française;Cuisine traditionnelle;Poisson / fruits de mer,La Saye,1 impasse du Plantis,,33133,GALGON,+33 5 57 74 32 35,,,,,,-0.2749586,44.995777
+Restaurant,Cuisine traditionnelle,Cuisine gastronomique;Régionale française,La Filadière,11, Corniche de la Gironde,Lieu-dit Furt,33710,GAURIAC,+33 5 57 64 94 05,www.lafiladiere.com,,,,,-0.6235599,45.06273
+Restaurant,Restauration rapide,Cuisine traditionnelle,Le Bistrot de Gauriac,48t Franciscot Nord,,33710,GAURIAC,+33 9 81 45 93 25,,,,,,-0.61331,45.06813
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle,L'Ange Bleu,,,33240,GAURIAGUET,+33 5 57 68 07 07,www.angebleu.fr,,,,,-0.395203,45.042202
+Hôtel restaurant,Cuisine traditionnelle,Cuisine gastronomique;Régionale française,Les Remparts,16, rue du Château,,33890,GENSAC,+33 5 57 47 43 46,www.lesremparts.net,Logis,2 cheminées;Table distinguée,,,-0.383012,44.959698
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle,L'Orée Mance,4, rue Carreyron,,33890,GENSAC,+33 5 57 47 11 35,www.loree-mance.com,,,,,0.071616,44.8048
+Restaurant,Pizzeria;Cuisine traditionnelle,Cuisine méditerranéenne,L'Art de Vivre,96 rue du Général de Gaulle,,33190,GIRONDE-SUR-DROPT,+33 5 56 71 12 88,,,,,,-0.0838994,44.5855
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle,Chez Marian,28, Cousseau,,33660,GOURS,+33 5 57 41 03 58,,,,,,0.0061459,45.002216
+Hôtel restaurant,Cuisine traditionnelle,Régionale française;Cuisine traditionnelle,Au Comté d'Ornon,allée de Mégevie,,33170,GRADIGNAN,+33 5 56 75 26 85,www.aucomtedornon.com,Logis,2 cheminées;2 cocottes,Qualité Tourisme,,-0.615679,44.769302
+Restaurant,Brasserie;Cuisine traditionnelle,Cuisine traditionnelle;Tapas,Le Relax café,rue des Bernaches,,33590,GRAYAN-ET-L'HOPITAL,+33 5 56 09 43 28,,,,,,-1.095983,45.43836
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle,La soupe à l'oignon,29 chemin de Dépée,,33590,GRAYAN-ET-L'HOPITAL,+33 5 56 09 52 46,,,,,,-1.100008,45.415646
+Restaurant,Cuisine traditionnelle,Poisson / fruits de mer,Le Méduli,Le Gurp,,33590,GRAYAN-ET-L'HOPITAL,+33 5 56 09 15 60,,,,,,-1.142472,45.436897
+Restaurant,Cuisine traditionnelle;Pizzeria,Cuisine traditionnelle;Poisson / fruits de mer,Les Contes de la Mer,Le Gurp,,33590,GRAYAN-ET-L'HOPITAL,+33 5 56 09 54 02,,,,,,-1.142472,45.436897
+Restaurant,Crêperie,Cuisine traditionnelle,Voyages et Gourmandises,23 Grand Rue,,33230,GUITRES,+33 5 57 47 92 46,,,,,,-0.1863824,45.040474
+Hôtel restaurant,Cuisine traditionnelle,Cuisine gastronomique,La Guérinière,18 cours de Verdun,,33470,GUJAN-MESTRAS,+33 5 56 66 08 78,www.lagueriniere.com,,,Tables et Auberges de France,,-1.0741978,44.636135
+Restaurant,Brasserie;Cuisine traditionnelle,Poisson / fruits de mer;Cuisine traditionnelle,La Marine,91, port de Larros,,33470,GUJAN-MESTRAS,+33 5 56 66 40 00,,,,,,-1.0721433,44.641148
+Restaurant,Cafétéria,Cuisine traditionnelle,Cafétéria Crescendo,Centre Commercial Grand Large,,33470,GUJAN-MESTRAS,+33 5 56 66 97 70,www.crescendo-restauration.fr,,,,,-1.0753834,44.617355
+Restaurant,Crêperie,Cuisine traditionnelle,Le Tégalet,place de la Claire,,33470,GUJAN-MESTRAS,+33 5 56 54 05 77,,,,,,-1.0599768,44.638874
+Restaurant,Crêperie,Régionale française,La Crêperie du Bassin,84 route des Lacs,,33470,GUJAN-MESTRAS,+33 5 57 15 86 68,,,,,,-1.1108422,44.628742
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle,La Vache sur le Toit,2 route des Lacs,,33470,GUJAN-MESTRAS,+33 5 57 52 42 51,,,,,,-1.1126232,44.638134
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle,Le Bistrot Gourmand,4 avenue du Maréchal Leclerc,,33470,GUJAN-MESTRAS,+33 5 57 52 45 33,,,,,,-1.0708075,44.636806
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle,Le Lodge,La Lande,chemin du Loup,33470,GUJAN-MESTRAS,+33 5 57 73 00 78,www.casino-gujanmestras.fr,,,,,-1.0944914,44.61685
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle,Le Rococo,24 avenue de la Gare,,33470,GUJAN-MESTRAS,+33 5 57 52 40 71,,,,,,-1.0687449,44.640114
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle,Le Tie Break,Tennis club de Gujan-Mestras,121 route des Lacs,33470,GUJAN-MESTRAS,+33 5 57 15 78 20,www.tennis-gujanmestras.fr,,,,,-1.1079239,44.62512
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle,L'Endroit,184 avenue de Lattre de Tassigny,,33470,GUJAN-MESTRAS,+33 5 56 83 27 41,,,,,,-1.0942554,44.636154
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle,Restaurant du Golf de Gujan,route de Sanguinet,,33470,GUJAN-MESTRAS,+33 5 57 52 73 76,www.bluegreen.com,,,,,-1.0902214,44.6037
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle,Restaurant Le Khélus,Village Khélus,La Hume,33470,GUJAN-MESTRAS,+33 5 56 83 92 59,www.location-salle-arcachon.com;http://myspace.com/lekhelus,,,,,-1.1123657,44.619617
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle;Poisson / fruits de mer,Chez Patoune - Restaurant du Canal,3 rue des Frères Larroque,,33470,GUJAN-MESTRAS,+33 5 56 83 69 97,,,,,,-1.0655682,44.641857
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle;Poisson / fruits de mer,La Marinière,50 avenue de la Plage,,33470,GUJAN-MESTRAS,+33 5 40 70 27 48,,,,,,-1.1141628,44.64334
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle;Poisson / fruits de mer,Les Pavois,113 Port de Larros,,33470,GUJAN-MESTRAS,+33 5 56 66 38 71,www.restaurant-lespavois.com,,,,,-1.0727548,44.641502
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle;Régionale française,Lou Totem,243 route des Grands Lacs,,33470,GUJAN-MESTRAS,+33 5 56 54 66 72,,,,,,-1.102066,44.5787
+Restaurant,Cuisine traditionnelle,Poisson / fruits de mer,La Humoise,place du Marché,,33470,GUJAN-MESTRAS,+33 5 56 66 59 65,,,,,,-1.1116361,44.63832
+Restaurant,Cuisine traditionnelle,Poisson / fruits de mer;Cuisine traditionnelle,L'Escalumade,8 boulevard Pierre Dignac,,33470,GUJAN-MESTRAS,+33 5 56 66 02 30,,,,,,-1.0729694,44.63991
+Restaurant,Cuisine traditionnelle,Poisson / fruits de mer;Régionale française,Les Viviers,Port de Larros,,33470,GUJAN-MESTRAS,+33 5 56 66 01 04,www.restaurant-lesviviers.com,,,,,-1.0721272,44.64081
+Restaurant,Pizzeria,Cuisine méditerranéenne,Les Jardins d'Italie,153, route des Grands Lacs,,33470,GUJAN-MESTRAS,+33 5 56 66 35 78,,,,,,-1.0960578,44.613506
+Restaurant,Pizzeria,Cuisine méditerranéenne,Restaurant "Chez Gigi",88 cours de le République,,33470,GUJAN-MESTRAS,+33 5 56 22 20 66,,,,,,-1.0619562,44.639023
+Restaurant,Pizzeria;Cuisine traditionnelle;Restauration à thème,Cuisine traditionnelle;Cuisine méditerranéenne,Pizzeria Tesy,16 avenue de Lattre de Tassigny,,33470,GUJAN-MESTRAS,+33 5 56 66 49 46,,,,,,-1.1155259,44.639202
+Restaurant,Restauration à thème,Cuisine européenne;Cuisine méditerranéenne,La Féria,Lac de la Magdeleine,chemin du Loup,33470,GUJAN-MESTRAS,+33 5 57 52 48 41,www.alaferia.fr;www.gujanmestrasbassindesloisirs.com,,,,,-1.0933971,44.615982
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle,Le Bord'Haux,224 Grand Chemin,,33550,HAUX,+33 5 57 83 08 42,,,,,,-0.3595775,44.735065
+Restaurant,Brasserie,Poisson / fruits de mer,La Brasserie du Port,résidence Babord 1,,33990,HOURTIN,+33 5 56 09 14 66,,,,Famille Plus,,-1.0847496,45.18109
+Restaurant,Brasserie;Restauration rapide,Sandwichs;Glaces;Cuisine traditionnelle,Le Café du Port,38, résidence Babord 1,,33990,HOURTIN,+33 5 56 09 29 03,,,,Famille Plus,,-1.0848999,45.181763
+Restaurant,Cuisine traditionnelle;Pizzeria,Cuisine traditionnelle;Poisson / fruits de mer,Les Genêts 2,14, rue des Genêts,,33990,HOURTIN,+33 5 56 09 10 41,,,,,,-1.1678391,45.223244
+Restaurant,Cuisine traditionnelle;Pizzeria,Cuisine traditionnelle;Régionale française,Le Surf,25, avenue Jean Lafitte,,33990,HOURTIN,+33 5 56 09 11 39,www.le-surf-restaurant-hourtin.com,,,,,-1.169604,45.22349
+Restaurant,Pizzeria;Grill;Crêperie,Cuisine traditionnelle,Le Ty Mad,9, avenue de la Marine,Contaut,33990,HOURTIN,+33 5 56 09 13 70,www.tymad-restaurant-hourtin.fr,,,Famille Plus,,-1.1260128,45.2148
+Restaurant,Restauration rapide;Bistrot / bar à vin;Pizzeria;Brasserie,Cuisine traditionnelle,Le Cigalion,Les Moussaillons,rue des Mascottes,33990,HOURTIN,+33 5 56 59 45 10,,,,,,-1.0833886,45.186207
+Restaurant,Cuisine traditionnelle;Pizzeria,Cuisine traditionnelle;Poisson / fruits de mer,Le Grillon,13 avenue Jean Lafitte,,33990,HOURTIN PLAGE,+33 5 56 09 32 37,www.legrillonhourtin.fr,,,Famille Plus,,-1.1680161,45.223312
+Restaurant,Pizzeria,Cuisine européenne,Pizzeria du Port,place du port,,33990,HOURTIN PORT,+33 5 56 09 18 88,,,,Famille Plus,,-1.0848999,45.181736
+Restaurant,Cuisine traditionnelle;Pizzeria,Cuisine traditionnelle;Cuisine européenne;Poisson / fruits de mer,Restaurant de la Gare,27 rue de la Gare,,33990,HOURTIN VILLAGE,+33 5 56 41 92 59,,,,Famille Plus,,-1.0639464,45.187187
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle;Régionale française,Le Petit Caboulot,12, place de l'Eglise,,33640,ISLE-SAINT-GEORGES,+33 5 56 72 68 92,www.lepetitcaboulot.com,,,,,-0.4780087,44.709282
+Restaurant,Brasserie,Cuisine traditionnelle,Le Cercle,11 place Montesquieu,,33650,LA BREDE,+33 5 56 88 62 14,,,,,,-0.5275675,44.6811
+Restaurant,Brasserie;Restauration rapide,Cuisine traditionnelle;Sandwichs,Le Coin Sympa,92 avenue Charles de Gaulle,,33650,LA BREDE,+33 5 56 68 17 08,,,,,,-0.5172908,44.68804
+Restaurant,Cuisine traditionnelle,Cuisine gastronomique,La Table de Montesquieu,place Saint Jean d'Estampe,,33650,LA BREDE,+33 5 56 78 52 91,www.latabledemontesquieu.fr,,,,,-0.527373,44.681137
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle,Le Philosophe,ZAC du Filleau,1, rue Viana,33650,LA BREDE,+33 5 56 91 20 58,,,,,,-0.5274531,44.68205
+Restaurant,Grill;Brasserie;Pizzeria,Cuisine traditionnelle,Les Emportés du Piccolo,80 avenue du Général de Gaulle,,33650,LA BREDE,+33 5 56 20 08 38,,,,,,-0.5206736,44.683563
+Restaurant,Cafétéria,Cuisine traditionnelle,Les Oliviers,Centre commercial de Frimont,,33190,LA REOLE,+33 5 56 61 17 24,,,,,,-0.0678491,44.58344
+Restaurant,Crêperie,Régionale française,L'Echoppe,14 rue Peysseguin,,33190,LA REOLE,+33 5 56 61 06 28,,,,,,-0.0395464,44.582092
+Restaurant,Crêperie;Cuisine traditionnelle,Régionale française,Le Minerai, café de la gare,14, avenue de la Victoire,,33190,LA REOLE,+33 5 56 71 25 35,,,,,,-0.0340621,44.579727
+Restaurant,Cuisine traditionnelle,Cuisine gastronomique;Régionale française,Les Fontaines,8, rue de Verdun,,33190,LA REOLE,+33 5 56 61 15 25,,,,,,-0.039207,44.583595
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle,Les Quat'Sauces,53 avenue du Général Leclerc,,33190,LA REOLE,+33 5 56 71 22 99,,,,,,-0.0347375,44.581898
+Restaurant,Cuisine traditionnelle;Grill,Cuisine traditionnelle,Le Tassigny,9, avenue de Lattre de Tassigny,,33190,LA REOLE,+33 5 56 61 12 78,,,,,,-0.040256,44.583748
+Restaurant,Pizzeria,Cuisine méditerranéenne,Le Solendo,60, rue Armand Caduc,,33190,LA REOLE,+33 5 56 61 46 31,,,,,,-0.0395475,44.581947
+Restaurant,Pizzeria;Cuisine traditionnelle,Cuisine traditionnelle,La Strada,place de la Libération,,33190,LA REOLE,+33 5 56 61 29 08,,,,,,-0.036995,44.5822
+Restaurant,Restauration à thème;Restauration rapide,Cuisine asiatique,Le Shun-May,58, rue Armand Caduc,,33190,LA REOLE,+33 5 56 61 24 73,,,,,,-0.039548,44.581947
+Restaurant,Restauration rapide,Cuisine méditerranéenne;Sandwichs,Spécialités Orientales,1, rue Armand Caduc,,33190,LA REOLE,+33 9 50 47 07 55,,,,,,-0.0369393,44.58223
+Restaurant,Cuisine traditionnelle;Restauration à thème,Poisson / fruits de mer,Le Face à l'Eau,8, port de Tressac Est,,33126,LA RIVIERE,+33 5 57 24 97 10,,,,,,-0.3193214,44.93143
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle,Chez les Zucc's,2 La Croix,,33220,LA ROQUILLE,+33 5 57 46 58 31,www.chez-les-zuccs.com,,,,,0.2345757,44.78598
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle;Régionale française,Le Relais,23 le Bourg Ouest,,33220,LA ROQUILLE,+33 5 57 47 90 12,,,,,,0.23056268,44.792572
+Hôtel restaurant,Cuisine traditionnelle,Cuisine gastronomique;Cuisine traditionnelle,Le Roof,960 avenue de l'Europe,,33260,LA TESTE-DE-BUCH,+33 5 57 15 22 20,www.qualityarcachon-spa.fr,,,,,-1.1182062,44.617424
+Hôtel restaurant,Cuisine traditionnelle,Cuisine traditionnelle;Régionale française,Le Bistrot,3, avenue Charles de Gaulle,,33260,LA TESTE-DE-BUCH,+33 5 57 15 11 11,www.le-bistrot-du-centre.com,,,,,-1.1445065,44.63306
+Restaurant,Bistrot / bar à vin;Brasserie,Cuisine traditionnelle,La Vie de Châteaux,13, rue Pierre Dignac,,33260,LA TESTE-DE-BUCH,+33 5 56 22 17 14,,,,,,-1.1467516,44.631863
+Restaurant,Brasserie,Cuisine traditionnelle,Chez Steph,4, place Jean Hameau,,33260,LA TESTE-DE-BUCH,+33 5 56 54 68 75,,,,,,-1.1455768,44.632774
+Restaurant,Brasserie,Cuisine traditionnelle;Sandwichs,Chez Gus,16 place Gambetta,,33260,LA TESTE-DE-BUCH,+33 5 57 52 34 07,,,,,,-1.1465435,44.63069
+Restaurant,Brasserie,Cuisine traditionnelle;Sandwichs,L'Esquirey,1, rue du Port,place Jean Hameau,33260,LA TESTE-DE-BUCH,+33 5 56 54 67 03,,,,,,-1.1450672,44.63324
+Restaurant,Brasserie;Bistrot / bar à vin;Restauration rapide,Cuisine traditionnelle;Sandwichs,La Chapelle,marché municipal,1 rue des Halles,33260,LA TESTE-DE-BUCH,+33 5 57 52 40 68,,,,,,-1.1504852,44.63225
+Restaurant,Brasserie;Cuisine traditionnelle,Cuisine traditionnelle;Glaces;Poisson / fruits de mer;Régionale française,Café Ferrane,341 avenue Vulcain,,33260,LA TESTE-DE-BUCH,+33 5 56 22 64 77,,,,,,-1.1236953,44.615337
+Restaurant,Brasserie;Cuisine traditionnelle;Restauration rapide,Cuisine traditionnelle,Café Marius,Cap Océan,,33260,LA TESTE-DE-BUCH,+33 5 56 54 23 89,,,,,,-1.152985,44.635887
+Restaurant,Brasserie;Restauration rapide,Cuisine traditionnelle,Le Bistrot du Marché,boulevard des Miquelots,,33260,LA TESTE-DE-BUCH,+33 5 57 52 55 30,www.le-bistrot-du-marche.com,,,,,-1.1471271,44.61152
+Restaurant,Cafétéria,Cuisine traditionnelle,Cafétéria Crescendo,centre commercial Cap Océan,rue Lagrua,33260,LA TESTE-DE-BUCH,+33 5 57 52 63 76,,,,,,-1.1532211,44.635498
+Restaurant,Crêperie;Pizzeria,Cuisine traditionnelle,La Rieuse,24 chemin Lagrua,,33260,LA TESTE-DE-BUCH,+33 5 57 15 63 52,,,,,,-1.1531352,44.6382
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle,La Table des Gourmets,Hippodrome du Bequet,route de Cazaux,33260,LA TESTE-DE-BUCH,+33 5 56 54 10 27,,,,,,-1.1296176,44.60295
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle,Les Océanides,1270, avenue Gustave Eiffel,,33260,LA TESTE-DE-BUCH,+33 5 56 22 23 14,www.restaurantlesoceanides.fr,,,,,-1.1184382,44.610146
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle,Restaumarché,Centre Commercial Les Miquelots,boulevard des Miquelots,33260,LA TESTE-DE-BUCH,+33 5 56 54 75 60,wwww.restaumarche.com,,,,,-1.1476421,44.610542
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle,Restaurant du Golf 19,35, boulevard d'Arcachon,,33260,LA TESTE-DE-BUCH,+33 5 57 52 68 00,www.restaurantdugolf19.com,,,,,-1.1721897,44.637756
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle;Poisson / fruits de mer,Restaurant du Port,2, avenue des Ostréiculteurs,,33260,LA TESTE-DE-BUCH,+33 5 56 54 64 81,www.restaurantduport-lateste.com,,,,,-1.1431789,44.638245
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle;Régionale française,Le Cabanon,136, avenue Charles de Gaulle,,33260,LA TESTE-DE-BUCH,+33 5 56 66 93 05,www.wix.com/loeildubassin/Restaurant-Le-Cabanon,,,,,-1.1194252,44.63883
+Restaurant,Cuisine traditionnelle;Grill;Pizzeria,Cuisine traditionnelle;Viandes,La Brochette,41, rue du Port,,33260,LA TESTE-DE-BUCH,+33 5 56 66 30 11,,,,,,-1.1446809,44.636597
+Restaurant,Cuisine traditionnelle;Restauration à thème,Cuisine traditionnelle;Poisson / fruits de mer,Robinson Crusoë,6, avenue Binghamton,,33260,LA TESTE-DE-BUCH,+33 5 56 54 77 27,www.crusoe.fr,,,,,-1.1344027,44.61615
+Restaurant,Cuisine traditionnelle;Restauration à thème,Cuisine traditionnelle;Régionale française,Le Bouzin,78, rue Lagrua,,33260,LA TESTE-DE-BUCH,+33 5 57 73 67 00,,,,,,-1.155542,44.640663
+Restaurant,Grill;Cuisine traditionnelle,Cuisine traditionnelle;Régionale française;Viandes,Courtepaille,1, impasse du Bosquet,,33260,LA TESTE-DE-BUCH,+33 5 57 15 20 00,www.courtepaille.com,,,,,-1.1390161,44.616776
+Restaurant,Grill;Pizzeria,Cuisine traditionnelle,Domaine de la Forge,route de Sanguinet,,33260,LA TESTE-DE-BUCH,+33 5 56 66 07 72,www.domainedelaforge.com,,,,,-1.1106,44.60484
+Restaurant,Pizzeria;Cuisine traditionnelle;Restauration rapide,Cuisine traditionnelle;Tapas,Quai Ouest,4 boulevard de Curepipe,,33260,LA TESTE-DE-BUCH,+33 5 57 15 78 81,,,,,,-1.1426293,44.637833
+Restaurant,Pizzeria;Restauration rapide,Cuisine méditerranéenne,La Pizzéria Artisanale,2, avenue de Binghamton,,33260,LA TESTE-DE-BUCH,+33 5 57 15 11 51,,,,,,-1.135565,44.61558
+Restaurant,Pizzeria;Restauration rapide,Cuisine méditerranéenne,Martinella Pizza,32, rue Victor Hugo,,33260,LA TESTE-DE-BUCH,+33 5 56 66 88 42,,,,,,-1.1486721,44.632915
+Restaurant,Pizzeria;Restauration rapide,Cuisine traditionnelle,Pizza Testerine,7, avenue du Général Leclerc,,33260,LA TESTE-DE-BUCH,+33 5 56 54 57 88,,,,,,-1.1456894,44.638626
+Restaurant,Pizzeria;Restauration rapide;Cuisine traditionnelle,Cuisine traditionnelle;Sandwichs,Le 501,501, avenue Gustave Eiffel,,33260,LA TESTE-DE-BUCH,+33 5 57 15 38 28,,,,,,-1.1252188,44.61077
+Restaurant,Restauration à thème,Cuisine asiatique,Asie Gourmande,22, avenue de Verdun,,33260,LA TESTE-DE-BUCH,+33 5 56 54 93 70,,,,,,-1.1535966,44.634514
+Restaurant,Restauration à thème,Cuisine asiatique,New Gui Lin,Centre Commercial Cap Océan,,33260,LA TESTE-DE-BUCH,+33 5 56 22 88 88,,,,,,-1.1347889,44.637863
+Restaurant,Restauration à thème,Tapas,Bodéga 502,3 boulevard de Curepipe,,33260,LA TESTE-DE-BUCH,+33 5 57 15 77 65,,,,,,-1.1362266,44.638836
+Restaurant,Restauration à thème;Cuisine traditionnelle,Cuisine traditionnelle;Régionale française,La Pataterie,,rue Lagrua,33260,LA TESTE-DE-BUCH,+33 5 56 66 49 75,,,,,,-1.1543583,44.638153
+Restaurant,Restauration rapide,Cuisine asiatique,Oh Sushi,3 rue du Général Castelnau,,33260,LA TESTE-DE-BUCH,+33 9 83 01 26 80,,,,,,-1.1463194,44.63178
+Restaurant,Restauration rapide,Sandwichs,Le Baron One,18 rue Lagrua,,33260,LA TESTE-DE-BUCH,+33 5 57 72 40 51,,,,,,-1.151502,44.637287
+Restaurant,Restauration rapide,Sandwichs,Le Buffet du Port,43 rue du Port,,33260,LA TESTE-DE-BUCH,+33 6 12 78 92 14,,,,,,-1.1445736,44.636795
+Restaurant,Restauration rapide,Sandwichs,Mc Donald's,3, avenue de Binghamton,,33260,LA TESTE-DE-BUCH,+33 5 56 54 12 12,,,,,,-1.1359691,44.61647
+Restaurant,Restauration rapide,Sandwichs,Mc Donald's La Teste Océan,106, rue Lagrua,,33260,LA TESTE-DE-BUCH,+33 5 56 22 26 22,,,,,,-1.1571693,44.645267
+Restaurant,Restauration rapide,Sandwichs,Régal Pasta,960 avenue de l'Europe,"Le Roof",33260,LA TESTE-DE-BUCH,+33 5 56 83 33 67,,,,,,-1.113739,44.616074
+Restaurant,Restauration rapide,Sandwichs,Sandwicherie XXL,rue du Baou,,33260,LA TESTE-DE-BUCH,+33 6 12 34 55 67,,,,,,-1.1542294,44.6313
+Restaurant,Restauration rapide;Pizzeria,Cuisine méditerranéenne,Raffa'Nelli,61, avenue Charles de Gaulle,,33260,LA TESTE-DE-BUCH,+33 5 57 73 07 01,www.raffanelli.fr,,,,,-1.1394667,44.63385
+Restaurant,Restauration rapide;Pizzeria,Cuisine traditionnelle,La Station Gourmande,122, avenue Charles de Gaulle,,33260,LA TESTE-DE-BUCH,+33 5 56 66 24 14,,,,,,-1.131992,44.63618
+Restaurant,Restauration rapide;Pizzeria,Cuisine traditionnelle,L'Italienne,2, rue Pierre Dignac,,33260,LA TESTE-DE-BUCH,+33 5 56 54 29 11,,,,,,-1.1457577,44.6326
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle,La Gare Gourmande,3 route des Châteaux,,33460,LABARDE,+33 5 56 35 92 38,www.la-gare-gourmande.fr,,,,,-0.6382878,45.02207
+Restaurant,Brasserie,Cuisine traditionnelle,Chez l'Australien,19 allée Pierre Ortal,,33680,LACANAU,+33 5 56 03 21 02,,,,,,-1.1987439,45.001484
+Restaurant,Cuisine traditionnelle,Poisson / fruits de mer,La Conche,allée du Club de Voile,baie de la Grande Escoure,33680,LACANAU,+33 5 56 03 08 37,,,,,,-1.1404806,44.96734
+Hôtel restaurant,Cuisine traditionnelle,Cuisine traditionnelle,La Cuisine de l'Ardilouse,Domaine de l'Ardilouse,,33680,LACANAU OCEAN,+33 5 56 03 92 92,www.golf-hotel-lacanau.fr,,,,,-1.1711275,45.00081
+Hôtel restaurant,Cuisine traditionnelle,Cuisine traditionnelle,L'Authentique,route du Baganais,,33680,LACANAU OCEAN,+33 5 56 03 91 00,www.vitalparc.com,,,Famille Plus,,-1.1713421,44.992027
+Hôtel restaurant,Cuisine traditionnelle,Cuisine traditionnelle,Le Patio,route du Baganais,,33680,LACANAU OCEAN,+33 5 56 03 80 00,www.hotel-vitanova.com,,,,,-1.178863,44.994823
+Hôtel restaurant,Cuisine traditionnelle,Nouvelle cuisine française,L'Imprévu,front de mer,,33680,LACANAU OCEAN,+33 5 56 03 11 11,www.hotel-oyat.com,,,,,-1.2013936,45.000694
+Restaurant,Brasserie,Cuisine traditionnelle,L'Equipage,5, avenue de l'Europe,,33680,LACANAU OCEAN,+33 5 56 03 27 43,,,,Famille Plus,,-1.1974936,45.00161
+Restaurant,Brasserie;Cuisine traditionnelle,Cuisine traditionnelle,Le Kayoc,front de Mer,,33680,LACANAU OCEAN,+33 5 56 03 20 75,www.restaurant-kayoc-lacanau.com,,,Famille Plus,,-1.2018227,45.00134
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle,Le Bistrot des Cochons,1, rue du Docteur Darrigan,,33680,LACANAU OCEAN,+33 5 56 03 15 61,,,,,,-1.199001,45.002472
+Restaurant,Cuisine traditionnelle,Poisson / fruits de mer;Cuisine traditionnelle,La Garluche,12, avenue Henri Seguin,,33680,LACANAU OCEAN,+33 5 57 70 82 25,,,,Famille Plus,,-1.196689,45.00066
+Restaurant,Restauration à thème,Cuisine africaine,L'Assiette,boulevard de la Plage,,33680,LACANAU OCEAN,+33 5 57 70 04 72,,,,Famille Plus,,-1.2011843,45.002964
+Restaurant,Restauration à thème,Cuisine européenne,La Tasca Bodega,8, avenue Jules Ferry,,33680,LACANAU OCEAN,+33 5 57 70 56 09,,,,Famille Plus,,-1.1998802,45.002735
+Restaurant,Restauration à thème,Régionale française,La Canne à Sucre,11, rue Sylvain Marian,,33680,LACANAU OCEAN,+33 5 56 03 21 25,,,,,,-1.1987328,45.002
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle,L'Imprévu,9 route de Coutras,,33230,LAGORCE,+33 5 57 48 59 72,,,,,,-0.16222,45.088673
+Restaurant,Crêperie,Cuisine traditionnelle,Crêperie Les Coquelicots,38, route des Terroirs,,33790,LANDERROUAT,+33 5 56 71 26 82,,,,,,0.1587596,44.742416
+Restaurant,Brasserie,Cuisine traditionnelle,Le Saint Martin,5, place Aimé Gouzy,,33550,LANGOIRAN,+33 5 56 32 70 31,,,,,,-0.40082,44.708595
+Hôtel restaurant,Cuisine traditionnelle,Cuisine gastronomique,Claude Darroze,95, cours du Général Leclerc,,33210,LANGON,+33 5 56 63 00 48,www.darroze.com,,,Tables et Auberges de France,,-0.2466122,44.552937
+Hôtel restaurant,Cuisine traditionnelle,Cuisine traditionnelle,Le Tire Bouchon,6 rue des Bruyères,,33210,LANGON,+33 5 57 98 21 65,http://hotel-atlantis.fr,,,,,-0.2638848,44.545364
+Hôtel restaurant,Cuisine traditionnelle,Régionale française;Cuisine traditionnelle,Horus - Les Bruyères,2, rue des Bruyères,,33210,LANGON,+33 5 56 62 36 37,www.hotel-restaurant-horus-langon.com,Logis,3 cheminées;2 cocottes,Qualité Tourisme,,-0.263909,44.545372
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle,Au Langonnais,78, cours du Mal de Lattre de Tassigny,,33210,LANGON,+33 5 56 76 27 75,,,,,,-0.2447842,44.550358
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle,Le Destiné,38 cours Sadi Carnot,,33210,LANGON,+33 5 56 63 51 83,,,,,,-0.2511766,44.556446
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle;Régionale française,La Table Bio,62, cours des Fossés,,33210,LANGON,+33 5 56 76 25 66,,,,,,-0.2471663,44.55493
+Restaurant,Pizzeria;Cuisine traditionnelle,Cuisine traditionnelle,La Madrague,42, cours du Mal de Lattre de Tassigny,,33210,LANGON,+33 5 56 62 26 73,,,,,,-0.2450735,44.55132
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle;Régionale française,Les Places,5, rue les Places,,33710,LANSAC,+33 5 57 68 24 26,http://restaurantlesplaces.monsite.orange.fr/index.jhtml,,,,,-0.542945,45.061375
+Hôtel restaurant,Cuisine traditionnelle,Régionale française;Cuisine traditionnelle,L'Océana,7, avenue Guy Célérier,Taussat,33138,LANTON,+33 5 56 82 06 20,www.oceana-hotel.fr,Logis,2 cocottes;2 cheminées,,,-1.0710647,44.71957
+Restaurant,Bistrot / bar à vin,Cuisine traditionnelle,Café Le Baryton,8 avenue Paul Gauguin,,33138,LANTON,+33 5 56 82 31 83,,,,,,-1.0388922,44.703526
+Restaurant,Brasserie;Cuisine traditionnelle,Poisson / fruits de mer;Cuisine traditionnelle,Moules & Co,1, place de Courcy,Taussat,33138,LANTON,+33 5 56 26 47 36,,,,,,-1.0696961,44.718582
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle,La Bûcherie,route du Cap Ferret,Blagon,33138,LANTON,+33 5 56 82 05 48,,,,,,-0.8743646,44.793037
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle,La Fagotière,route de Bordeaux,Blagon,33138,LANTON,+33 5 56 82 08 00,,,,,,-1.0266803,44.74142
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle,Le Falbala,20, boulevard Charles de Gaulle,,33138,LANTON,+33 5 57 70 58 29,www.lefalbala.biz,,,,,-1.066899,44.72174
+Hôtel restaurant,Cuisine traditionnelle,Cuisine traditionnelle;Régionale française,Restaurant Campanile Bordeaux Le Lac,Centre Hôtelier du Lac,rue du Petit Barail,33300,BORDEAUX,+33 5 56 39 54 54,www.campanile-bordeaux-lelac.com,,,,,-0.5645125,44.89042
+Hôtel restaurant,Cuisine traditionnelle,Régionale française;Cuisine méditerranéenne,Le Provençal,rue du Petit Barail,,33300,BORDEAUX,+33 5 56 50 39 73,www.hotel-le-provencal.net,Logis,2 cheminées;1 cocotte,Qualité Tourisme,,-0.564512,44.89042
+Hôtel restaurant,Cuisine traditionnelle;Brasserie,Cuisine gastronomique;Poisson / fruits de mer,La Brasserie l'Europe,Grand Hotel de Bordeaux & Spa,2-5, place de la Comédie,33000,BORDEAUX,+33 5 57 30 43 47,www.ghbordeaux.com,,,,Handicap auditif;Handicap mental;Handicap moteur,-0.5746039,44.842487
+Hôtel restaurant,Cuisine traditionnelle;Brasserie,Cuisine traditionnelle;Régionale française,Café Brasserie Le B35,Hôtel Ibis Bordeaux Mériadeck,35, cours du Maréchal Juin,33000,BORDEAUX,+33 5 56 90 74 00,,,,,,-0.5826565,44.836224
+Hôtel restaurant,Cuisine traditionnelle;Brasserie,Cuisine traditionnelle;Régionale française,K'Fé Lounge,Hôtel Mercure Bordeaux Centre,5, rue Robert Lateulade,33000,BORDEAUX,+33 5 56 56 43 43,www.mercure.com,,,,,-0.586253,44.839252
+Hôtel restaurant,Cuisine traditionnelle;Brasserie,Cuisine traditionnelle;Régionale française,Le Mercure - Cité Mondiale de Congrès,18, parvis des Chartrons,,33000,BORDEAUX,+33 5 56 01 78 78,www.citemondiale.com,,,,,-0.5706567,44.850235
+Hôtel restaurant,Cuisine traditionnelle;Grill,Cuisine traditionnelle;Régionale française;Viandes,Courtepaille Le Lac,Hôtel Ibis Bordeaux Lac,rue du Petit Barail,33000,BORDEAUX,+33 5 56 50 96 50,www.ibishotel.com,,,,,-0.5651307,44.889385
+Hôtel restaurant,Restauration à thème,Cuisine nord-américaine,P'tit Québec Café,93, rue Eugène Jacquet,Hôtel Auberge Québecoise**,33000,BORDEAUX,+33 5 56 96 54 66,,,,,,-0.587269,44.83501
+Restaurant,Bistrot / bar à vin,Tapas,Le Café Brun,45, rue Saint Rémi,,33000,BORDEAUX,+33 5 56 52 20 49,,,,,,-0.571901,44.841373
+Restaurant,Brasserie,Cuisine traditionnelle,Café Bellini,15, allées de Tourny,,33000,BORDEAUX,+33 5 56 51 15 11,wwww.cafebellini.fr,,,,,-0.5759346,44.84432
+Restaurant,Brasserie,Cuisine traditionnelle,Le 21,21, rue Mably,,33000,BORDEAUX,+33 5 57 10 77 25,,,,,,-0.5772145,44.8437
+Restaurant,Brasserie,Cuisine traditionnelle;Régionale française,Gabriel & Albert,51, rue de la Fusterie,,33000,BORDEAUX,+33 5 57 95 72 60,www.gabrieletalbert.fr,,,,,-0.5648209,44.835026
+Restaurant,Brasserie,Cuisine traditionnelle;Régionale française,Karl,6, place du Parlement,,33000,BORDEAUX,+33 5 56 81 01 00,www.karlbordeaux.fr,,,,,-0.5720474,44.840508
+Restaurant,Brasserie,Cuisine traditionnelle;Régionale française,Le Bistro du Sommelier,163, rue Georges Bonnac,,33000,BORDEAUX,+33 5 56 96 71 78,www.bistrodusommelier.com,,,,,-0.5887554,44.838825
+Restaurant,Brasserie,Poisson / fruits de mer,La Boîte à Huîtres,36, cours du Chapeau Rouge,,33000,BORDEAUX,+33 5 56 81 64 97,,,,,,-0.5723456,44.842457
+Restaurant,Brasserie,Régionale française;Cuisine traditionnelle,Solena,5, rue Chauffour,,33000,BORDEAUX,+33 5 57 53 28 06,www.solena-restaurant.com,,,,,-0.5903559,44.840477
+Restaurant,Brasserie;Cafétéria,Cuisine traditionnelle,Le Café Pomme,Centre Commercial Mériadeck,rue du Château d'Eau,33000,BORDEAUX,+33 5 56 98 48 88,www.meriadeck.com,,,,Handicap auditif;Handicap mental;Handicap moteur;Handicap visuel,-0.5836486,44.838467
+Restaurant,Brasserie;Cuisine traditionnelle,Cuisine traditionnelle,La Villa Tourny,20, allées de Tourny,,33000,BORDEAUX,+33 5 56 44 60 48,,,,,,-0.5758815,44.84347
+Restaurant,Brasserie;Cuisine traditionnelle,Cuisine traditionnelle;Cuisine européenne,Simeone Dell'Arte,10, place Camille Jullian,,33000,BORDEAUX,+33 5 56 52 65 32,,,,,,-0.5723003,44.838623
+Restaurant,Brasserie;Cuisine traditionnelle,Cuisine traditionnelle;Régionale française,Bistro Regent (Clemenceau),6 cours Georges Clémenceau,,33000,BORDEAUX,+33 5 56 44 90 00,www.bistro-regent.fr,,,,,-0.5795899,44.84205
+Restaurant,Brasserie;Cuisine traditionnelle,Cuisine traditionnelle;Régionale française,Bistro Regent (Joffre),50, rue du Maréchal Joffre,,33000,BORDEAUX,+33 5 56 44 90 00,www.bistro-regent.fr,,,,,-0.5783486,44.835026
+Restaurant,Brasserie;Cuisine traditionnelle,Cuisine traditionnelle;Régionale française,Bistro Regent (Saint Rémi),53, rue Saint Rémi,,33000,BORDEAUX,+33 5 56 44 90 00,www.bistro-regent.fr,,,,,-0.5731872,44.84124
+Restaurant,Brasserie;Cuisine traditionnelle,Cuisine traditionnelle;Régionale française,Brasserie Le Passage St Michel,14-15 place Canteloup,,33000,BORDEAUX,+33 5 56 91 20 30,www.lepassagesaintmichel.com,,,,,-0.5659782,44.833855
+Restaurant,Brasserie;Cuisine traditionnelle,Cuisine traditionnelle;Régionale française,Café Français,5-6, place Pey Berland,,33000,BORDEAUX,+33 5 56 52 96 69,,,,,,-0.5777064,44.837997
+Restaurant,Brasserie;Cuisine traditionnelle,Cuisine traditionnelle;Régionale française,Café Napoléon 3,6 bis, cours du XXX Juillet,,33000,BORDEAUX,+33 5 56 81 52 26,www.cafenapoleon3.com,,,Maître Restaurateur,,-0.5744004,44.843166
+Restaurant,Brasserie;Cuisine traditionnelle,Cuisine traditionnelle;Régionale française,Café Opéra,2, place de la Comédie,,33000,BORDEAUX,+33 5 56 44 07 00,www.jegher.fr,,,,,-0.5743199,44.842415
+Restaurant,Brasserie;Cuisine traditionnelle,Cuisine traditionnelle;Régionale française,Cajou Caffé,place Camille Jullian,,33000,BORDEAUX,+33 5 56 52 50 50,,,,,,-0.5721255,44.839043
+Restaurant,Brasserie;Cuisine traditionnelle,Cuisine traditionnelle;Régionale française,El Bodegon,14, place de la Victoire,,33000,BORDEAUX,+33 5 56 94 74 02,,,,,,-0.5726746,44.83033
+Restaurant,Brasserie;Cuisine traditionnelle,Cuisine traditionnelle;Régionale française,La Terrasse Saint Pierre,7, place Saint Pierre,,33000,BORDEAUX,+33 5 57 85 89 17,,,,,,-0.5706159,44.840096
+Restaurant,Brasserie;Cuisine traditionnelle,Cuisine traditionnelle;Régionale française,Le Mably,12, rue Mably,,33000,BORDEAUX,+33 5 56 44 30 10,www.le-mably.com,,,,,-0.5767131,44.843403
+Restaurant,Brasserie;Cuisine traditionnelle,Cuisine traditionnelle;Régionale française,Pub Saint-Aubin,5, place de la Victoire,,33000,BORDEAUX,+33 5 56 91 28 15,,,,,,-0.5723752,44.831375
+Restaurant,Brasserie;Cuisine traditionnelle,Cuisine traditionnelle;Régionale française;Poisson / fruits de mer,Brasserie l'Atrium,Casino de Bordeaux,rue du Cardinal Richaud,33000,BORDEAUX,+33 5 56 69 49 00,www.lucienbarriere.com,,,,,-0.5653452,44.88758
+Restaurant,Brasserie;Cuisine traditionnelle,Poisson / fruits de mer;Viandes,La Cassolette,20, place de la Victoire,,33000,BORDEAUX,+33 5 56 92 94 96,www.cassolettecafe.com,,,,,-0.5735026,44.830544
+Restaurant,Brasserie;Cuisine traditionnelle,Régionale française,Le Chapeau Rouge,34 bis cours du Chapeau Rouge,,33000,BORDEAUX,+33 5 56 44 39 11,www.le-chapeau-rouge.fr,,,,,-0.5726041,44.84223
+Restaurant,Brasserie;Cuisine traditionnelle,Régionale française;Cuisine traditionnelle,Comptoir Cuisine,2, place de la Comédie,,33000,BORDEAUX,+33 5 56 56 22 33,www.comptoircuisine.com,,,,,-0.5747717,44.842407
+Restaurant,Brasserie;Cuisine traditionnelle,Régionale française;Cuisine traditionnelle;Poisson / fruits de mer,Brasserie l'Orléans,36, allée d'Orléans,,33000,BORDEAUX,+33 5 56 00 50 06,www.brasserie-lorleans.fr,,,,,-0.5735145,44.84384
+Restaurant,Brasserie;Cuisine traditionnelle,Régionale française;Cuisine traditionnelle;Régionale française,Café Le Dijeaux,14, ter place Gambetta,,33000,BORDEAUX,+33 5 56 81 90 65,,,,,,-0.5799906,44.840496
+Restaurant,Brasserie;Pizzeria;Restauration à thème,Cuisine européenne,La Mama,21, rue des remparts,,33000,BORDEAUX,+33 5 56 44 67 87,www.pizzeria-la-mama.fr,,,,,-0.5794486,44.840004
+Restaurant,Brasserie;Pizzeria;Restauration à thème,Cuisine européenne,Pizzeria Masaniello,10, rue Maucoudinat,,33000,BORDEAUX,+33 5 57 30 61 50,www.pizzeriamasaniello.com,,,,,-0.5713407,44.83909
+Restaurant,Brasserie;Restauration rapide,Cuisine traditionnelle,Café Utopia,5, place Camille Jullian,,33000,BORDEAUX,+33 5 56 79 39 25,www.cafejaponais.free.fr,,,,,-0.572373,44.83909
+Restaurant,Brasserie;Restauration rapide,Sandwichs,Arty Café,61 rue Saint-Rémi,,33000,BORDEAUX,+33 5 56 81 60 24,,,,,,-0.5734956,44.841206
+Restaurant,Cidrerie,Régionale française;Cuisine traditionnelle,Cidrerie Sagardozale,20, rue des Piliers de Tutelle,,33000,BORDEAUX,+33 5 56 44 70 23,www.sagardozale.fr,,,,,-0.5734677,44.84104
+Restaurant,Cuisine traditionnelle,Cuisine gastronomique,7ème Péché,65, cours de Verdun,,33000,BORDEAUX,+33 5 56 06 42 16,www.7peche.fr,,,Tables et Auberges de France,,-0.5741847,44.851196
+Restaurant,Cuisine traditionnelle,Cuisine gastronomique;Cuisine traditionnelle;Régionale française,Le Chapon Fin,5, rue Montesquieu,,33000,BORDEAUX,+33 5 56 79 10 10,www.chapon-fin.com,,,Tables et Auberges de France;Maître Restaurateur,,-0.5781621,44.84268
+Restaurant,Cuisine traditionnelle,Cuisine gastronomique;Poisson / fruits de mer;Régionale française,Le Pavillon des Boulevards,120, rue Croix de Seguey,,33000,BORDEAUX,+33 5 56 81 51 02,www.lepavillondesboulevards.fr,,,,,-0.5929693,44.8535
+Restaurant,Cuisine traditionnelle,Cuisine gastronomique;Régionale française,Auberge'Inn,245, rue de Turenne,,33000,BORDEAUX,+33 5 56 81 97 86,www.auberge-inn.fr,,,,,-0.5933111,44.84896
+Restaurant,Cuisine traditionnelle,Cuisine gastronomique;Régionale française,Gravelier,114, cours Verdun,,33000,BORDEAUX,+33 5 56 48 17 15,www.gravelier.fr,,,,,-0.573682,44.851536
+Restaurant,Cuisine traditionnelle,Cuisine gastronomique;Régionale française,Jean Ramet,7-8, place Jean Jaurès,,33000,BORDEAUX,+33 5 56 44 12 51,www.ramet-jean.com,,,,,-0.5708974,44.843307
+Restaurant,Cuisine traditionnelle,Cuisine gastronomique;Régionale française;Poisson / fruits de mer,Dubern,42-44, allées de Tourny,,33000,BORDEAUX,+33 5 56 79 07 70,www.dubern.fr,,,,,-0.576932,44.844063
+Restaurant,Cuisine traditionnelle,Cuisine gastronomique;Régionale française;Viandes;Poisson / fruits de mer,L'Estacade,quai des Queyries,,33000,BORDEAUX,+33 5 57 54 02 50,www.lestacade.com,,,,,-0.5646427,44.845695
+Restaurant,Cuisine traditionnelle,Cuisine gastronomique;Viandes;Cuisine traditionnelle;Régionale française,La Tupina,6, rue Porte de la Monnaie,,33000,BORDEAUX,+33 5 56 91 56 37,www.latupina.com,,,,,-0.562062,44.83279
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle,Agora Restaurant,19, rue Mably,,33000,BORDEAUX,+33 5 57 59 81 90,,,,,,-0.5771059,44.843624
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle,Ice Room,quai de Bacalan,hangar 19,33000,BORDEAUX,+33 5 57 00 10 15,www.iceroom.fr,,,,,-0.5550479,44.859787
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle,L'Air de Famille,15, rue Albert Pitres,,33000,BORDEAUX,+33 5 56 52 13 69,www.lairdefamille.eresto.net,,,,,-0.5751616,44.85194
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle,L'Antre de Peggy,45, rue de la devise,,33000,BORDEAUX,+33 5 56 48 26 71,www.antre-de-peggy.fr,,,Tables et Auberges de France,,-0.5727895,44.84031
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle,Le Café Rohan,1, place Pey-Berland,,33000,BORDEAUX,+33 5 56 44 46 06,wwww.lecaferohan.fr,,,,Handicap auditif;Handicap mental;Handicap moteur;Handicap visuel,-0.5778457,44.838066
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle,Restaurant du Musée des Arts Décoratifs,39, rue Bouffard,,33000,BORDEAUX,+33 5 57 59 10 42,,,,,,-0.57999,44.83889
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle;Cuisine asiatique,L'Orchidée,117 cours de la Marne,,33000,BORDEAUX,+33 6 81 31 27 89,,,,,,-0.5698899,44.830242
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle;Régionale française,I.Boat Restaurant,quai Armand Lalande,Bassin à flots 1,33000,BORDEAUX,+33 5 56 10 48 37,www.iboat.eu,,,,,-0.5542437,44.862297
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle;Régionale française,La Belle Epoque,2, allées d'Orléans,,33000,BORDEAUX,+33 5 56 79 14 58,www.la-belle-epoque-bordeaux.fr,,,Tables et Auberges de France,,-0.5705257,44.844112
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle;Régionale française,Le Bistro du Musée,37, place Pey Berland,,33000,BORDEAUX,+33 5 56 52 99 69,www.lebistrodumusee.com,,,,,-0.5772484,44.837246
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle;Régionale française,Le Brocéliande,15, place des Martyrs de la Résistance,,33000,BORDEAUX,+33 5 56 96 38 93,,,,,,-0.5841609,44.84177
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle;Régionale française,Le Chai d'Oc,6-8, rue de Mérignac,,33000,BORDEAUX,+33 5 56 44 00 19,www.chaidoc.fr,,,,,-0.5710277,44.84058
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle;Régionale française,Le Jardin de Margaux,72 avenue d'Eysines,,33000,BORDEAUX,+33 5 56 02 73 67,www.lejardindemargaux.fr,,,,,-0.6014729,44.855743
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle;Régionale française,Le Munich,66 quai de Paludate,,33800,BORDEAUX,+33 5 56 49 11 77,www.lemunich.fr,,,,,-0.5513763,44.827446
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle;Régionale française,L'Incontournable,7-9 rue du Cerf Volant,,33000,BORDEAUX,+33 5 56 79 06 72,www.resto-lincontournable.com,,,,,-0.5709462,44.838066
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle;Régionale française;Cuisine gastronomique,Restaurant du Loup,66, rue du Loup,,33000,BORDEAUX,+33 5 56 48 20 21,www.restaurant-du-loup.com,,,,,-0.5745138,44.837944
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle;Régionale française;Poisson / fruits de mer,L'Embarcadère,3, rue du Pas Saint Georges,,33000,BORDEAUX,+33 5 56 52 23 29,www.l-embarcadere.com,,,,,-0.5719523,44.84028
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle;Régionale française;Poisson / fruits de mer;Viandes,L'Avenue Carnot,2, avenue Carnot,,33000,BORDEAUX,+33 5 56 02 20 27,www.avenue-carnot.com,,,,,-0.5956594,44.85105
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle;Régionale française;Viandes,L'Entrecôte,4, cours du XXX Juillet,,33000,BORDEAUX,+33 5 56 81 76 10,www.entrecote.fr,,,,,-0.5745077,44.843243
+Restaurant,Cuisine traditionnelle,Poisson / fruits de mer;Viandes;Cuisine traditionnelle,Le Café Maritime,quai Armand Lalande,Hangar G2,33000,BORDEAUX,+33 5 57 10 20 40,www.cafemaritime.com,,,,,-0.5542437,44.862297
+Restaurant,Cuisine traditionnelle,Régionale française;Cuisine gastronomique;Nouvelle cuisine française,Le Bistrot du Gabriel,10, place de la Bourse,,33000,BORDEAUX,+33 5 56 30 00 80,www.bistrot.bordeaux-gabriel.fr,,,,,-0.5705031,44.84147
+Restaurant,Cuisine traditionnelle,Régionale française;Cuisine gastronomique;Nouvelle cuisine française,Le Gabriel,10, place de la Bourse,,33000,BORDEAUX,+33 5 56 30 00 80,www.bordeaux-gabriel.fr,,,,,-0.5705031,44.84147
+Restaurant,Cuisine traditionnelle,Régionale française;Cuisine traditionnelle;Régionale française,La Petite Gironde,75, quai des Queyries,,33000,BORDEAUX,+33 5 57 80 33 33,www.lapetitegironde.fr,,,,,-0.5629085,44.848736
+Restaurant,Cuisine traditionnelle,Régionale française;Cuisine traditionnelle;Viandes;Poisson / fruits de mer,Chez Greg - Le Grand Théâtre,29, rue Esprit des Lois,,33000,BORDEAUX,+33 5 56 31 30 30,www.chezgreg.fr,,,,,-0.57384,44.843063
+Restaurant,Cuisine traditionnelle,Régionale française;Fromagerie,La Tartiflette,5, rue des Faussets,,33000,BORDEAUX,+33 5 56 81 04 87,www.latartiflette.monsite-orange.fr,,,,,-0.5704606,44.840656
+Restaurant,Cuisine traditionnelle,Viandes;Cuisine traditionnelle;Régionale française,Chez Maman,30 rue Saint-Rémi,,33000,BORDEAUX,+33 5 56 52 61 33,,,,,,-0.5719085,44.84136
+Restaurant,Cuisine traditionnelle;Brasserie,Cuisine traditionnelle,Brasserie Chez Julio,4-6 rue de la Maison Daurade,,33000,BORDEAUX,+33 5 56 52 44 65,,,,,,-0.5740478,44.841827
+Restaurant,Cuisine traditionnelle;Brasserie,Cuisine traditionnelle,Café Bastide,69, allées de Serr,,33000,BORDEAUX,+33 5 56 86 83 31,,,,,,-0.5578681,44.84343
+Restaurant,Cuisine traditionnelle;Brasserie,Cuisine traditionnelle,Comptoir d'Ornano,227 rue d'Ornano,,33000,BORDEAUX,+33 5 56 98 43 63,www.comptoirdornano.fr,,,,,-0.594744,44.83256
+Restaurant,Cuisine traditionnelle;Brasserie,Cuisine traditionnelle;Régionale française,Le Jardin des Gastronomes,1, place Saint-Pierre,,33000,BORDEAUX,+33 5 57 85 90 35,,,,,,-0.5706334,44.83975
+Restaurant,Cuisine traditionnelle;Brasserie,Cuisine traditionnelle;Régionale française,Le Port de la Lune,58-59, quai de Paludate,,33000,BORDEAUX,+33 5 56 49 15 55,www.leportdelalune.com,,,,,-0.5519617,44.827717
+Restaurant,Cuisine traditionnelle;Brasserie,Régionale française;Poisson / fruits de mer,Le Café du Port,1, quai Deschamps,,33000,BORDEAUX,+33 5 56 77 81 18,www.lecafeduport.com,,,,,-0.5600311,44.83972
+Restaurant,Cuisine traditionnelle;Brasserie,Régionale française;Viandes;Poisson / fruits de mer,Chez Jean,1, place du Parlement,,33000,BORDEAUX,+33 5 56 44 44 43,www.chezjeanbordeaux.fr,,,,,-0.5718079,44.8407
+Restaurant,Cuisine traditionnelle;Restauration à thème,Cuisine traditionnelle;Régionale française,Ibaia Café,quai des Chartrons,,33000,BORDEAUX,+33 5 56 00 45 35,www.ibaiacafe.Fr,,,,,-0.5699586,44.849815
+Restaurant,Cuisine traditionnelle;Restauration à thème,Cuisine traditionnelle;Régionale française,Jegher - L'orangerie du Jardin Public,Jardin Public,185, cours de Verdun,33000,BORDEAUX,+33 56 48 24 41,www.jegher.fr,,,,,-0.5743938,44.8412
+Restaurant,Cuisine traditionnelle;Restauration à thème,Régionale française;Fromagerie,La Raclette,22, rue Fernand Philippart,,33000,BORDEAUX,+33 5 56 44 59 52,,,,,,-0.5717214,44.840813
+Restaurant,Cuisine traditionnelle;Restauration à thème,Viandes;Cuisine gastronomique,C'yusha Restaurant,12, rue Ausone,,33000,BORDEAUX,+33 5 56 69 89 70,www.cyusha.com,,,,,-0.568372,44.838287
+Restaurant,Restauration à thème,Cuisine africaine;Poisson / fruits de mer;Viandes,La Terre,18, rue Saint James,,33000,BORDEAUX,+33 5 56 30 32 55,,,,,,-0.5714789,44.836304
+Restaurant,Restauration à thème,Cuisine asiatique,Au Bonheur du Palais,72-74, rue Paul-Louis Lande,,33000,BORDEAUX,+33 5 56 94 38 63,www.abdp.free.fr,,,,,-0.5771899,44.832623
+Restaurant,Restauration à thème,Cuisine asiatique,Café Japonais,22, rue Saint-Siméon,,33000,BORDEAUX,+33 5 56 48 68 68,www.cafejaponais.free.fr,,,,,-0.5731599,44.838974
+Restaurant,Restauration à thème,Cuisine européenne,Fuxia,40 allées d'Orléans,,33000,BORDEAUX,+33 5 56 52 81 23,www.fuxia.fr,,,,Handicap mental;Handicap moteur;Handicap visuel,-0.5737186,44.843796
+Restaurant,Restauration à thème,Cuisine européenne,Raffaele Ristorante,30, rue du Pas Saint Georges,,33000,BORDEAUX,+33 5 57 85 90 13,,,,,,-0.5719826,44.839207
+Restaurant,Restauration à thème,Cuisine indienne,Koh I Noor,3 rue Puits Descujols,,3300,BORDEAUX,+33 5 56 51 17 55,,,,,,-0.5707436,44.840923
+Restaurant,Restauration à thème,Cuisine indienne,Punjab,39, rue Saint-Rémi,,33000,BORDEAUX,+33 5 56 79 02 00,,,,,,-0.5725305,44.84137
+Restaurant,Restauration à thème,Cuisine indienne;Cuisine européenne,Le Taj Mahal,24, rue du Parlement Sainte Catherine,,33000,BORDEAUX,+33 5 56 51 92 05,www.tajmahalbordeaux.fr,,,,,-0.5737137,44.84054
+Restaurant,Restauration à thème,Cuisine sud-américaine,Carioca,30, rue du Dr Charles Nancel Penard,,33000,BORDEAUX,+33 5 56 51 34 00,www.carioca-bordeaux.com,,,,,-0.5814259,44.839447
+Restaurant,Restauration à thème;Cuisine traditionnelle,Cuisine européenne,La Taverne Bavaroise,Parc des Expositions,BP 19,33300,BORDEAUX,+33 5 56 50 91 20,www.espacedulac.fr,,,,,-0.5713319,44.89285
+Restaurant,Restauration à thème;Cuisine traditionnelle;Bistrot / bar à vin,Fromagerie,Baud et Millet,19, rue Huguerie,,33000,BORDEAUX,+33 5 56 79 05 77,www.baudetmillet.fr,,,,,-0.5792404,44.844746
+Restaurant,Restauration rapide,Sandwichs,Colombus Café,38 place Gambetta,,33000,BORDEAUX,+33 5 56 52 48 18,www.columbuscafe.com,,,,Handicap auditif;Handicap mental;Handicap moteur;Handicap visuel,-0.5810429,44.841694
+Restaurant,Restauration rapide;Cafétéria,Sandwichs,Quick Restaurant,Centre Commercial Mériadeck,rue du Château d'Eau,33000,BORDEAUX,+33 5 56 08 95 07,www.quick.fr,,,,Handicap auditif;Handicap mental;Handicap moteur;Handicap visuel,-0.5842065,44.838314
+Hôtel restaurant,Cuisine traditionnelle,Cuisine gastronomique;Cuisine méditerranéenne;Nouvelle cuisine française,Le Saint-James,3, place Camille Hostein,,33270,BOULIAC,+33 5 57 97 06 00,www.saintjames-bouliac.com,,,,,-0.503427,44.813953
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle;Cuisine gastronomique,L'Auberge du Marais,22 route de Latresne,,33270,BOULIAC,+33 5 56 20 52 17,www.aubergedumarais.fr,,,Maître Restaurateur,,-0.5062128,44.811436
+Hôtel restaurant,Cuisine traditionnelle,Cuisine traditionnelle,Le Flaütat,Route Nationale 113,,33190,BOURDELLES,+33 5 56 71 00 37,,,,,,0.01647949,44.569927
+Restaurant,Cuisine traditionnelle;Brasserie,Cuisine traditionnelle,Le Plaisance,4 place Eugène Marchal,,33710,BOURG,+33 5 57 68 45 34,www.restaurant-le-plaisance.com,,,,,-0.5569767,45.038788
+Restaurant,Restauration à thème,Poisson / fruits de mer,L'Hippocampe Bleu,3, rue du 4 septembre,,33710,BOURG,+33 5 57 68 37 00,,,,,,-0.5595596,45.039696
+Restaurant,Restauration rapide,Cuisine traditionnelle,L'Esprit des Lieux,place de la Libération,,33710,BOURG,+33 5 57 43 99 86,,,,,,-0.5586888,45.039654
+Restaurant,Restauration rapide,Sandwichs,Cosy Café,9 place de la Libération,,33710,BOURG,+33 6 23 38 04 31,,,,,,-0.5587743,45.039288
+Restaurant,Cuisine traditionnelle,Régionale française,Auberge de la Haute-Lande,5, le Bourg Nord,,33113,BOURIDEYS,+33 5 56 25 74 84,,,,,,-0.45382,44.368008
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle,Le Caffé Cuisine,7, place du Marché,au Pont,33420,BRANNE,+33 5 57 24 19 67,,,,,,-0.1863236,44.82938
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle,Le Marainaud,1 les Nouvelles Possessions,,33820,BRAUD-ET-SAINT-LOUIS,+33 5 57 32 48 48,,,,,,-0.6991767,45.284428
+Restaurant,Bistrot / bar à vin;Cuisine traditionnelle,Cuisine traditionnelle;Cuisine gastronomique,Le Bistro d'Antan,avenue de Verdun,Galerie Les Bruyères,33520,BRUGES,+33 5 56 28 49 50,www.bistrotdantan.fr,,,Maître Restaurateur,,-0.5920027,44.895775
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle,Le Relais du Château,2 rue du 14 juillet,,33720,BUDOS,+33 5 56 62 58 17,,,,,,-0.385365,44.533237
+Hôtel restaurant,Cuisine traditionnelle,Cuisine traditionnelle,Le Relais,2 place de Ségur,,33650,CABANAC-ET-VILLAGRAINS,+33 5 57 80 44 89,,,,,,-0.553529,44.60589
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle;Régionale française,Gabare Restaurant La Lamproie,,,33350,CABARA,+33 6 80 02 54 83,,,,,,-0.1584567,44.827312
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle,La Plaine de Moscou,2830, avenue de Toulouse,,33140,CADAUJAC,+33 5 56 30 73 60,,,,,,-0.5364947,44.736687
+Hôtel restaurant,Cuisine traditionnelle,Cuisine traditionnelle,Hôtel Restaurant Detrée,22, avenue du Pont,,33410,CADILLAC,+33 5 56 62 65 38,,,,,,-0.323163,44.63631
+Restaurant,Crêperie,Régionale française,La Crêperie,22 rue du Général de Gaulle,,33410,CADILLAC,+33 5 56 76 27 97,,,,,,-0.3191194,44.637424
+Restaurant,Cuisine traditionnelle,Cuisine gastronomique;Régionale française,L'Entrée Jardin,27, rue du Pont,,33410,CADILLAC,+33 5 56 76 96 96,www.restaurant-cadillac.com,,,Maître Restaurateur,,-0.3243112,44.63553
+Restaurant,Cuisine traditionnelle,Régionale française;Cuisine traditionnelle,Au Fin Gourmet,6, place de la République,,33410,CADILLAC,+33 5 56 62 90 80,,,,,,-0.320833,44.637184
+Restaurant,Pizzeria;Cuisine traditionnelle;Grill,Cuisine traditionnelle,Les Remparts,2, allée de Lattre de Tassigny,,33410,CADILLAC,+33 5 56 76 90 77,www.pizzeria-les-remparts.com,,,,,-0.321776,44.636814
+Restaurant,Pizzeria;Restauration à thème,Cuisine européenne,Le Petit Naples,7, porte de la Mer,,33410,CADILLAC,+33 5 56 27 47 63,www.lepetitnaples-cadillac.fr,,,,,-0.3209637,44.63658
+Restaurant,Cuisine traditionnelle,Régionale française;Cuisine traditionnelle,Bistrot de L'Entre-deux-Mers,15, route de Bergerac,,33750,CAMARSAC,+33 5 56 30 18 90,,,,,,-0.3632109,44.83316
+Restaurant,Brasserie,Cuisine traditionnelle,L'As de Carreau,21 place Sadi Carnot,,33880,CAMBES,+33 5 56 78 73 76,,,,,,-0.462423,44.732494
+Restaurant,Cuisine traditionnelle,Cuisine gastronomique,La Maison du Fleuve,20, chemin Seguin,,33360,CAMBLANES-ET-MEYNAC,+33 5 56 20 06 40,www.maison-du-fleuve.com,,,,,-0.50607,44.7676
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle,La ferme nature de Marahans,lieu dit Marahans,,33840,CAPTIEUX,+33 9 82 25 72 85,http://ferme-nature-marahans.com,,,,,-0.2614402,44.29836
+Restaurant,Pizzeria;Cuisine traditionnelle,Cuisine traditionnelle,Les Mouettes,4 place Marcel Prévot,,33121,CARCANS,+33 5 56 03 32 50,,,,,,-1.1875697,45.082935
+Restaurant,Restauration rapide,Sandwichs;Viandes,Snack de la Plage,Domaine de Bombannes,,33121,CARCANS,+33 5 57 70 12 23,,,,Famille Plus,,-1.0428554,45.088604
+Restaurant,Cuisine traditionnelle;Brasserie;Restauration rapide,Régionale française,Le Mini Golf de Maubuisson,83, avenue de Maubuisson,,33121,CARCANS-MAUBUISSON,+33 5 56 03 04 29,,,,Famille Plus,,-1.139027,45.06677
+Restaurant,Restauration à thème,Cuisine européenne,Chez Heidi,avenue des Dunes,,33121,CARCANS-OCEAN,+33 5 56 03 42 92,,,,,,-1.1894524,45.081924
+Restaurant,Pizzeria,Cuisine européenne,Pizza Milano,18, rue Lartigotte,,33360,CARIGNAN-DE-BORDEAUX,+33 5 56 21 12 88,http://pizzamilano.wifeo.com,,,,,-0.4774402,44.81092
+Hôtel restaurant,Cuisine traditionnelle,Régionale française,L'Escale Chez Olga,15 route de Saintes,,33390,CARTELEGUE,+33 5 57 64 71 18,www.chez-olga.com,,,,,-0.5903434,45.200184
+Hôtel restaurant,Cuisine traditionnelle,Cuisine traditionnelle,Le Phénix,24, place Pierre Orus,,33350,CASTILLON-LA-BATAILLE,+33 5 57 40 00 14,www.hotel-restaurant-lephenix.fr;caroleportier@orange.fr,,,,,-0.042633,44.85383
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle;Régionale française,La Fontaine de Manon,57, rue Victor Hugo,,33350,CASTILLON-LA-BATAILLE,+33 5 57 40 24 48,,,,,,-0.0457421,44.85438
+Restaurant,Pizzeria;Cuisine traditionnelle,Cuisine traditionnelle,Le Mounan,route de Bergerac,,33350,CASTILLON-LA-BATAILLE,+33 5 57 40 38 19,,,,,,-0.043008,44.852066
+Hôtel restaurant,Cuisine traditionnelle,Cuisine traditionnelle,La Paillotte,103 avenue de Paris,,33620,CAVIGNAC,+33 5 57 58 98 90,,,,,,-0.388482,45.10232
+Restaurant,Cuisine traditionnelle;Bistrot / bar à vin,Cuisine traditionnelle;Régionale française;Viandes,Auberge de Cazalis,6 le bourg,,33113,CAZALIS,+33 5 56 65 41 44,,,,,,-0.379161,44.342766
+Hôtel restaurant,Cuisine traditionnelle;Pizzeria,Cuisine traditionnelle;Régionale française;Cuisine européenne,Le 28,28, avenue de Verdun,,33260,CAZAUX,+33 5 56 22 90 59,www.levingthuit.com,,,,,-1.1533069,44.536682
+Restaurant,Cuisine traditionnelle,Cuisine gastronomique;Cuisine traditionnelle,La Mise en Bouche,route de Cazaux,,33260,CAZAUX,+33 5 56 66 35 14,,,,,,-1.1565775,44.540142
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle,Le Bô Site,rue Osmin Dupuy,,33260,CAZAUX,+33 5 56 22 52 25,,,,,,-1.1655739,44.529205
+Restaurant,Cuisine traditionnelle;Pizzeria;Grill,Cuisine traditionnelle;Poisson / fruits de mer,Le Voilier,rue Osmin Dupuy,,33260,CAZAUX,+33 5 56 66 10 85,,,,,,-1.1700439,44.52564
+Restaurant,Cuisine traditionnelle;Restauration rapide,Cuisine traditionnelle,Camping la Pinéda,route de Cazaux,,33260,CAZAUX,+33 5 56 22 23 24,www.campinglapinede.net,,,,,-1.1498737,44.555187
+Restaurant,Cuisine traditionnelle;Restauration rapide;Grill,Cuisine traditionnelle;Sandwichs;Tapas;Viandes,Key West,Plage de Cazaux,esplanade Jean Labat,33260,CAZAUX,+33 6 86 48 80 09,,,,,,-1.170238,44.52605
+Restaurant,Restauration rapide,Cuisine traditionnelle,Larrouet,Halte nautique,,33260,CAZAUX,+33 5 56 66 75 83,,,,,,-1.1635208,44.527107
+Restaurant,Restauration rapide;Cuisine traditionnelle,Cuisine traditionnelle,Laouga,Plage Laouga,,33260,CAZAUX,+33 5 56 22 71 13,,,,,,-1.1744213,44.521416
+Restaurant,Restauration rapide;Cuisine traditionnelle,Tapas;Cuisine traditionnelle;Sandwichs;Glaces,Uhaïna Plage,Plage Laouga,,33260,CAZAUX,+33 5 56 22 14 84,,,,,,-1.1743783,44.520805
+Restaurant,Restauration rapide;Pizzeria,Sandwichs,Pizzas Cazalins,18, avenue de Verdun,,33260,CAZAUX,+33 5 56 22 14 62,,,,,,-1.1532211,44.5369
+Restaurant,Restauration rapide;Pizzeria,Sandwichs;Cuisine traditionnelle,Aux Délices du Lac de Cazaux,74, rue Osmin Dupuy,,33260,CAZAUX,+33 5 56 22 96 73,,,,,,-1.1609673,44.531666
+Restaurant,Brasserie,Cuisine traditionnelle,Les Acacias,8 avenue de la République,,33360,CENAC,+33 5 56 92 57 40,,,,,,-0.4621736,44.778923
+Restaurant,Brasserie,Cuisine traditionnelle,Ze Rock,1 bis rue Aristide Briand,Parc Palmer,33150,CENON,+33 5 57 54 12 94,,,,,,-0.530906,44.85774
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle,Labelle de Midi,53, avenue de Lattre-de-Tassigny,,33610,CESTAS,+33 5 56 36 65 36,www.labelledemidi.com,,,,,-0.7146622,44.77138
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle,Le Philéas Fogg,33, le Bourg,,33920,CIVRAC-DE-BLAYE,+33 5 57 68 29 20,,,,,,-0.4422037,45.111748
+Restaurant,Cuisine traditionnelle,Nouvelle cuisine française;Cuisine gastronomique,Le Flore,1, Petit Champ du Bourg,,33540,COIRAC,+33 5 56 71 57 47,,,,,,-0.167321,44.691525
+Restaurant,Cuisine traditionnelle,Régionale française;Cuisine traditionnelle,Le Saint Sabastien,11, rue Charles Plumeau,,33340,COUQUEQUES,+33 5 56 41 38 65,www.saintsabastien.com,,,,,-0.848809,45.34422
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle,L'Oxalis,3 avenue Paul Gauguin,,33138,LANTON,+33 5 56 60 41 14,,,,,,-1.0401288,44.7026
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle;Poisson / fruits de mer,Le Quai des Brumes,21, avenue de la République,Cassy,33138,LANTON,+33 5 56 03 04 74,,,,,,-1.0547977,44.71118
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle;Poisson / fruits de mer,Les Fontaines,17, avenue Jean Bart,Port de Plaisance Taussat,33138,LANTON,+33 5 56 82 13 86,www.restaurant-les-fontaines.com,,,,,-1.0709217,44.725266
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle;Poisson / fruits de mer;Glaces,Le Cabanon,Port de Cassy,,33138,LANTON,+33 5 56 82 99 54,,,,,,-1.0665321,44.714294
+Restaurant,Cuisine traditionnelle,Poisson / fruits de mer;Viandes,Le Platane,au vieux port de Taussat,1, allée Thalassa,33138,LANTON,+33 5 56 60 58 98,,,,,,-1.065694,44.72114
+Restaurant,Cuisine traditionnelle;Grill;Pizzeria;Brasserie;Restauration à thème,Poisson / fruits de mer;Cuisine traditionnelle,La Marine,Domaine du Roumingue,avenue de la Libération,33138,LANTON,+33 5 57 17 17 94,,,,,,-1.04338,44.705486
+Restaurant,Restauration rapide,Glaces;Sandwichs,El Caliente,20 bis avenue de la république,,33138,LANTON,+336 05 13 84 99,,,,,,-1.0511696,44.709236
+Ferme auberge,Cuisine traditionnelle,Cuisine traditionnelle;Régionale française,Ferme auberge La Gabaye,La Glaive 2,,33620,LAPOUYADE,+33 5 57 49 42 09,www.lagabaye.com,,,Bienvenue à la Ferme,,-0.274675,45.124077
+Restaurant,Brasserie,Cuisine traditionnelle,Le Laromet,Lac de Laromet,,33410,LAROQUE,+33 5 56 62 11 00;+33 5 56 72 19 50,,,,,,-0.29628,44.65809
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle,Chez Edonys et Noam,Les Terrasses de Latresne,2 rue de l'Eglise,33360,LATRESNE,+33 5 56 20 73 27,,,,,,-0.4860197,44.786095
+Restaurant,Cuisine traditionnelle;Bistrot / bar à vin,Cuisine traditionnelle,Restaurant de la Gare,11 avenue de la Libération,,33360,LATRESNE,+33 5 56 91 56 03,,,,,,-0.4961764,44.7835
+Hôtel restaurant,Cuisine traditionnelle,Régionale française,Le Résinier,68, avenue des Pyrénées,,33114,LE BARP,+33 5 56 88 60 07,www.leresinier.com,Logis;Restaurateurs de France,3 cheminées;3 cocottes,Assiette de Pays;Maître Restaurateur,,-0.752273,44.635715
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle,Le Père Ouvrard,39 avenue de la Libération,,33110,LE BOUSCAT,+33 5 56 02 02 04,,,,,,-0.595161,44.85496
+Hôtel restaurant,Brasserie;Cuisine traditionnelle,Régionale française,Hôtel-Golf du Médoc - La Table du Médoc et Le Club,chemin de Courmateau,,33290,LE PIAN-MEDOC,+33 5 56 70 31 31,www.hotelgolfdumedoc.com,,,,,-0.703124,44.945026
+Hôtel restaurant,Cuisine traditionnelle,Régionale française;Cuisine traditionnelle,Le Pont Bernet,route de Soulac,,33290,LE PIAN-MEDOC,+33 5 56 70 20 19,www.pont-bernet.fr,Logis,2 cheminées;3 cocottes,Qualité Tourisme,,-0.703305,44.954594
+Restaurant,Brasserie,Cuisine traditionnelle,La Typolia,6, avenue du Gressier,,33680,LE PORGE,+33 5 56 26 57 98,www.typolia-bar.com,,,,,-1.213574,44.887234
+Restaurant,Brasserie,Cuisine traditionnelle,Le Galip,9, avenue de Gressier,,33680,LE PORGE,+33 5 57 70 02 10,,,,,,-1.213574,44.887234
+Restaurant,Brasserie,Cuisine traditionnelle;Régionale française,L'Ajoncière,5, avenue du Gressier,,33680,LE PORGE,+33 5 56 26 57 64,,,,,,-1.1848345,44.892025
+Restaurant,Brasserie,Cuisine traditionnelle;Sandwichs,Le Bikini Café,3, avenue du Gressier,,33680,LE PORGE,+33 5 56 26 57 15,,,,,,-1.212809,44.893322
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle;Régionale française,L'Auberge du Porge,15, avenue de Bordeaux,,33680,LE PORGE,+33 5 57 70 02 09,,,,,,-1.0921204,44.873604
+Restaurant,Pizzeria;Bistrot / bar à vin;Brasserie,Cuisine traditionnelle,Le Courtiou Café Del Sol,59, route de la Jenny,,33680,LE PORGE,+33 5 56 26 58 15,,,,,,-1.1533927,44.83895
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle,Le Parc des Charmilles,1, Prairie Bidu,,33580,LE PUY,+33 5 56 71 99 39,,,,,,0.07651805,44.655468
+Hôtel restaurant,Cuisine traditionnelle,Cuisine traditionnelle;Cuisine européenne;Glaces;Sandwichs,Le Central Café,61 avenue de la Côte d'Argent,,33470,LE TEICH,+33 5 56 22 65 64,www.lecentralcafe.com,,,,,-1.0225009,44.635345
+Restaurant,Brasserie,Régionale française;Cuisine traditionnelle;Sandwichs,Brasserie du Delta,1 rue du Port,BP 11,33470,LE TEICH,+33 5 56 22 80 93,,,,Assiette de Pays,,-1.0197973,44.64063
+Restaurant,Pizzeria,Cuisine européenne,Lybia Pizza,4, avenue des Castaings,,33470,LE TEICH,+33 5 57 15 32 71,,,,,,-1.0239386,44.635864
+Restaurant,Brasserie;Restauration à thème,Cuisine traditionnelle;Régionale française;Poisson / fruits de mer,Le Chaland au Temple,26 route du Porge,,33680,LE TEMPLE,+33 5 56 26 57 64,,,,,,-0.99231,44.87891
+Hôtel restaurant,Cuisine traditionnelle,Cuisine traditionnelle,Restaurant des Pins,23, rue des Fauvettes,Cap Ferret,33970,LEGE-CAP FERRET,+33 5 56 60 60 11,www.hoteldespins.eu,,,,,-1.2440943,44.653084
+Hôtel restaurant,Cuisine traditionnelle,Cuisine traditionnelle;Poisson / fruits de mer,Chez Magne,1, avenue de l'Herbe,L'Herbe,33950,LEGE-CAP FERRET,+33 5 56 60 50 15,,,,,,-1.2329578,44.69148
+Hôtel restaurant,Cuisine traditionnelle,Cuisine traditionnelle;Poisson / fruits de mer,Le Pavillon Bleu,75, avenue de l'Océan,Cap Ferret,33970,LEGE-CAP FERRET,+33 5 56 60 65 48,www.hotel-pavillonbleu.com,,,,,-1.2524414,44.655285
+Hôtel restaurant,Cuisine traditionnelle,Cuisine traditionnelle;Poisson / fruits de mer,Le Relais du Cap,19, avenue du Général de Gaulle,Claouey,33950,LEGE-CAP FERRET,+33 5 56 60 70 48,www.hotel-relais-du-cap.com,,,,,-1.1809444,44.744995
+Restaurant,Bistrot / bar à vin;Cuisine traditionnelle,Cuisine gastronomique;Cuisine traditionnelle,Wharfzazate,Port de La Vigne,La Vigne,33950,LEGE-CAP FERRET,+33 5 56 60 90 18,,,,,,-1.2408328,44.67442
+Restaurant,Bistrot / bar à vin;Cuisine traditionnelle,Cuisine traditionnelle,Couleur Ferret,Port de La Vigne,5 rue de Teinturin,33950,LEGE-CAP FERRET,+33 5 56 03 68 09,,,,,,-1.2405967,44.674236
+Restaurant,Bistrot / bar à vin;Cuisine traditionnelle,Tapas,La Bodéga du Canon,173 route du Cap Ferret,Le Canon,33950,LEGE-CAP FERRET,+33 6 88 12 97 64,,,,,,-1.2296655,44.701115
+Restaurant,Brasserie,Cuisine traditionnelle,La Madrague,Grand Crohot Océan,Lège Océan,33950,LEGE-CAP FERRET,+33 5 56 60 33 54,,,,,,-1.2267136,44.797794
+Restaurant,Brasserie;Cuisine traditionnelle,Cuisine traditionnelle,Côte Ouest,67, boulevard de la Plage,Cap Ferret,33970,LEGE-CAP FERRET,+33 5 56 60 66 23,,,,,,-1.2449312,44.650093
+Restaurant,Brasserie;Pizzeria,Cuisine traditionnelle,Le Pit,2, avenue du Général de Gaulle,Claouey,33950,LEGE-CAP FERRET,+33 5 56 60 70 39,,,,,,-1.1806011,44.748867
+Restaurant,Crêperie,Glaces,Crêperie du Port,Port de Claouey,Claouey,33950,LEGE-CAP FERRET,+33 5 56 60 73 52,,,,,,-1.1745929,44.74527
+Restaurant,Crêperie,Glaces,Eden Gourmands Chez Pat-A-Chou,64, avenue de Bordeaux,Grand Piquey,33950,LEGE-CAP FERRET,+33 5 56 60 51 38,http://edengourmands-chez-patachou.com,,,,,-1.2096118,44.720608
+Restaurant,Crêperie;Brasserie,Tartes;Glaces,Frédélian,33, boulevard de la Plage,Cap Ferret,33970,LEGE-CAP FERRET,+33 5 56 60 60 59,www.fredelian-capferret.com,,,,,-1.2426567,44.652657
+Restaurant,Crêperie;Restauration rapide,Cuisine traditionnelle,Le Buffet de la Gare,allée Bélisaire,Cap Ferret,33970,LEGE-CAP FERRET,+33 5 56 03 75 84,,,,,,-1.2398886,44.656628
+Restaurant,Cuisine traditionnelle,Cuisine gastronomique,Chacouette,50, boulevard de la Plage,Cap Ferret,33970,LEGE-CAP FERRET,+33 5 57 70 35 07,,,,,,-1.2438154,44.650856
+Restaurant,Cuisine traditionnelle,Cuisine gastronomique,Le Bistrot du Bassin,5, rue des Pionniers,Cap Ferret,33970,LEGE-CAP FERRET,+33 5 56 03 72 46,www.lamaisondubassin.com,,,Maître Restaurateur,,-1.2471199,44.644398
+Restaurant,Cuisine traditionnelle,Cuisine gastronomique;Poisson / fruits de mer,Chez Hortense,place de la Liberté - La Pointe,Cap Ferret,33970,LEGE-CAP FERRET,+33 5 56 60 62 56,,,,,,-1.243239,44.628925
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle,Koh Praya,6 bis, rue de la Praya,Lège,33950,LEGE-CAP FERRET,+33 5 57 70 71 37,,,,,,-1.164937,44.787758
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle,Le Port d'Attache,19, avenue du Général de Gaulle,Claouey,33950,LEGE-CAP FERRET,+33 5 56 60 70 20,www.leportdattache.eu,,,,,-1.1814594,44.745056
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle,O'jane,5 avenue Jane de Boy,Claouey,33950,LEGE-CAP FERRET,+33 5 57 70 89 32,,,,,,-1.1796001,44.755703
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle,So Phare Away,32, avenue Nord du Phare,Cap Ferret,33970,LEGE-CAP FERRET,+33 5 56 60 22 87,,,,,,-1.248579,44.648598
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle;Poisson / fruits de mer,L'Auberge du Bassin,38, avenue du Général de Gaulle,Claouey,33950,LEGE-CAP FERRET,+33 5 56 60 70 22,www.laubergedubassin.com,,,,,-1.1818671,44.743153
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle;Poisson / fruits de mer,Le Rouf,186 bis, route du Cap Ferret,Le Canon,33950,LEGE-CAP FERRET,+33 5 56 60 56 52,,,,,,-1.22931,44.70115
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle;Tapas,Le Mascaret,17 bis, rue des Goélands,Cap Ferret,33970,LEGE-CAP FERRET,+33 5 56 03 75 74,,,,,,-1.2477421,44.6484
+Restaurant,Cuisine traditionnelle,Poisson / fruits de mer,La Pleine Mer,124, route du Cap Ferret,Piraillan,33950,LEGE-CAP FERRET,+33 5 56 60 54 55,www.restaurant-la-pleine-mer-lege-cap-ferret.com,,,,,-1.2237954,44.709156
+Restaurant,Cuisine traditionnelle;Bistrot / bar à vin,Cuisine gastronomique,Le Sail-Fish,38, rue des Bernaches,Cap Ferret,33970,LEGE-CAP FERRET,+33 5 56 60 44 84,www.chezgreg.fr,,,,,-1.2557029,44.641193
+Restaurant,Cuisine traditionnelle;Bistrot / bar à vin,Poisson / fruits de mer;Cuisine gastronomique,Pinasse Café,allée Bélisaire,Cap Ferret,33970,LEGE-CAP FERRET,+33 5 56 03 77 87,www.pinassecafe.com,,,,,-1.2396311,44.65626
+Restaurant,Cuisine traditionnelle;Brasserie,Cuisine traditionnelle,La Cabane de Chacha,3, chemin de la Forêt,Lège,33950,LEGE-CAP FERRET,+33 5 56 03 63 49,,,,,,-1.1471271,44.795387
+Restaurant,Cuisine traditionnelle;Brasserie,Poisson / fruits de mer,L'Escale,allée Bélisaire,Cap Ferret,33970,LEGE-CAP FERRET,+33 5 56 60 68 17,www.lescale-restaurant.com,,,,,-1.2394595,44.656612
+Restaurant,Cuisine traditionnelle;Brasserie;Bistrot / bar à vin,Cuisine traditionnelle,L'Arkeseon,1, allée du Débarcadère,Le Canon,33950,LEGE-CAP FERRET,+33 5 56 60 80 95,www.larkeseon.com;www.arkeseon.fr.st,,,,,-1.2293529,44.699715
+Restaurant,Cuisine traditionnelle;Pizzeria,Cuisine traditionnelle,La Fleur de Sel,173, route du Cap Ferret,Le Canon,33950,LEGE-CAP FERRET,+33 5 56 60 29 97,,,,,,-1.2300825,44.699684
+Restaurant,Cuisine traditionnelle;Pizzeria,Cuisine traditionnelle,L'Atlantic,20 bis, avenue de Bordeaux,Petit Piquey,33950,LEGE-CAP FERRET,+33 5 56 60 61 41,,,,,,-1.2025737,44.723686
+Restaurant,Cuisine traditionnelle;Restauration rapide,Cuisine traditionnelle,Le Bellevue,allée Louis Gaume,Grand Piquey,33950,LEGE-CAP FERRET,+33 5 56 60 85 20,,,,,,-1.2119293,44.71408
+Restaurant,Grill,Viandes,Chez Fred,15, avenue du Grand Crohot,Lège,33950,LEGE-CAP FERRET,+33 5 57 70 41 74,,,,,,-1.167984,44.791004
+Restaurant,Grill;Cuisine traditionnelle,Cuisine traditionnelle;Viandes,Les Braseros,39, avenue de la Presqu'île,Lège,33950,LEGE-CAP FERRET,+33 5 56 60 15 33,,,,,,-1.1521911,44.79012
+Restaurant,Pizzeria,Cuisine européenne,La Passe Nord,41 avenue Est,Cap Ferret,33970,LEGE-CAP FERRET,+33 5 56 60 69 59,,,,,,-1.2474203,44.623528
+Restaurant,Pizzeria,Cuisine européenne;Cuisine méditerranéenne,Il Giardino,71, boulevard de la Plage,Cap Ferret,33970,LEGE-CAP FERRET,+33 5 56 60 65 22,,,,,,-1.2450385,44.650017
+Restaurant,Pizzeria;Restauration rapide,Cuisine méditerranéenne;Cuisine traditionnelle,La Case à Pizza,43 avenue de la Presqu'Ile,Lège,33950,LEGE-CAP FERRET,+33 6 98 14 31 46,,,,,,-1.1527919,44.79027
+Restaurant,Restauration à thème,Poisson / fruits de mer,Le Bouchon du Ferret,rue des Palmiers - Quartier des Pêcheurs,Cap Ferret,33970,LEGE-CAP FERRET,+33 5 56 60 67 51,,,,,,-1.2457898,44.651585
+Restaurant,Restauration rapide,Poisson / fruits de mer,Clahuîtres,rond-point de Claouey,Claouey,33950,LEGE-CAP FERRET,+33 5 56 60 73 51,,,,,,-1.1810946,44.751305
+Restaurant,Restauration rapide,Sandwichs,Chez Nounours,22, avenue des Goélands,Cap Ferret,33970,LEGE-CAP FERRET,+33 5 56 03 71 62,www.cheznounours.com,,,,,-1.248579,44.64814
+Restaurant,Restauration rapide,Sandwichs,La Route des Plages,2, avenue de la Presqu'île,Lège,33950,LEGE-CAP FERRET,+33 6 60 06 15 61,,,,,,-1.1456251,44.79067
+Restaurant,Restauration rapide,Sandwichs,Le First,avenue du Général de Gaulle,Claouey,33950,LEGE-CAP FERRET,+33 5 56 60 59 81,,,,,,-1.1814594,44.745514
+Restaurant,Restauration rapide;Bistrot / bar à vin,Sandwichs,La Madrague Cap Ferret,61, boulevard de la Plage,,33970,LEGE-CAP FERRET,+33 5 56 60 68 34,,,,,,-1.2448024,44.6504
+Restaurant,Restauration rapide;Bistrot / bar à vin,Sandwichs,Le Café Vert,route Forestière,Le Truc Vert,33950,LEGE-CAP FERRET,+33 5 57 70 75 42,,,,,,-1.2442445,44.71408
+Restaurant,Restauration rapide;Cuisine traditionnelle,Cuisine traditionnelle,Côté Ferret,13, avenue de Bordeaux,Cap Ferret,33970,LEGE-CAP FERRET,+33 5 56 60 40 71,,,,,,-1.2516796,44.658115
+Restaurant,Restauration rapide;Rôtisserie,Cuisine traditionnelle;Sandwichs,Le Stop Eat,Grand Crohot Océan,Lège Océan,33950,LEGE-CAP FERRET,+33 6 63 43 42 88,,,,,,-1.226595,44.79779
+Restaurant,Brasserie,Cuisine traditionnelle,Resto'Café,100, avenue de Bordeaux,,33850,LEOGNAN,+33 5 56 64 52 52,,,,,,-0.5941185,44.745495
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle,Le Pirèques,11, rue de Pirèques,,33850,LEOGNAN,+33 5 56 64 09 44,,,,,,-0.5971745,44.74227
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle;Régionale française,Les Ailes,aérodrome de Léognan Saucats,,33850,LEOGNAN,+33 5 56 64 75 57,,,,,,-0.600171,44.70012
+Restaurant,Cuisine traditionnelle;Brasserie,Cuisine traditionnelle;Régionale française,La Forge,67, avenue du Maréchal Leclerc,,33850,LEOGNAN,+33 5 56 64 11 58,,,,,,-0.6759166,44.738525
+Restaurant,Cuisine traditionnelle;Restauration rapide,Cuisine traditionnelle,L'Eau Berge Bleue,chemin des Terres Rousses,,33850,LEOGNAN,+33 5 56 64 84 45,,,,,,-0.6211303,44.724064
+Restaurant,Restauration rapide,Cuisine traditionnelle;Fromagerie,L'Assiette de l'Epicerie,58 chemin de Branon,,33850,LEOGNAN,+33 5 56 85 83 38,http://lassiettedelepicerie.blogspot.com,,,,,-0.5935084,44.72431
+Restaurant,Cuisine traditionnelle;Pizzeria,Cuisine traditionnelle,L'Olivier,257, boulevard de l'Océan,,33115,PYLA-SUR-MER,+33 5 56 22 13 34,www.restaurant-pyla-sur-mer-l-olivier.com,,,,,-1.2012004,44.614727
+Restaurant,Cuisine traditionnelle;Pizzeria,Poisson / fruits de mer;Cuisine traditionnelle,Le Panorama,Camping Panorama,route de Biscarrosse,33115,PYLA-SUR-MER,+33 5 56 54 40 06,,,,,,-1.2387084,44.556595
+Restaurant,Cuisine traditionnelle;Pizzeria;Restauration rapide,Cuisine traditionnelle,Restaurant du Camping la Forêt,route de Biscarrosse,,33115,PYLA-SUR-MER,+33 5 56 66 36 94,www.village-center.com,,,,,-1.2078094,44.585823
+Restaurant,Cuisine traditionnelle;Pizzeria;Restauration rapide;Grill,Cuisine traditionnelle,La Maison Blanche,route de Biscarrosse,,33115,PYLA-SUR-MER,+33 5 56 22 71 48,,,,,,-1.2356185,44.52968
+Restaurant,Cuisine traditionnelle;Restauration rapide,Cuisine traditionnelle,Le Delta,Camping du Petit Nice,route de Biscarrosse,33115,PYLA-SUR-MER,+33 5 56 22 74 03,,,,,,-1.2538146,44.54644
+Restaurant,Restauration rapide,Sandwichs,Le Grand Large,Parking de la Dune,,33115,PYLA-SUR-MER,+33 5 56 22 76 85,,,,,,-1.1998701,44.59783
+Restaurant,Restauration rapide,Sandwichs;Glaces,La Case à Lolo,Parking de la Dune,,33115,PYLA-SUR-MER,+33 5 56 22 14 99,,,,,,-1.1995697,44.59762
+Restaurant,Restauration rapide;Brasserie;Crêperie,Cuisine traditionnelle;Sandwichs;Poisson / fruits de mer;Viandes,Dune West,Aire d'accueil de la Dune du Pilat,,33115,PYLA-SUR-MER,+33 5 56 22 15 83,,,,,,-1.1990118,44.597893
+Restaurant,Restauration rapide;Cuisine traditionnelle,Cuisine traditionnelle,La Paillote,Camping de la Dune,route de Biscarrosse,33115,PYLA-SUR-MER,+33 5 56 22 14 83,,,,,,-1.2113285,44.5835
+Restaurant,Restauration rapide;Cuisine traditionnelle,Cuisine traditionnelle;Sandwichs,L'Oasis de la Dune,Parking de la Dune,,33115,PYLA-SUR-MER,+33 5 56 22 11 96,,,,,,-1.199913,44.59823
+Restaurant,Restauration rapide;Cuisine traditionnelle,Cuisine traditionnelle;Sandwichs,Snack de la Corniche,Plage de la Corniche,,33115,PYLA-SUR-MER,+33 6 63 67 74 24,,,,,,-1.2132596,44.602203
+Restaurant,Restauration rapide;Cuisine traditionnelle,Sandwichs;Cuisine traditionnelle,La Palombière,parking de la Dune,,33115,PYLA-SUR-MER,+33 5 56 22 78 54,,,,,,-1.1997413,44.598167
+Restaurant,Restauration rapide;Cuisine traditionnelle;Pizzeria,Cuisine traditionnelle;Sandwichs,Magic Pyla,parking de la Dune,,33115,PYLA-SUR-MER,+33 5 56 22 65 74,,,,,,-1.2002563,44.597923
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle,Le Relais Reignacais,Le Bourg,,33860,REIGNAC,+33 5 57 32 41 61,,,,,,-0.5234975,45.268967
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle,Le Savoureux,5 rue de la République,,33860,REIGNAC,+33 5 57 64 30 39,,,,,,-0.5080652,45.233845
+Ferme auberge,Cuisine traditionnelle,Cuisine traditionnelle;Régionale française,Ferme auberge Gauvry,,,33580,RIMONS,+33 5 56 71 83 96,www.bienvenue-a-la-ferme.com/gironde/ferme-ferme-auberge-gauvry-142110/contact_plan_acces,,,Assiette de Pays;Bienvenue à la Ferme,,0.082404,44.65918
+Restaurant,Cuisine traditionnelle,Régionale française;Cuisine gastronomique,Auberge de l'Ancienne Poste,1, place Cazeaux Cazalet,,33410,RIONS,+33 5 56 27 43 31,www.restaurant-rions.com,,,,,-0.318445,44.63532
+Restaurant,Brasserie,Cuisine traditionnelle;Régionale française,Au Bon Coin,Le bourg,,33210,ROAILLAN,+33 5 56 76 66 30,,,,,,-0.282168,44.498726
+Hôtel restaurant,Cuisine traditionnelle,Régionale française;Cuisine traditionnelle;Viandes,L'Auberge de l'Isle,port de Guîtres,,33910,SABLONS,+33 5 57 69 22 58,,,,,,-0.1849222,45.037716
+Restaurant,Cuisine traditionnelle,Régionale française;Cuisine européenne;Cuisine traditionnelle,Le Lary,2 port de Guîtres,Le Deroc,33910,SABLONS,+33 5 57 69 10 32,,,,,,-0.1845359,45.03617
+Restaurant,Brasserie,Cuisine traditionnelle,Le Lorient,57, route départementale 671,Lorient Sadirac,33670,SADIRAC,+33 5 56 30 60 56,,,,,,-0.385087,44.794807
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle,Le ça dira quoi ?,43, route de Créon,lieu-dit le Casse,33670,SADIRAC,+33 5 56 23 74 79,,,,,,-0.4080063,44.781166
+Hôtel restaurant,Cuisine traditionnelle;Brasserie,Cuisine traditionnelle,Restaurant de l'Hôtel de Ville,3 place Raoul Larche,,33240,SAINT-ANDRE-DE-CUBZAC,+33 5 57 43 66 21,,,,,,-0.4465395,44.994484
+Restaurant,Brasserie;Bistrot / bar à vin;Cafétéria;Restauration rapide,Cuisine traditionnelle,Le Bistrot du Marché,17 rue de la Fontaine,,33240,SAINT-ANDRE-DE-CUBZAC,+33 5 24 42 00 07,,,,,,-0.438584,44.995758
+Restaurant,Cafétéria;Crêperie;Grill;Restauration à thème;Rôtisserie;Restauration rapide,Cuisine traditionnelle,Cafétéria Casino,ZAC de la Garosse,centre commercial Géant Casino,33240,SAINT-ANDRE-DE-CUBZAC,+33 5 57 43 60 97,,,,,,-0.4261064,45.010418
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle,Restaurant Ambiance d'Ailleurs,85 rue Nationale,,33240,SAINT-ANDRE-DE-CUBZAC,+33 5 57 43 45 24,,,,,,-0.447986,44.992973
+Restaurant,Grill,Viandes;Régionale française;Poisson / fruits de mer,Le Boeuf Kiri,283 rue Nationale,,33240,SAINT-ANDRE-DE-CUBZAC,+33 5 57 45 38 09,www.leboeufkiri.com,,,,,-0.4372322,45.003994
+Restaurant,Pizzeria,Cuisine méditerranéenne,Le Soleil Levant,204 rue Nationale,,33240,SAINT-ANDRE-DE-CUBZAC,+33 5 57 43 43 94,,,,,,-0.4445493,44.99664
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle;Régionale française;Poisson / fruits de mer,L'Ecluse,Logerie - D10,,33660,SAINT-ANTOINE-SUR-L'ISLE,+33 5 57 49 70 01,,,,,,0.034067,45.028812
+Restaurant,Pizzeria;Cuisine traditionnelle,Cuisine méditerranéenne;Cuisine traditionnelle,Le San Donato,avenue de la Libération,,33660,SAINT-ANTOINE-SUR-L'ISLE,+33 5 57 49 68 50,,,,,,0.0391266,45.02788
+Hôtel restaurant,Cuisine traditionnelle,Cuisine européenne,A l'Etape Blayaise,26 Le Bourg,,33820,SAINT-AUBIN-DE-BLAYE,+33 5 57 32 63 05,,,,,,-0.5608177,45.268967
+Restaurant,Brasserie,Cuisine traditionnelle,Chez Lionel et Carmène,5 le Champ des Aubiers,,33820,SAINT-AUBIN-DE-BLAYE,+33 5 57 32 86 39,,,,,,-0.5607748,45.26433
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle,Le Relais de Roubisque,Roubisque,,33820,SAINT-AUBIN-DE-BLAYE,+33 5 57 64 68 28,,,,,,-0.5713748,45.243107
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle,Ô Minotte,2 Francicot,,33820,SAINT-AUBIN-DE-BLAYE,+33 5 57 58 35 97,,,,,,-0.5623626,45.260586
+Restaurant,Cuisine traditionnelle,Régionale française,Les 4 Saisons,48, rue des 2 Villages,,33220,SAINT-AVIT-SAINT-NAZAIRE,+33 5 57 48 54 42,,,,,,0.2570382,44.85033
+Hôtel restaurant,Cuisine traditionnelle,Cuisine traditionnelle,Hostellerie du Chateau Semens,3, Semens,,33540,SAINT-BRICE,+33 5 56 61 73 74,www.hostellerie-semens.com,,,,,-0.1445338,44.703403
+Hôtel restaurant,Cuisine traditionnelle,Cuisine traditionnelle;Régionale française,L'Auberge du Petit Moulin,7 le Petit Moulin,,33820,SAINT-CAPRAIS-DE-BLAYE,+33 5 57 32 67 21,,,,,,-0.5657529,45.28328
+Restaurant,Cuisine traditionnelle;Pizzeria,Cuisine traditionnelle,L'Epervier,9 Ferchaud,,33820,SAINT-CAPRAIS-DE-BLAYE,+33 5 57 32 99 51,,,,,,-0.5704303,45.2909
+Restaurant,Crêperie;Cuisine traditionnelle;Pizzeria,Cuisine traditionnelle,Le Dynamyc,9, place de l'Eglise,,33920,SAINT-CHRISTOLY-DE-BLAYE,+33 5 57 43 47 92,,,,,,-0.5084985,45.130466
+Restaurant,Cuisine traditionnelle;Pizzeria,Régionale française;Cuisine traditionnelle,Le Restaurant du Lac,Les Lacs du Moulin Blanc,,33920,SAINT-CHRISTOLY-DE-BLAYE,+33 5 57 42 46 83,,,,,,-0.4758292,45.152115
+Restaurant,Cuisine traditionnelle,Régionale française,La Maison du Douanier,1 route de By,,33340,SAINT-CHRISTOLY-MEDOC,+33 5 56 41 35 25,www.maisondudouanier.com,,,,,-0.8213782,45.359924
+Ferme auberge,Cuisine traditionnelle,Cuisine traditionnelle;Régionale française,Ferme auberge Pillet,4, Beytoure,,33230,SAINT-CHRISTOPHE-DE-DOUBLE,+33 5 57 69 52 36,www.bienvenue-a-la-ferme.com/gironde/ferme-auberge/ferme-ferme-de-marie-france-et-patrick-pillet-2653-64205,,,Bienvenue à la Ferme,,0.016565,45.054996
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle,La Forêt,aire nautique et de loisirs,,33230,SAINT-CHRISTOPHE-DE-DOUBLE,+33 5 57 49 50 02,,,,,,0.015391,45.08048
+Restaurant,Cuisine traditionnelle,Régionale française,Auberge du Village,2, Thillet,,33330,SAINT-CHRISTOPHE-DES-BARDES,+33 5 57 74 46 39,,,,,,-0.122234,44.897232
+Restaurant,Bistrot / bar à vin;Pizzeria;Restauration rapide;Cuisine traditionnelle,Cuisine traditionnelle,Le Chat Noir,1, rue Montaigne,,33910,SAINT-CIERS-D'ABZAC,+33 5 57 40 53 10,,,,,,-0.2735424,45.030983
+Hôtel restaurant,Cuisine traditionnelle,Régionale française,La Closerie des Vignes,Village des Arnauds,,33710,SAINT-CIERS-DE-CANESSE,+33 5 57 64 81 90,www.hotel-restaurant-gironde.com,,,Tables et Auberges de France,,-0.6036794,45.099014
+Restaurant,Brasserie;Cuisine traditionnelle,Cuisine traditionnelle,La Guinguette - La Lampe à Pétrole,Port des Callonges,quai d'Orio,33820,SAINT-CIERS-SUR-GIRONDE,+33 5 57 43 22 30,,,,,,-0.6988334,45.285366
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle;Régionale française,Chez Lisou,92 avenue de la République,,33820,SAINT-CIERS-SUR-GIRONDE,+33 5 57 32 60 27,,,,,,-0.6121873,45.29098
+Restaurant,Cuisine traditionnelle;Brasserie,Cuisine traditionnelle,L'Escale,avenue de la République,,33820,SAINT-CIERS-SUR-GIRONDE,+33 5 57 32 60 23,,,,,,-0.610857,45.289986
+Restaurant,Cuisine traditionnelle;Grill,Cuisine traditionnelle;Régionale française;Viandes,Le Drop,6, le Grand,,33430,SAINT-COME,+33 5 56 25 99 34,http://ledrop.free.fr,,,,,-0.1804161,44.424156
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle,Le Haut Mexant,4 route de Guîtres,,33910,SAINT-DENIS-DE-PILE,+33 5 57 25 60 13,,,,,,-0.2004361,44.997963
+Restaurant,Pizzeria,Cuisine méditerranéenne,Pizzeria Mamio,10, route de Paris,,33910,SAINT-DENIS-DE-PILE,+33 5 57 84 26 16,,,,,,-0.2042555,44.994087
+Restaurant,Brasserie;Restauration rapide,Glaces;Sandwichs;Viandes,Le Montécrucien,22 le Bourg Est,,33410,SAINTE-CROIX-DU-MONT,+33 5 56 62 09 60,,,,,,-0.2803663,44.592953
+Restaurant,Brasserie;Restauration à thème,Cuisine traditionnelle,Pub Brasserie Le Beau Zinc,38, boulevard Charles Garrau,,33220,SAINTE-FOY-LA-GRANDE,+33 5 57 46 47 69,www.publebeauzinc.com,,,,,0.2206707,44.839622
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle;Cuisine végétarienne,Les Sarments,36, rue Jean-Jacques Rousseau,,33220,SAINTE-FOY-LA-GRANDE,+33 5 57 46 10 27,,,,,,0.2183187,44.841652
+Restaurant,Cuisine traditionnelle,Cuisine végétarienne;Régionale française,Restaurant de la Tour,89, rue de la République,,33220,SAINTE-FOY-LA-GRANDE,+33 5 57 46 00 22,,,,,,0.2178992,44.842094
+Restaurant,Cuisine traditionnelle,Régionale française;Cuisine traditionnelle,Côté Bastide,4, rue de l'Abattoir,,33220,SAINTE-FOY-LA-GRANDE,+33 5 57 46 14 02,,,,,,0.22255897,44.84032
+Restaurant,Cuisine traditionnelle;Pizzeria,Cuisine traditionnelle,Restaurant Luceti,46 rue Victor Hugo,,33220,SAINTE-FOY-LA-GRANDE,+33 5 57 41 24 50,www.restaurant-luceti.com,,,,,0.2171027,44.84104
+Restaurant,Restauration rapide;Cuisine traditionnelle,Cuisine traditionnelle,Plaisir Gourmand,87, rue Victor Hugo,,33220,SAINTE-FOY-LA-GRANDE,+33 5 57 46 55 98,,,,,,0.2176379,44.83973
+Hôtel restaurant,Cuisine traditionnelle,Cuisine gastronomique,Hostellerie de Plaisance,place du Clocher,,33330,SAINT-EMILION,+33 5 57 55 07 55,www.hostelleriedeplaisance.com,,,,,-0.1564869,44.89366
+Hôtel restaurant,Cuisine traditionnelle,Cuisine traditionnelle,Le Snacking de l'Hostellerie de Plaisance,place du Clocher,,33330,SAINT-EMILION,+33 5 57 55 07 55,www.hostelleriedeplaisance.com,,,,,-0.1564869,44.89366
+Hôtel restaurant,Cuisine traditionnelle,Cuisine traditionnelle,Palais Cardinal,place du 11 novembre 1918,,33330,SAINT-EMILION,+33 5 57 24 72 39,www.palais-cardinal.com,,,,,-0.155729,44.894386
+Restaurant,Bistrot / bar à vin,Cuisine traditionnelle,Chai Pascal,37, rue Guadet,,33330,SAINT-EMILION,+33 5 57 24 52 45,www.chai-pascal.com,,,,,-0.1554386,44.893177
+Restaurant,Bistrot / bar à vin,Cuisine traditionnelle;Régionale française,Bistrot Le Clocher,3 place du Clocher,,33330,SAINT-EMILION,+33 5 57 74 43 04,,,,,,-0.1551689,44.893867
+Restaurant,Crêperie,Régionale française,Crêperie Bretonne Le Trouher,49, rue Guadet,,33330,SAINT-EMILION,+33 5 57 74 48 05,,,,,,-0.1547104,44.89208
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle,Le Bar de la Poste,place de l'Eglise Monolithe,,33330,SAINT-EMILION,+33 5 57 24 70 76,www.restaurant-st-emilion.fr,,,,,-0.155729,44.894386
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle,Le Bouchon,place de l'Eglise Monolithe,,33330,SAINT-EMILION,+33 5 57 24 62 81,www.restaurant-st-emilion.fr,,,,,-0.155729,44.894386
+Restaurant,Cuisine traditionnelle;Bistrot / bar à vin,Cuisine traditionnelle,Amelia Canta,2, place de l'Eglise Monolithe,,33330,SAINT-EMILION,+33 5 57 74 48 03,www.ameliacanta.com,,,,,-0.1561566,44.893066
+Restaurant,Cuisine traditionnelle;Bistrot / bar à vin,Cuisine traditionnelle,Lard et Bouchon,22, rue Guadet,,33330,SAINT-EMILION,+33 5 57 24 28 53,www.lardetbouchon.fr,,,,,-0.1550156,44.893852
+Restaurant,Pizzeria,Cuisine méditerranéenne,Pizzéria du Vieux Lavoir,49, rue Guadet,,33330,SAINT-EMILION,+33 5 57 24 70 76,,,,,,-0.1547104,44.89208
+Hôtel restaurant,Cuisine traditionnelle,Cuisine gastronomique;Cuisine traditionnelle,Château de Sanse,,,33350,SAINTE-RADEGONDE,+33 5 57 56 41 10,www.chateaudesanse.com,,,,,0.05055427,44.79871
+Restaurant,Crêperie;Cuisine traditionnelle,Régionale française,Crêp'salad,2, route de Castillon,,33350,SAINTE-TERRE,+33 5 57 47 11 70,www.crepsalad.com,,,,,-0.1119017,44.828697
+Restaurant,Grill,Cuisine traditionnelle,Restaurant Grill de la Plage,,,33350,SAINTE-TERRE,+33 5 57 47 14 38,,,,,,-0.1082754,44.82326
+Restaurant,Pizzeria,Cuisine méditerranéenne,Pizza Pilino,,,33350,SAINTE-TERRE,+33 5 57 47 41 53,,,,,,-0.1118373,44.82883
+Restaurant,Bistrot / bar à vin,Cuisine traditionnelle,Le Comptoir de Genès,5, La Croix,,33350,SAINT-GENES-DE-CASTILLON,+33 5 57 47 90 03,www.comptoirdegenes.com,,,,,-0.062932,44.897987
+Restaurant,Cuisine traditionnelle,Régionale française;Cuisine traditionnelle,Chez Carles,Maison du Pays Fronsadais,1, avenue Charles de Gaulle,33240,SAINT-GERMAIN-DE-LA-RIVIERE,+33 5 57 84 44 50,www.chezcarles.com,,,Maître Restaurateur,,-0.3277873,44.945515
+Restaurant,Pizzeria,Cuisine européenne,Croc pizzas,place de l'Eglise,,33340,SAINT-GERMAIN-D'ESTEUIL,+33 5 56 09 48 03,,,,,,-0.8660316,45.28969
+Restaurant,Cuisine traditionnelle,Cuisine gastronomique;Poisson / fruits de mer,Au Sarment,50 rue de la Lande,,33240,SAINT-GERVAIS,+33 5 57 43 44 73,www.au-sarment.com,,,,,-0.4608625,45.017696
+Restaurant,Cuisine traditionnelle,Régionale française,Restaurant du Château,rue de la Lande,,33240,SAINT-GERVAIS,+33 5 57 43 04 36,www.restaurantduchateau.net,,,,,-0.4638826,45.01835
+Restaurant,Brasserie,Cuisine traditionnelle,Le Colibri,11, Grand Rue,,33250,SAINT-JULIEN-BEYCHEVELLE,+33 5 56 73 72 97,,,,,,-0.7447957,45.147377
+Restaurant,Cuisine traditionnelle,Régionale française,Le Relais,,30 rue de Saint Julien,33250,SAINT-JULIEN-BEYCHEVELLE,+33 5 56 47 83 92 56,,,,,,-0.7419819,45.165947
+Restaurant,Cuisine traditionnelle,Régionale française;Cuisine gastronomique,Le Saint-Julien,11, rue Saint Julien,,33250,SAINT-JULIEN-BEYCHEVELLE,+33 5 56 59 63 87,www.le-saint-julien.fr,,,,,-0.7381439,45.162796
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle,Aux Amis Réunis,3 place de l'Eglise,,33240,SAINT-LAURENT-D'ARCE,+33 5 57 43 03 09,,,,,,-0.4713821,45.034912
+Hôtel restaurant,Cuisine traditionnelle,Cuisine traditionnelle,Le Saint Laurent,43 rue du Général de Gaulle,,33112,SAINT-LAURENT-MEDOC,+33 5 56 59 40 29,,,,,,-0.8232112,45.152542
+Restaurant,Pizzeria;Cuisine traditionnelle,Cuisine européenne,Pizzeria "Chez Freddo",3, rue du Général de Gaulle,,33112,SAINT-LAURENT-MEDOC,+33 5 56 59 46 96,,,,,,-0.8220165,45.1506
+Hôtel restaurant,Cuisine traditionnelle,Cuisine traditionnelle,Le Pampaillet,5, rue de l'Eglise,,33490,SAINT-MACAIRE,+33 5 56 62 33 75,www.feuilles-dacanthe.fr,,,,,-0.2267271,44.564705
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle;Cuisine gastronomique,L'Abricotier,2, rue Bergoeing,RD 1113,33490,SAINT-MACAIRE,+33 5 56 76 83 63,www.restaurant-labricotier.com,,,,,-0.2277731,44.567894
+Restaurant,Cuisine traditionnelle;Restauration à thème,Poisson / fruits de mer;Régionale française,Le Médiéval,16, allée des Tilleuls,,33490,SAINT-MACAIRE,+33 5 56 62 28 38,www.tilleul-medieval.com,,,,,-0.2260177,44.5656
+Restaurant,Pizzeria,Cuisine européenne,Pizzeria de l'Horloge,4, place du Général de Gaulle,,33490,SAINT-MACAIRE,+33 5 56 63 03 39,,,,,,-0.2269014,44.565178
+Restaurant,Restauration à thème,Cuisine méditerranéenne,La Perle de l'Atlas,4, rue du Canton,,33490,SAINT-MACAIRE,+33 5 56 76 83 79,,,,,,-0.2271222,44.565105
+Hôtel restaurant,Cuisine traditionnelle,Régionale française;Cuisine traditionnelle,L'Olifant,Avenue de Mercure,,33390,SAINT-MARTIN-LACAUSSADE,+33 5 57 42 22 96,www.hotel-blaye-lolifant.com,,,,,-0.6443309,45.129955
+Hôtel restaurant,Cuisine traditionnelle,Cuisine traditionnelle;Régionale française,Le Saint-Clément,5, rue de la République,,33230,SAINT-MEDARD-DE-GUIZIERES,+33 5 57 69 60 14,http://hotel-restaurant-st-clement.com ,Logis,1 cheminée;2 cocottes,,,-0.0488778,45.015038
+Restaurant,Bistrot / bar à vin;Cuisine traditionnelle,Cuisine traditionnelle,Les Délices de la Fontaine,40 rue de la République,,33230,SAINT-MEDARD-DE-GUIZIERES,+33 5 57 47 11 24,,,,,,-0.0534867,45.015038
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle,L'Antre deux,134, rue de la République,,33230,SAINT-MEDARD-DE-GUIZIERES,+33 5 57 74 99 98,,,,,,-0.0537297,45.014954
+Restaurant,Pizzeria;Cuisine traditionnelle,Cuisine traditionnelle,El Christobal,95, rue de la République,,33230,SAINT-MEDARD-DE-GUIZIERES,+33 5 57 41 21 54,,,,,,-0.0581344,45.01562
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle;Régionale française,L'Auberge'Inn,3, route de Castres,,33650,SAINT-MORILLON,+33 5 56 20 34 09,,,,,,-0.5036973,44.65054
+Restaurant,Cuisine traditionnelle,Régionale française;Cuisine traditionnelle,L'Auberge Gasconne,,,33350,SAINT-PEY-DE-CASTETS,+33 5 57 40 52 08,,,,,,-0.063755,44.81377
+Restaurant,Pizzeria;Cuisine traditionnelle,Cuisine traditionnelle,Le Rialto,24, rue Célestin Joubert,,33920,SAINT-SAVIN,+33 5 57 58 05 26,www.restaurant-le-rialto.fr,,,,,-0.4474782,45.140015
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle,Le Saint Hubert,18, Grand'Rue,,33650,SAINT-SELVE,+33 5 56 20 27 81,,,,,,-0.4800708,44.671513
+Restaurant,Cuisine traditionnelle,Régionale française,Le Restaurant du Parc,Domaine de Grenade,,33650,SAINT-SELVE,+33 5 56 78 50 40,www.domainedegrenade.com,,,,,-0.456,44.63156
+Restaurant,Restauration rapide,Cuisine traditionnelle,Au Petit Encas,Départementale 669,,33710,SAINT-SEURIN-DE-BOURG,+33 6 10 46 47 23,,,,,,-0.5812454,45.048904
+Hôtel restaurant,Cuisine traditionnelle,Régionale française,La Renaissance,67, route de Saint-Malo,,33390,SAINT-SEURIN-DE-CURSAC,+33 5 57 42 94 28,www.larenaissance33.com,Logis,1 cheminée;2 cocottes,,,-0.623048,45.160442
+Hôtel restaurant,Cuisine traditionnelle,Régionale française;Cuisine traditionnelle,Château Isabeau de Naujan,,,33420,SAINT-VINCENT-DE-PERTIGNAS,+33 5 57 55 14 30,www.domaine-de-naujan.com,,,,,-0.11244,44.79761
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle,L'Auberge de la Forêt,22, route de la Forêt,,33370,SALLEBOEUF,+33 5 56 21 25 49,www.auberge-laforet.com,,,,,-0.386585,44.837246
+Hôtel restaurant,Cuisine traditionnelle,Régionale française;Cuisine traditionnelle,Domaine du Pont de l'Eyre,2, route de Minoy,,33770,SALLES,+33 5 56 88 35 00,www.domainedupontdeleyre.eu,Logis,2 cheminées;2 cocottes,Qualité Tourisme,,-0.87432,44.5459
+Restaurant,Cuisine traditionnelle,Cuisine gastronomique,Le Saprien,14, rue Principale,,33210,SAUTERNES,+33 5 56 76 60 87,http://saprien.free.fr,,,,,-0.343035,44.5331
+Hôtel restaurant,Cuisine traditionnelle,Cuisine traditionnelle,Le Guyenne,route de Libourne,,33540,SAUVETERRE-DE-GUYENNE,+33 5 56 71 54 92,,,,,,-0.0886631,44.69477
+Restaurant,Cuisine traditionnelle;Brasserie,Cuisine traditionnelle,Restaurant des Arcades,23, place de la République,,33540,SAUVETERRE-DE-GUYENNE,+33 5 56 71 50 21,,,,,,-0.085957,44.692955
+Restaurant,Pizzeria;Cuisine traditionnelle,Cuisine méditerranéenne,La Tosca,14, place de la République,,33540,SAUVETERRE-DE-GUYENNE,+33 5 56 71 69 34,,,,,,-0.085957,44.692955
+Hôtel restaurant,Brasserie,Cuisine traditionnelle,Le Neptune,12, rue de la Plage,,33780,SOULAC-SUR-MER,+33 5 56 73 32 50,www.hotelneptune.fr,,,,,-1.1264823,45.51555
+Hôtel restaurant,Cuisine traditionnelle,Cuisine gastronomique;Poisson / fruits de mer;Régionale française,Hôtel des Pins,92, boulevard de l'Amélie,,33780,SOULAC-SUR-MER,+33 5 56 73 27 27,www.hotel-des-pins.com,Logis,3 cheminées;3 cocottes,Qualité Tourisme,,-1.149805,45.484074
+Restaurant,Bistrot / bar à vin,Cuisine traditionnelle;Cuisine européenne,Le Panier de Bécassine,41, rue Trouche,,33780,SOULAC-SUR-MER,#REF !,,,,,,-1.123839,45.51213
+Restaurant,Brasserie,Cuisine traditionnelle,Brasserie de la Plage,plage centrale,,33780,SOULAC-SUR-MER,+33 6 77 56 28 78,,,,,,-1.1288452,45.513084
+Restaurant,Cuisine traditionnelle,Poisson / fruits de mer,Le Grill Océan,Front de mer,,33780,SOULAC-SUR-MER,+33 5 56 09 86 64,,,,,,-1.1278152,45.51465
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle,Restaurant Café du Midi,Canton ouest,,33790,SOUSSAC,+33 5 56 61 38 44,,,,,,0.02081394,44.731705
+Restaurant,Pizzeria,Cuisine européenne,Pili-Pili,18, place de l'église,,33760,TARGON,+33 5 56 23 48 89,,,,,,-0.2630366,44.734207
+Restaurant,Brasserie,Cuisine européenne,La Villa Tresses,75, avenue de Branne,,33370,TRESSES,+33 5 56 74 35 21,,,,,,-0.4948616,44.840977
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle,Domaine de la Perrière,16, chemin Perrière,,33370,TRESSES,+33 5 56 21 25 05,www.restaurant-la-perriere.com,,,,,-0.4911698,44.83541
+Hôtel restaurant,Cuisine traditionnelle,Cuisine traditionnelle,Le Bon Duc,16, route de Paris,,33500,LES BILLAUX,+33 5 57 51 25 98,www.lebonduc.fr,Logis,2 cheminées;2 cocottes,,,-0.2323386,44.951427
+Restaurant,Cuisine traditionnelle;Pizzeria,Cuisine traditionnelle,Dolce Vita,15, Rolland,,33230,LES PEINTURES,+33 5 57 49 00 64,,,,,,-0.082889,45.073093
+Restaurant,Restauration rapide,Sandwichs,Kebab Chez Nabil,22 rue Jean-Jacques Rousseau,,33340,LESPARRE-MEDOC,+33 6 19 52 97 83,,,,,,-0.9396434,45.306778
+Restaurant,Restauration rapide,Sandwichs,Mc Donald,cours du Général de Gaulle,Parking carrefour,33340,LESPARRE-MEDOC,+33 5 56 41 16 16,,,,,,-0.93961,45.31077
+Hôtel restaurant,Cuisine traditionnelle,Régionale française,La Tour du Vieux Port,23, quai Souchet,,33500,LIBOURNE,+33 5 57 25 75 56,www.latourduvieuxport.fr,Logis,2 cheminées;2 cocottes,Qualité Tourisme,,-0.2470649,44.916634
+Restaurant,Cuisine traditionnelle,Cuisine gastronomique;Poisson / fruits de mer,Chez Servais,14, place Decazes,,33500,LIBOURNE,+33 5 57 51 83 97,,,,,,-0.240178,44.915985
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle,Cosy Tourny,12 cours Tourny,,33500,LIBOURNE,+33 5 57 51 68 91,,,,,,-0.2407105,44.911915
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle,Grill de l'Etrier,21, place Decazes,,33500,LIBOURNE,+33 5 57 51 26 99,,,,,,-0.2397871,44.915646
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle,Le Chez Nous,78, rue Waldeck Rousseau,,33500,LIBOURNE,+33 5 57 51 54 42,,,,,,-0.2438133,44.915363
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle,Le Faim Gourmet,40 rue Fonneuve,,33500,LIBOURNE,+33 5 57 24 92 65,,,,,,-0.2465868,44.91456
+Restaurant,Cuisine traditionnelle,Régionale française,Auberge des Treilles,11, rue des Treilles,,33500,LIBOURNE,+33 5 57 51 54 91,,,,,,-0.2383453,44.91563
+Restaurant,Grill,Cuisine traditionnelle,Le Restaurant du Lac,rue de Schwandorf,,33500,LIBOURNE,+33 5 57 25 00 56,lerestaurantdulaclibourne@orange.fr,,,,,-0.2441307,44.946842
+Restaurant,Pizzeria,Cuisine méditerranéenne,La Calabre,45, cours Tourny,,33500,LIBOURNE,+33 5 57 25 07 05,,,,,,-0.2405912,44.913307
+Restaurant,Restauration à thème,Cuisine méditerranéenne,La Fontana,43, avenue Galliéni,,33500,LIBOURNE,+33 5 57 51 81 97,,,,,,-0.2381491,44.91274
+Restaurant,Restauration rapide,Cuisine traditionnelle,Le Mascaret Chez Rossi,La Palus de Condat,,33500,LIBOURNE,+33 5 57 84 79 10,,,,,,-0.241729,44.897877
+Restaurant,Brasserie,Régionale française;Cuisine traditionnelle,Le Bistrot de la Pimpine,1, chemin du Bon Coin,,33360,LIGNAN-DE-BORDEAUX,+33 5 56 78 38 81,,,,,,-0.415939,44.7986
+Hôtel restaurant,Cuisine traditionnelle,Régionale française,La Bonne Auberge,1, rue Champs de Seuze,,33830,LUGOS,+33 5 57 71 95 28,www.labonneauberge-lugos.com,Logis,1 cheminée;3 cocottes,,,-0.882236,44.481464
+Restaurant,Crêperie,Régionale française,Le Moulin de Charlot,12, Charlot Sud,,33620,MARCENAIS,+33 5 57 69 04 10,http://moulin-de-charlot.jimdo.com/,,,,,-0.3293752,45.06361
+Hôtel restaurant,Brasserie,Régionale française;Cuisine traditionnelle,La Brasserie du Lac,Le Relais de Margaux,5, route de l'Ile Vincent,33460,MARGAUX,+33 5 57 88 87 60,www.relais-margaux.fr,,,,,-0.6583213,45.05422
+Restaurant,Cuisine traditionnelle,Régionale française;Cuisine traditionnelle,Le Clarexis,2, chemin Terrier,,33620,MARSAS,+33 5 57 68 08 04,www.clarexis.fr,,,,,-0.3785347,45.07093
+Restaurant,Brasserie,Cuisine traditionnelle,Tendance 64,avenue Charles de Gaulle,,33650,MARTILLAC,+33 5 56 72 07 65,,,,,,-0.5438262,44.711956
+Restaurant,Brasserie,Sandwichs;Cuisine traditionnelle,Le Refuge,place du Cordon d'Or,,33650,MARTILLAC,+33 5 56 31 42 25,,,,,,-0.5293824,44.722847
+Restaurant,Cuisine traditionnelle,Cuisine gastronomique;Cuisine diététique,La Grand' Vigne,Les Sources de Caudalie,chemin de Smith Haut Lafitte,33650,MARTILLAC,+33 5 57 83 83 83,www.sources-caudalie.com,,,Maître Restaurateur,,-0.5587363,44.73062
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle,La Table du Lavoir,Les Sources de Caudalie,chemin de Smith Haut Lafitte,33650,MARTILLAC,+33 5 57 83 83 83,www.sources-caudalie.com,,,Maître Restaurateur,,-0.557743,44.73093
+Restaurant,Cuisine traditionnelle,Régionale française;Cuisine traditionnelle,Le Pistou,8, avenue Charles de Gaulle,,33650,MARTILLAC,+33 5 56 72 00 00,www.restaurantlepistou.com,,,,,-0.543003,44.71311
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle,Le Relais de Sensey,route de Bazas,2 Sensey,33210,MAZERES,+33 5 56 76 12 11,www.lerelaisdesensey.fr,,,Maître Restaurateur,,-0.238218,44.502132
+Hôtel restaurant,Cuisine traditionnelle,Cuisine traditionnelle,La Fleur de Sel,Hôtel l'Etoile Bleue,51 route Jean Briaud,33700,MERIGNAC,+33 5 56 15 30 62,www.lecocq-traiteur.fr,Cuisineries gourmandes,,Maître Restaurateur,,-0.6720208,44.823982
+Restaurant,Cuisine traditionnelle,Cuisine gastronomique,L'Iguane,83, avenue J.F. Kennedy,,33700,MERIGNAC,+33 5 56 34 07 39,www.liguane.fr,,,,,-0.6820558,44.835533
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle,L'Eveil,15 avenue de l'Alouette,,33700,MERIGNAC,+33 5 56 34 27 71,www.resto-eveil.fr,,,,,-0.6643141,44.8274
+Restaurant,Restauration à thème;Cuisine traditionnelle,Poisson / fruits de mer,Amarine,37 avenue J.F. Kennedy,,33700,MERIGNAC,+33 5 56 34 23 24,http://www.amarine.fr/amarine_restaurant.asp?idRestaurant=307&isPlan=1,,,Maître Restaurateur,,-0.6673876,44.833748
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle,KesKis'Mijotte,20 bourg Sud,,33190,MONGAUZY,+33 5 56 61 02 87,,,,,,0.032722,44.567192
+Restaurant,Cuisine traditionnelle;Bistrot / bar à vin,Cuisine traditionnelle,Le Grand Cep,26 place Robert Darniche,,33580,MONSEGUR,+33 5 56 61 60 28,www.le-grand-cep.fr,,,,,0.0808097,44.650116
+Restaurant,Pizzeria;Cuisine traditionnelle,Cuisine traditionnelle,Les Colonnes,36 bis, place Robert Darniche,,33580,MONSEGUR,+33 5 56 71 41 17,www.restaurant-lescolonnes.com,,,,,0.08067011,44.650497
+Restaurant,Brasserie,Cuisine traditionnelle,La Guinguette du Lac,27, route du Milieu,,33350,MOULIETS-ET-VILLEMARTIN,+33 5 57 49 75 01,,,,,,-0.0145123,44.83303
+Restaurant,Cuisine traditionnelle;Bistrot / bar à vin,Cuisine traditionnelle,La Table Rouge,66 bis avenue de la Dordogne,,33350,MOULIETS-ET-VILLEMARTIN,+33 5 57 48 51 15,www.latablerouge.com,,,,,-0.0047157,44.846428
+Restaurant,Grill;Cuisine traditionnelle,Cuisine traditionnelle,La Plage,2, rue Saint Exupéry,,33350,MOULIETS-ET-VILLEMARTIN,+33 5 57 40 35 48,www.restaurant-guinguette-la-plage-castillon.com,,,,,-0.0428841,44.849598
+Restaurant,Brasserie;Cuisine traditionnelle,Cuisine traditionnelle,Café de la Liberté,11, place Gambetta,,33550,PAILLET,+33 5 56 72 34 34,www.caruso33.net/Cafe_de_la_Liberte.html,,,,,-0.3551407,44.650486
+Hôtel restaurant,Cuisine traditionnelle,Cuisine gastronomique,Château de Cordeillan-Bages,Route des Châteaux,,33250,PAUILLAC,+33 5 56 59 24 24,www.cordeillanbages.com,,,Maître Restaurateur,,-0.7510828,45.188572
+Hôtel restaurant,Cuisine traditionnelle,Régionale française;Cuisine traditionnelle,Hôtel de France et d'Angleterre,3, quai Albert Pichon,,33250,PAUILLAC,+33 5 56 59 01 20,www.hoteldefrance-angleterre.com,Logis,2 cheminées;2 cocottes,,,-0.745366,45.19776
+Restaurant,Bistrot / bar à vin,Tapas,La Rotonde,Quai de Pauillac,,33250,PAUILLAC,+33 5 56 41 32 05,,,,,,-0.7448387,45.19825
+Restaurant,Brasserie;Cuisine traditionnelle,Cuisine traditionnelle;Régionale française,Le Pauillac,2, quai Albert Pichon,,33250,PAUILLAC,+33 5 56 59 19 20,,,,,,-0.7453966,45.197857
+Restaurant,Brasserie;Cuisine traditionnelle;Pizzeria;Crêperie,Cuisine traditionnelle,Le Restaurant du Vignoble,3 quai Alber Pichon,,33250,PAUILLAC,+33 5 56 59 01 20,,,,,,-0.745359,45.197712
+Restaurant,Brasserie;Cuisine traditionnelle;Pizzeria;Crêperie,Cuisine traditionnelle,La Salamandre,15/16, quai Léon Perrier,,33250,PAUILLAC,+33 5 56 59 24 87,,,,Tables et Auberges de France,,-0.7454609,45.19802
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle,Don Camillo,2, quai Léon Périer,,33250,PAUILLAC,+33 5 56 73 96 55,,,,,,-0.7459115,45.19921
+Restaurant,Cuisine traditionnelle,Poisson / fruits de mer;Régionale française,Le Saint Martin,5, quai Léon Perrier,,33250,PAUILLAC,+33 5 56 59 19 82,www.restaurant-lesaintmartin.com,,,,,-0.7457613,45.1989
+Restaurant,Cuisine traditionnelle;Bistrot / bar à vin,Cuisine traditionnelle,Café Lavinal,Village de Bages,place Desquet,33250,PAUILLAC,+33 5 57 75 00 09,www.villagedebages.com,,,Maître Restaurateur,,-0.7547414,45.190807
+Restaurant,Pizzeria;Cuisine traditionnelle,Cuisine méditerranéenne,Pizzeria La Toscane,28, rue Aristide Briand,,33250,PAUILLAC,+33 5 56 59 17 91,,,,,,-0.7473536,45.19892
+Restaurant,Restauration rapide,Sandwichs,Le panier du monde,7 cours Victor Hugo,,33250,PAUILLAC,+33 5 56 59 67 42,,,,,,-0.7488862,45.199203
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle,Chez Mireille,place du 8 mai 1945,,33790,PELLEGRUE,+33 5 56 61 30 11,,,,,,0.075902,44.743637
+Hôtel restaurant,Cuisine traditionnelle;Bistrot / bar à vin;Brasserie,Cuisine traditionnelle;Régionale française;Cuisine bio,Le Bistrot 14,Holiday Inn Bordeaux Sud Pessac,10 avenue Antoine Becquerel,33600,PESSAC,+33 5 56 07 59 60,www.holiday-inn.com/pessac,,,,,-0.6460419,44.787918
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle;Cuisine gastronomique,Le Cohé,8, avenue Roger-Cohé,,33600,PESSAC,+33 5 56 45 73 72,www.le-cohe.com,,,,,-0.6314777,44.806496
+Restaurant,Cuisine traditionnelle,Régionale française,L'Auberge du Pressoir,Queyrai,,33570,PETIT-PALAIS-ET-CORNEMPS,+33 5 57 69 85 19,www.campinglepressoir.com,,,,,-0.0642338,44.9998
+Restaurant,Cuisine traditionnelle;Restauration à thème;Brasserie;Pizzeria,Cuisine méditerranéenne;Cuisine traditionnelle,L'Aoucat,9 place Jean Jaurès,,33240,PEUJARD,+33 5 57 68 78 19,www.restaurant-laoucat.jimdo.com,,,,,-0.4231023,45.043343
+Restaurant,Restauration à thème,Cuisine asiatique,Le Mékong,13 route de Bergerac,ZAE Arbalestrier,33220,PINEUILH,+33 5 57 46 27 90,,,,,,0.2428243,44.84152
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle;Cuisine gastronomique,L'Auberge du Saint Christophe,1 Bel Air,RD 137,33820,PLEINE-SELVE,+33 5 57 64 50 85,,,,,,-0.5773399,45.324512
+Hôtel restaurant,Cuisine traditionnelle,Cuisine traditionnelle,Le Rapin,35 route des Graves,,33640,PORTETS,+33 5 56 67 51 31,www.hotelrapin.fr,,,,,-0.418269,44.68878
+Restaurant,Cuisine traditionnelle,Régionale française;Cuisine traditionnelle,Restaurant Chez Pitras,11 rue de l'Egalité,,33730,PRECHAC,+33 5 56 65 20 70,,,,,,-0.3535697,44.400494
+Restaurant,Restauration à thème,Cuisine bio,Restaurant La Bastide,1 Moureson,,33730,PRECHAC,+33 5 56 65 21 17,http://labastide.info,,,,,-0.4212733,44.392
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle,Le Lorelei,1, rue Fassier,,33710,PUGNAC,+33 5 57 68 89 50,,,,,,-0.5194365,45.0898
+Restaurant,Cuisine traditionnelle;Restauration à thème,Tartes,La Popote de l'Antiquaire,5 rue des Anciens Combattants,,33710,PUGNAC,+33 6 22 90 74 61;+33 6 25 40 90 72,,,,,,-0.4958224,45.082687
+Restaurant,Restauration à thème,Cuisine européenne,La Trattoria Lesca'l,Parc de Bellevue,,33710,PUGNAC,+33 5 57 42 31 52,,,,,,-0.4959082,45.074326
+Hôtel restaurant,Cuisine traditionnelle,Régionale française;Cuisine traditionnelle,Hostellerie du Château de Roques,Roques,,33570,PUISSEGUIN,+33 5 57 74 55 69,www.chateau-de-roques.com,Logis,2 cheminées;2 cocottes,Qualité Tourisme,,-0.070231,44.946747
+Restaurant,Cuisine traditionnelle,Cuisine gastronomique;Cuisine traditionnelle,La Poudette,Bernadigot,,33350,PUJOLS,+33 5 57 40 71 52,www.la-poudette.com,,,,,-0.031247,44.80774
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle,Chez Sylvie,le bourg,,33350,PUJOLS,+33 5 57 40 50 10,,,,,,-0.0312587,44.807674
+Restaurant,Restauration rapide,Sandwichs,Le Snack-Café de la Sally,Plage de la Salie Nord,route de Biscarrosse,33115,PYLA SUR MER,+33 5 56 22 78 72,,,,,,-1.2496948,44.514133
+Hôtel restaurant,Cuisine traditionnelle,Cuisine traditionnelle;Poisson / fruits de mer,La Guitoune,95, boulevard de l'Océan,,33115,PYLA-SUR-MER,+33 5 56 22 20 00,www.laguitoune.com,,,,,-1.2023377,44.630062
+Hôtel restaurant,Cuisine traditionnelle,Poisson / fruits de mer;Régionale française;Cuisine gastronomique,Côte du Sud,4, avenue du Figuier,,33115,PYLA-SUR-MER,+33 5 56 83 25 00,www.cote-du-sud.com,,,,,-1.203411,44.63243
+Hôtel restaurant,Cuisine traditionnelle;Bistrot / bar à vin;Brasserie,Cuisine européenne;Régionale française;Poisson / fruits de mer;Tapas,La Co(o)rniche,46, avenue Louis Gaume,,33115,PYLA-SUR-MER,+33 5 56 22 72 11,www.lacoorniche-pyla.com,,,,,-1.210062,44.602036
+Hôtel restaurant,Cuisine traditionnelle;Grill,Cuisine traditionnelle;Poisson / fruits de mer;Régionale française;Tapas,Etche Ona,255, boulevard de l'Océan,,33115,PYLA-SUR-MER,+33 5 56 22 72 18,www.etche-ona.com,,,,,-1.2023768,44.612362
+Restaurant,Bistrot / bar à vin,Cuisine traditionnelle,Les Goëlands "Bal à Papa",242, boulevard de l'Océan,,33115,PYLA-SUR-MER,+33 5 56 22 73 70,www.lesgoelanfspyla.com,,,,,-1.2023465,44.61253
+Restaurant,Brasserie;Cuisine traditionnelle;Pizzeria,Cuisine traditionnelle;Viandes;Tapas,Pyla Café,Pyla Camping,route de Biscarrosse,33115,PYLA-SUR-MER,+33 6 83 37 68 76,,,,,,-1.2194824,44.575794
+Restaurant,Cuisine traditionnelle,Cuisine gastronomique;Poisson / fruits de mer,L'Authentic d'Eric Thore,35, boulevard de l'Océan,,33115,PYLA-SUR-MER,+33 5 56 54 07 94,,,,,,-1.2017583,44.635498
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle,La Cabane,65, boulevard de l'Océan,,33115,PYLA-SUR-MER,+33 5 56 54 50 67,,,,,,-1.2021875,44.63321
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle;Poisson / fruits de mer;Régionale française,La Salie Sud,Plage de la Salie Sud,route de Biscarrosse,33115,PYLA-SUR-MER,+33 5 56 22 12 49,,,,,,-1.2498664,44.521725
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle;Poisson / fruits de mer;Régionale française,Le Petit Nice Sud,Plage du Petit Nice,route de Biscarrosse,33115,PYLA-SUR-MER,+33 5 56 22 17 69,,,,,,-1.2466049,44.537632
+Restaurant,Cuisine traditionnelle;Brasserie;Pizzeria,Cuisine traditionnelle;Régionale française;Sandwichs;Glaces,Aux Deux Chênes,56, boulevard de l'Océan,,33115,PYLA-SUR-MER,+33 5 57 72 00 68,,,,,,-1.2025737,44.6329
+Restaurant,Cuisine traditionnelle;Grill,Cuisine traditionnelle;Poisson / fruits de mer,Chez Aldo,Plage du Petit Nice,route de Biscarrosse,33115,PYLA-SUR-MER,+33 5 56 22 17 72,,,,,,-1.2503814,44.55268
+Restaurant,Cuisine traditionnelle;Grill,Cuisine traditionnelle;Poisson / fruits de mer,Haïtza,place Louis Gaume,,33115,PYLA-SUR-MER,+33 5 56 22 92 99,,,,,,-1.2064361,44.607212
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle,Les Pieds sous la Table,route de Branne,,33370,TRESSES,+33 5 56 68 34 35,,,,Maître Restaurateur,,-0.4749852,44.833187
+Restaurant,Pizzeria,Cuisine européenne,Banbino Pizz,60, avenue de Branne,,33370,TRESSES,+33 5 56 21 14 05,www.bambinopizz.fr,,,,,-0.4868172,44.837578
+Hôtel restaurant,Cuisine traditionnelle,Régionale française,Le Vatel d'Aurélie,Grand Cazeau,,33870,VAYRES,+33 5 57 74 80 79,www.gangloff-vatel-hotel.ic-sites.com,Logis,2 cheminées;2 cocottes,Qualité Tourisme,,-0.336627,44.883087
+Hôtel restaurant,Bistrot / bar à vin;Cuisine traditionnelle,Poisson / fruits de mer;Cuisine traditionnelle,Restaurant La Plage,27 boulevard du Front de Mer,,33930,VENDAYS-MONTALIVET,+33 5 56 41 58 01,www.hotellocean.com,,,,,-1.1582616,45.37821
+Hôtel restaurant,Cuisine traditionnelle,Cuisine gastronomique;Cuisine traditionnelle,Restaurant Chez Gilles & Marika,1 route de Lesparre,,33930,VENDAYS-MONTALIVET,+33 5 56 41 70 34,www.chezgillesetmarika.com,,,,,-1.0595872,45.356087
+Hôtel restaurant,Cuisine traditionnelle,Poisson / fruits de mer;Régionale française;Cuisine traditionnelle,Restaurant Le Marin,18 avenue de l'Océan,,33930,VENDAYS-MONTALIVET,+33 5 56 41 46 33,www.restaurantlemarin.fr,,,,,-1.1560904,45.378147
+Hôtel restaurant,Cuisine traditionnelle,Régionale française;Cuisine traditionnelle,L'Arberet,32, route de Soulac,,33930,VENDAYS-MONTALIVET,+33 5 56 41 71 29,www.larberet.com,Logis,2 cheminées;2 cocottes,Qualité Tourisme,,-1.065667,45.359314
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle;Cuisine gastronomique,Le Nord Sud,30, les Allées,,33490,VERDELAIS,+33 5 56 62 10 45,www.lenordsud.com,,,,,-0.2508509,44.588215
+Restaurant,Crêperie,Régionale française,La crêperie "V",,5 rue de l'Abbaye,33180,VERTHEUIL,+33 5 56 41 25 12,www.le-v-en-vertheuil.com,,,,,-0.8346195,45.2506
+Hôtel restaurant,Cuisine traditionnelle,Cuisine gastronomique,Domaine du Roi Kysmar,Les étangs de Guiret,,33730,VILLANDRAUT,+33 5 56 25 33 91,www.tourisme-gironde.com,,,,,-0.373185,44.457752
+Hôtel restaurant,Cuisine traditionnelle,Régionale française;Cuisine gastronomique,Auberge La Crémaillère,8, place du Général de Gaulle,,33730,VILLANDRAUT,+33 5 56 25 30 67,www.aubergelacremaillere.com,Logis,2 cheminées;2 cocottes,Qualité Tourisme;Tables et Auberges de France,,-0.372817,44.45843
+Hôtel restaurant,Cuisine traditionnelle,Régionale française;Cuisine traditionnelle,La Renaissance,6, place Gambetta,,33730,VILLANDRAUT,+33 5 56 25 31 25,www.logishotels.com/fr/hotel-Hotel-La-Renaissance-13132.html ,Logis,2 cheminées;1 cocotte,,,-0.3712661,44.45878
+Restaurant,Bistrot / bar à vin;Brasserie;Pizzeria,Cuisine traditionnelle,Le Médiéval,8 place Gambetta,,33730,VILLANDRAUT,+33 5 56 25 81 05,,,,,,-0.3709829,44.458527
+Restaurant,Cuisine traditionnelle;Grill,Régionale française;Cuisine traditionnelle,Le Villagosia,4 route des Palombes,,33141,VILLEGOUGE,+33 5 57 84 40 50,,,,,,-0.3084003,44.966854
+Restaurant,Cuisine traditionnelle,Cuisine traditionnelle,O Secret des Chou'x,1, lieu dit Roque de Thau,,33710,VILLENEUVE,+33 5 57 68 19 11,,,,,,-0.6374751,45.078224

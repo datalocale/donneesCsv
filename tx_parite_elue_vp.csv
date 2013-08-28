@@ -1,0 +1,101 @@
+CODE,LB_DEPARTEMENTS,TAUX_FEMMES
+1,Ain,10,59%
+2,Aisne,10,72%
+3,Allier,17,47%
+4,Alpes Haute Provence,9,88%
+5,Hautes Alpes ,13,60%
+6,Alpes Maritimes,10,57%
+7,Ardèches,10,79%
+8,Ardennes ,14,46%
+9,Ariège,15,89%
+10,Aube,14,46%
+11,Aude ,13,04%
+12,Aveyron ,16,32%
+13,Bouches du Rhône,13,05%
+14,Calvados,15,39%
+15,Cantal,7,55%
+16,Charente,14,54%
+17,Charente Maritime ,12,65%
+18,Cher,11,91%
+19,Corrèze,12,25%
+2A,Corse du Sud,8,72%
+2B,Haute Corse,14,48%
+21,Côtes d'Armor,16,34%
+22,Côtes d'or,17,76%
+23,Creuse,12,35%
+24,Dordogne,12,10%
+25,Doubs,14,14%
+26,Drôme,12,04%
+27,Eure,13,46%
+28,Eure-et-Loire,22,82%
+29,Finistère,16,38%
+30,Gard,17,81%
+31,Haute Garonne,13,30%
+32,Gers,13,50%
+33,Gironde,13,66%
+34,Hérault,11,15%
+35,Ille et Vilaine,15,73%
+36,Indre ,14,29%
+37,Indre et Loire,9,20%
+38,Isère,16,87%
+39,Jura,16,69%
+40,Landes,16,38%
+41,Loir et Cher,17,60%
+42,Loire,11,25%
+43,Haute Loire,16,22%
+44,Loire Atlantique,17,97%
+45,Loiret,13,85%
+46,Lot,12,89%
+47,Lot et Garonne,11,90%
+48,Lozère,13,05%
+49,Maine et Loire,15,67%
+50,Manche,16,24%
+51,Marne,13,53%
+52,Haute Marne,14,41%
+53,Mayenne,11,38%
+54,Meurthe et Moselle,12,08%
+55,Meuse,11,18%
+56,Morbihan,9,32%
+57,Moselle,11,39%
+58,Nièvre,18,01%
+59,Nord,11,61%
+60,Oise,11,11%
+61,Orne,14,95%
+62,Pas de Calais,11,74%
+63,Puy de Dôme,15,13%
+64,Pyrénées Atlantiques,15,59%
+65,Hautes Pyrénées,12,48%
+66,Pyrénées Orientales,10,48%
+67,Bas Rhin,11,95%
+68,Haut Rhin,15,14%
+69,Rhône,18,81%
+70,Haute Saone,16,48%
+71,Saone et Loire,17,83%
+72,Sarthe,8,05%
+73,Savoie,18,91%
+74,Haute Savoie,16,74%
+75,Paris,6,30%
+76,Seine Maritime,15,35%
+77,Seine et Marne,10,06%
+78,Yvelines,14,61%
+79,Deux Sèvres,14,46%
+80,Somme,6,94%
+81,Tarn,12,56%
+82,Tarn et Garonne,8,18%
+83,Var,10,55%
+84,Vaucluse,17,80%
+85,Vendée,13,36%
+86,Vienne,8,42%
+87,Haute Vienne,16,09%
+88,Vosges,14,21%
+89,Yonne,23,55%
+90,Territoire de Belfort,13,52%
+91,Essonne,18,98%
+92,Hauts de Seine,16,66%
+93,Seine St Denis,17,50%
+94,Val de Marne,6,29%
+95,Val d'Oise,15,79%
+F,Moyenne France Métro,13,75%
+,,
+min,valeur min,6,29%
+max,valeur max,23,55%

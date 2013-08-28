@@ -1,0 +1,16 @@
+TYPE,RAISON_SOCIALE,ADRESSE,ADRESSE_SUITE,CODE_POSTAL,COMMUNE,TELEPHONE,SITE_WEB,LABELS,LONGITUDE,LATITUDE
+Golf,Golf de Teynac,Domaine de Teynac,,33750,BEYCHAC-ET-CAILLAU,+33 5 56 72 85 62,www.golf-teynac.com,,-0.365605,44.858913
+Golf,Golf Bordelais,allée François Arago,domaine de Kater,33200,BORDEAUX,+33 5 56 28 56 04,www.golf-bordelais.fr,,-0.633287,44.86755
+Golf,Golf de Bordeaux Lac,avenue de Pernon,,33300,BORDEAUX,+33 5 56 50 92 72,www.bluegreen.com/bordeaux,Famille Plus,-0.573964,44.9075
+Golf,Golf de Gujan,route de Sanguinet,,33470,GUJAN-MESTRAS,+33 5 57 52 73 73,www.bluegreen.com/gujan,,-1.0905218,44.60344
+Golf,Golf International d'Arcachon,35 boulevard d'Arcachon,,33260,LA TESTE-DE-BUCH,+33 5 56 54 44 00,www.golfarcachon.org,,-1.1724042,44.63678
+Golf,Golfs du Baganais et de la Méjanne,Centre UCPA,chemin du Manchet,33680,LACANAU OCEAN,+33 5 56 03 28 80,http://lacanau.ucpa.com,Famille Plus,-1.1589342,45.00465
+Golf,Golf International de Lacanau Océan,Domaine de l'Ardilouse,,33680,LACANAU OCEAN,+33 5 56 03 92 98,www.golflacanau.com,Famille Plus,-1.1712455,45.001225
+Golf,Golf des Aiguilles Vertes,route de Bordeaux,Cassy,33138,LANTON,+33 5 56 82 95 71,www.golf-aiguillesvertes.com,,-1.0275541,44.740677
+Golf,Golf du Médoc,1366 chemin de Courmateau,Louens,33290,LE PIAN-MEDOC,+33 5 56 70 11 90,www.hotel-golf-du-medoc.com,,-0.703714,44.945076
+Golf,Golf du Domaine Résidentiel Naturiste La Jenny,route de la Jenny,,33680,LE PORGE,+33 5 56 26 56 90,http://lajenny.fr,,-1.2131309,44.851124
+Golf,Cap Golf Practice,Domaine du Four,Claouey,33950,LEGE-CAP FERRET,+33 6 08 06 27 77,www.cap-golf.com,,-1.1989688,44.73217
+Golf,Garden Golf de Margaux,5 route de l'Ile Vincent,,33460,MARGAUX,+33 5 57 88 87 40,www.gardengolfmargaux.com,,-0.6693077,45.043327
+Golf,Golf de Pessac,rue de la Princesse,,33600,PESSAC,+33 5 57 26 03 33,www.bluegreen.com/pessac,,-0.712889,44.79316
+Golf,Golf des Graves et du Sauternais,Lac de Seguin,,33210,SAINT-PARDON-DE-CONQUES,+33 5 56 62 25 43,www.golf-des-graves.com,,-0.1901858,44.536793
+Golf,Golf de Bordeaux-Cameyrac,,,33450,SAINT-SULPICE-ET-CAMEYRAC,+33 5 56 72 96 79,www.golf-bordeaux-cameyrac.com,,-0.392191,44.91011

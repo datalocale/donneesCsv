@@ -1,0 +1,64 @@
+CANTON_4CAR,CANTON_2CAR,CANTON_2NUM,CANTON_LIBMIN,CANTON_LIBMAJ,ARR_V3CAR,ARR_V1CAR,ARR_LIBMIN,COMPOS_TYPE_CODE,COMPOS_TYPE_LIB,CHEFLIEU,TNC_CODE,TNC_ARTMAJ,TNC_CHARNMAJ,TNC_LIBMAJ,TNC_ARTMIN,TNC_CHARNMIN,TNC_LIBMIN,ELU_MR_MME,ELU_NOM,ELU_PRENOM
+3332,32,32,Monségur,MONSEGUR,333,3,Langon,1,canton composé de commune(s) entière(s),33289,0,,DE,MONSEGUR,,de,Monségur,Monsieur,DUSSAUT,BERNARD
+3333,33,33,Pauillac,PAUILLAC,334,4,Lesparre Médoc,1,canton composé de commune(s) entière(s),33314,0,,DE,PAUILLAC,,de,Pauillac,Monsieur,HOURNAU,SEBASTIEN
+3334,34,34,Pellegrue,PELLEGRUE,333,3,Langon,1,canton composé de commune(s) entière(s),33316,0,,DE,PELLEGRUE,,de,Pellegrue,Monsieur,BLUTEAU,JOSE
+3335,35,35,Pessac  1er Canton,PESSAC  1ER CANTON,332,2,Bordeaux,4,canton composé d'une fraction de commune,33318,0,,DE,PESSAC 1ER CANTON,,de,Pessac 1er Canton,Madame,CARNUS,EDITH
+3336,36,36,Podensac,PODENSAC,333,3,Langon,1,canton composé de commune(s) entière(s),33327,0,,DE,PODENSAC,,de,Podensac,Monsieur,GILLE,HERVE
+3337,37,37,Pujols,PUJOLS,335,5,Libourne,1,canton composé de commune(s) entière(s),33344,0,,DE,PUJOLS,,de,Pujols,Madame,PRADET,LILIANE
+3338,38,38,Réole (La),REOLE (LA),333,3,Langon,1,canton composé de commune(s) entière(s),33352,3,LA,DE LA,REOLE,la,de la,Réole,Monsieur,CASTAGNET,BERNARD
+3339,39,39,Saint-André-de-Cubzac,SAINT-ANDRE-DE-CUBZAC,331,1,Blaye,1,canton composé de commune(s) entière(s),33366,0,,DE,SAINT-ANDRE-DE-CUBZAC,,de,Saint-André-de-Cubzac,Monsieur,MAUGEIN,JACQUES
+3340,40,40,Saint-Ciers-sur-Gironde,SAINT-CIERS-SUR-GIRONDE,331,1,Blaye,1,canton composé de commune(s) entière(s),33389,0,,DE,SAINT-CIERS-SUR-GIRONDE,,de,Saint-Ciers-sur-Gironde,Monsieur,PLISSON,PHILIPPE
+3341,41,41,Sainte-Foy-la-Grande,SAINTE-FOY-LA-GRANDE,335,5,Libourne,1,canton composé de commune(s) entière(s),33402,0,,DE,SAINTE-FOY-LA-GRANDE,,de,Sainte-Foy-la-Grande,Monsieur,PROVAIN,ROBERT
+3342,42,42,Saint-Laurent-Médoc,SAINT-LAURENT-MEDOC,334,4,Lesparre Médoc,1,canton composé de commune(s) entière(s),33424,0,,DE,SAINT-LAURENT-MEDOC,,de,Saint-Laurent-Médoc,Monsieur,BIROT,Christophe
+3343,43,43,Saint-Macaire,SAINT-MACAIRE,333,3,Langon,1,canton composé de commune(s) entière(s),33435,0,,DE,SAINT-MACAIRE,,de,Saint-Macaire,Monsieur,HILAIRE,MICHEL
+3344,44,44,Saint-Savin,SAINT-SAVIN,331,1,Blaye,1,canton composé de commune(s) entière(s),33473,0,,DE,SAINT-SAVIN,,de,Saint-Savin,Monsieur,RENARD,ALAIN
+3345,45,45,Saint-Symphorien,SAINT-SYMPHORIEN,333,3,Langon,1,canton composé de commune(s) entière(s),33484,0,,DE,SAINT-SYMPHORIEN,,de,Saint-Symphorien,Monsieur,CARREYRE,PHILIPPE
+3346,46,46,Saint-Vivien-de-Médoc,SAINT-VIVIEN-DE-MEDOC,334,4,Lesparre Médoc,1,canton composé de commune(s) entière(s),33490,0,,DE,SAINT-VIVIEN-DE-MEDOC,,de,Saint-Vivien-de-Médoc,Monsieur,LAPORTE,JEAN SERGE
+3347,47,47,Sauveterre-de-Guyenne,SAUVETERRE-DE-GUYENNE,333,3,Langon,1,canton composé de commune(s) entière(s),33506,0,,DE,SAUVETERRE-DE-GUYENNE,,de,Sauveterre-de-Guyenne,Monsieur,DE PONTON D'AMECOURT,YVES
+3348,48,48,Targon,TARGON,333,3,Langon,1,canton composé de commune(s) entière(s),33523,0,,DE,TARGON,,de,Targon,Monsieur,LEVEAU,ALAIN
+3349,49,49,Teste-de-Buch (La),TESTE-DE-BUCH (LA),336,6,Arcachon,1,canton composé de commune(s) entière(s),33529,3,LA,DE LA,TESTE-DE-BUCH,la,de la,Teste-de-Buch,Monsieur,CHAUVET,JACQUES
+3350,50,50,Villandraut,VILLANDRAUT,333,3,Langon,1,canton composé de commune(s) entière(s),33547,0,,DE,VILLANDRAUT,,de,Villandraut,Madame,SERVAND,ISABELLE
+3351,51,51,Mérignac  1er Canton,MERIGNAC  1ER CANTON,332,2,Bordeaux,4,canton composé d'une fraction de commune,33281,0,,DE,MERIGNAC 1ER CANTON,,de,Mérignac 1er Canton,Monsieur,CHARRIER,ALAIN
+3352,52,52,Bègles,BEGLES,332,2,Bordeaux,1,canton composé de commune(s) entière(s),33039,0,,DE,BEGLES,,de,Bègles,Monsieur,PARIS,JEAN-JACQUES
+3353,53,53,Bordeaux  8e  Canton,BORDEAUX  8E  CANTON,332,2,Bordeaux,4,canton composé d'une fraction de commune,33063,0,,DE,BORDEAUX 8E CANTON,,de,Bordeaux 8e Canton,Monsieur,LOTHAIRE,PIERRE
+3354,54,54,Bouscat (Le),BOUSCAT (LE),332,2,Bordeaux,1,canton composé de commune(s) entière(s),33069,2,LE,DU,BOUSCAT,le,du,Bouscat,Monsieur,VINCENT,DOMINIQUE
+3355,55,55,Cenon,CENON,332,2,Bordeaux,1,canton composé de commune(s) entière(s),33119,0,,DE,CENON,,de,Cenon,Monsieur,DAVID,ALAIN
+3356,56,56,Talence,TALENCE,332,2,Bordeaux,1,canton composé de commune(s) entière(s),33522,0,,DE,TALENCE,,de,Talence,Monsieur,SAVARY,GILLES
+3357,57,57,Villenave-d'Ornon,VILLENAVE-D'ORNON,332,2,Bordeaux,1,canton composé de commune(s) entière(s),33550,0,,DE,VILLENAVE-D'ORNON,,de,Villenave-d'Ornon,Madame,JARDINE,MARTINE
+3358,58,58,Floirac,FLOIRAC,332,2,Bordeaux,1,canton composé de commune(s) entière(s),33167,0,,DE,FLOIRAC,,de,Floirac,Monsieur,SOUBIE,JEAN-PIERRE
+3359,59,59,Gradignan,GRADIGNAN,332,2,Bordeaux,1,canton composé de commune(s) entière(s),33192,0,,DE,GRADIGNAN,,de,Gradignan,Madame,LACOSTE,ANNE-MARIE
+3360,60,60,Lormont,LORMONT,332,2,Bordeaux,1,canton composé de commune(s) entière(s),33249,0,,DE,LORMONT,,de,Lormont,Monsieur,TOUZEAU,JEAN
+3361,61,61,Mérignac  2e  Canton,MERIGNAC  2E  CANTON,332,2,Bordeaux,2,canton composé d'une fraction d'une commune et de communes entières,33281,0,,DE,MERIGNAC 2E CANTON,,de,Mérignac 2e Canton,Monsieur,FERGEAU,JACQUES
+3362,62,62,Pessac  2e  Canton,PESSAC  2E  CANTON,332,2,Bordeaux,4,canton composé d'une fraction de commune,33318,0,,DE,PESSAC 2E CANTON,,de,Pessac 2e Canton,Monsieur,BENOIT,JEAN-JACQUES
+3363,63,63,Saint-Médard-en-Jalles,SAINT-MEDARD-EN-JALLES,332,2,Bordeaux,1,canton composé de commune(s) entière(s),33449,0,,DE,SAINT-MEDARD-EN-JALLES,,de,Saint-Médard-en-Jalles,Monsieur,LAMAISON,SERGE
+3301,01,1,Arcachon,ARCACHON,336,6,Arcachon,1,canton composé de commune(s) entière(s),33009,1,,D',ARCACHON,,d',Arcachon,Madame,LERAISNABLE,YVETTE
+3302,02,2,Audenge,AUDENGE,336,6,Arcachon,1,canton composé de commune(s) entière(s),33019,1,,D',AUDENGE,,d',Audenge,Monsieur,GAUBERT,CHRISTIAN
+3303,03,3,Auros,AUROS,333,3,Langon,1,canton composé de commune(s) entière(s),33021,1,,D',AUROS,,d',Auros,Monsieur,ZAGHET,FRANCIS
+3304,04,4,Bazas,BAZAS,333,3,Langon,1,canton composé de commune(s) entière(s),33036,0,,DE,BAZAS,,de,Bazas,Monsieur,DARREMONT,JEAN
+3305,05,5,Belin-Béliet,BELIN-BELIET,336,6,Arcachon,1,canton composé de commune(s) entière(s),33042,0,,DE,BELIN-BELIET,,de,Belin-Béliet,Monsieur,NUCHY,vincent
+3306,06,6,Blanquefort,BLANQUEFORT,332,2,Bordeaux,1,canton composé de commune(s) entière(s),33056,0,,DE,BLANQUEFORT,,de,Blanquefort,Mademoiselle,BOST,CHRISTINE
+3307,07,7,Blaye,BLAYE,331,1,Blaye,1,canton composé de commune(s) entière(s),33058,0,,DE,BLAYE,,de,Blaye,Monsieur,LORIAUD,XAVIER
+3308,08,8,Bordeaux  1er Canton,BORDEAUX  1ER CANTON,332,2,Bordeaux,4,canton composé d'une fraction de commune,33063,0,,DE,BORDEAUX 1ER CANTON,,de,Bordeaux 1er Canton,Monsieur,DORTHE,PHILIPPE
+3309,09,9,Bordeaux  2e  Canton,BORDEAUX  2E  CANTON,332,2,Bordeaux,4,canton composé d'une fraction de commune,33063,0,,DE,BORDEAUX 2E CANTON,,de,Bordeaux 2e Canton,Monsieur,BORTHURY,JEAN BAPTISTE
+3310,10,10,Bordeaux  3e  Canton,BORDEAUX  3E  CANTON,332,2,Bordeaux,4,canton composé d'une fraction de commune,33063,0,,DE,BORDEAUX 3E CANTON,,de,Bordeaux 3e Canton,Monsieur,DUCHENE,MICHEL
+3311,11,11,Bordeaux  4e  Canton,BORDEAUX  4E  CANTON,332,2,Bordeaux,4,canton composé d'une fraction de commune,33063,0,,DE,BORDEAUX 4E CANTON,,de,Bordeaux 4e Canton,Monsieur,DAVID,JEAN-LOUIS
+3312,12,12,Bordeaux  5e  Canton,BORDEAUX  5E  CANTON,332,2,Bordeaux,4,canton composé d'une fraction de commune,33063,0,,DE,BORDEAUX 5E CANTON,,de,Bordeaux 5e Canton,Monsieur,ROUVEYRE,MATTHIEU
+3313,13,13,Bordeaux  6e  Canton,BORDEAUX  6E  CANTON,332,2,Bordeaux,4,canton composé d'une fraction de commune,33063,0,,DE,BORDEAUX 6E CANTON,,de,Bordeaux 6e Canton,Monsieur,RESPAUD,JACQUES
+3314,14,14,Bordeaux  7e  Canton,BORDEAUX  7E  CANTON,332,2,Bordeaux,4,canton composé d'une fraction de commune,33063,0,,DE,BORDEAUX 7E CANTON,,de,Bordeaux 7e Canton,Monsieur,JAULT,DANIEL
+3315,15,15,Bourg,BOURG,331,1,Blaye,1,canton composé de commune(s) entière(s),33067,0,,DE,BOURG,,de,Bourg,Monsieur,JEAN-JEAN,MAX
+3316,16,16,Branne,BRANNE,335,5,Libourne,1,canton composé de commune(s) entière(s),33071,0,,DE,BRANNE,,de,Branne,Monsieur,MUR,CHRISTIAN
+3317,17,17,Cadillac,CADILLAC,333,3,Langon,1,canton composé de commune(s) entière(s),33081,0,,DE,CADILLAC,,de,Cadillac,Monsieur,MORENO,GUY
+3318,18,18,Captieux,CAPTIEUX,333,3,Langon,1,canton composé de commune(s) entière(s),33095,0,,DE,CAPTIEUX,,de,Captieux,Monsieur,GLEYZE,JEAN LUC
+3319,19,19,Carbon-Blanc,CARBON-BLANC,332,2,Bordeaux,1,canton composé de commune(s) entière(s),33096,0,,DE,CARBON-BLANC,,de,Carbon-Blanc,Monsieur,MADRELLE,PHILIPPE
+3320,20,20,Castelnau-de-Médoc,CASTELNAU-DE-MEDOC,334,4,Lesparre Médoc,1,canton composé de commune(s) entière(s),33104,0,,DE,CASTELNAU-DE-MEDOC,,de,Castelnau-de-Médoc,Madame,GOT,Pascale
+3321,21,21,Castillon-la-Bataille,CASTILLON-LA-BATAILLE,335,5,Libourne,1,canton composé de commune(s) entière(s),33108,0,,DE,CASTILLON-LA-BATAILLE,,de,Castillon-la-Bataille,Monsieur,MARTY,GUY
+3322,22,22,Coutras,COUTRAS,335,5,Libourne,1,canton composé de commune(s) entière(s),33138,0,,DE,COUTRAS,,de,Coutras,Monsieur,BARRAU,PIERRE
+3323,23,23,Créon,CREON,332,2,Bordeaux,1,canton composé de commune(s) entière(s),33140,0,,DE,CREON,,de,Créon,Monsieur,DARMIAN,JEAN-MARIE
+3324,24,24,Fronsac,FRONSAC,335,5,Libourne,1,canton composé de commune(s) entière(s),33174,0,,DE,FRONSAC,,de,Fronsac,Monsieur,FROUIN,MICHEL
+3325,25,25,Grignols,GRIGNOLS,333,3,Langon,1,canton composé de commune(s) entière(s),33195,0,,DE,GRIGNOLS,,de,Grignols,Monsieur,BAILLE,JEAN-PIERRE
+3326,26,26,Guîtres,GUITRES,335,5,Libourne,1,canton composé de commune(s) entière(s),33198,0,,DE,GUITRES,,de,Guîtres,Monsieur,MAROIS,ALAIN
+3327,27,27,Brède (La),BREDE (LA),332,2,Bordeaux,1,canton composé de commune(s) entière(s),33213,3,LA,DE LA,BREDE,la,de la,Brède,Monsieur,FATH,BERNARD
+3328,28,28,Langon,LANGON,333,3,Langon,1,canton composé de commune(s) entière(s),33227,0,,DE,LANGON,,de,Langon,Monsieur,AUGEY,PIERRE
+3329,29,29,Lesparre-Médoc,LESPARRE-MEDOC,334,4,Lesparre Médoc,1,canton composé de commune(s) entière(s),33240,0,,DE,LESPARRE-MEDOC,,de,Lesparre-Médoc,Monsieur,MAGENTIES,FRANCIS
+3330,30,30,Libourne,LIBOURNE,335,5,Libourne,1,canton composé de commune(s) entière(s),33243,0,,DE,LIBOURNE,,de,Libourne,Madame,HARDY,Isabelle
+3331,31,31,Lussac,LUSSAC,335,5,Libourne,1,canton composé de commune(s) entière(s),33261,0,,DE,LUSSAC,,de,Lussac,Monsieur,YERLES,PIERRE
